@@ -1,0 +1,140 @@
+\documentclass[a4paper,11pt]{article} 
+\usepackage[utf8]{inputenc}
+\usepackage{microtype} %improves justification
+\usepackage{graphicx}
+\usepackage{changepage}
+\usepackage{wrapfig}
+\usepackage{enumitem}
+\usepackage{fancyhdr} % header
+\usepackage{amsmath} % math formulas
+\usepackage{index}
+\usepackage{setspace} % Required for line spacing control
+\usepackage{longtable} % for a table with multiple pages
+\usepackage{microtype}
+\microtypesetup{expansion=false}  % Disable font expansion to avoid errors
+
+
+% 1.5 space between lines
+\onehalfspacing
+
+\usepackage{anyfontsize}
+\fontsize{12}{14}\selectfont 
+ 
+
+\usepackage{float}  % Import the float package
+\usepackage[backend=biber, sorting=none,style=apa,citestyle=numeric]{biblatex}
+\addbibresource{library.bib}
+
+\microtypesetup{protrusion=false}
+
+\usepackage[paper=a4paper, top=2.5cm, bottom=2.5cm, left=2.5cm, right=2.5cm]{geometry}
+\usepackage{multicol}
+%\usepackage{indentfirst}
+\usepackage{bm}
+\newcommand{\bfitDelta}{\bm{\mathit{\Delta}}}
+\usepackage{caption}
+% \numberwithin{equation}{section}
+\usepackage{blindtext}
+
+\newcommand\tabitem{\setlength{\itemindent}{1cm}}
+\newcommand\tabtabitem{\setlength{\itemindent}{2cm}}
+
+\usepackage[normalem]{ulem}
+
+\usepackage{xcolor}
+\pagestyle{fancy}
+\fancyhf{}
+\rfoot{\thepage}
+
+\setlength\parindent{24pt}
+\newcommand\tab[1][0.8cm]{\hspace*{#1}}
+
+\renewcommand{\headrulewidth}{0pt}
+\usepackage{afterpage}
+
+\usepackage{appendix}
+
+
+
+
+
+\begin{document}
+    
+\input{title}
+
+\input{black-and-white.tex}
+
+\pagebreak
+
+
+
+
+\newgeometry{top=2.5cm, left=2.5cm, right=2.5 cm, bottom=2.5cm}
+\pagenumbering{roman}
+
+
+\setcounter{secnumdepth}{-1}
+
+
+
+\section*{Copyright and Terms of Use by Third Parties}
+\input{copyright}
+
+\section*{Acknowledgements}
+\input{0-Acknowledgements}
+
+\section*{Abstract}
+\input{1-Abstract}
+
+\section*{Statement of Integrity}
+\input{statement-of-integrity}
+
+\renewcommand{\contentsname}{Contents}        % ÍNDICE
+\tableofcontents
+\newpage
+
+\input{figures-list}
+
+\addcontentsline{toc}{section}{Index}
+
+\setcounter{secnumdepth}{3}
+\pagebreak
+
+
+\pagenumbering{arabic}
+\section{Introduction}
+\input{2-Introduction}
+
+
+
+
+\section{State of Art}
+
+\input{3-Art-state}
+
+
+\section{Methodologies and Tools}
+\input{4-Methodologies-and-tools}
+
+\section{Use cases}
+\input{5-Use-cases}
+
+
+\section{Discussion}
+\input{6-Discussion}
+
+
+\section{Conclusions}
+
+\input{7-Conclusions}
+
+
+\section{References}
+\input{8-References}
+
+
+
+\section{Appendix I - Abstract of Submitted Articles}
+\input{9-AppendixI-AbstractofSubmittedArticles}
+
+\end{document}
