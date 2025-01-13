@@ -1,14 +1,15 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024/Arch Linux) (preloaded format=pdflatex 2024.10.20)  29 OCT 2024 16:45
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2025.1.11)  13 JAN 2025 08:49
 entering extended mode
  restricted \write18 enabled.
+ file:line:error style messages enabled.
  %&-line parsing enabled.
 **main.tex
 (./main.tex
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-02-20>
-(/usr/share/texmf-dist/tex/latex/base/article.cls
+(/usr/local/texlive/2024/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2023/05/17 v1.4n Standard LaTeX document class
-(/usr/share/texmf-dist/tex/latex/base/size11.clo
+(/usr/local/texlive/2024/texmf-dist/tex/latex/base/size11.clo
 File: size11.clo 2023/05/17 v1.4n Standard LaTeX file (size option)
 )
 \c@part=\count188
@@ -23,19 +24,19 @@ File: size11.clo 2023/05/17 v1.4n Standard LaTeX file (size option)
 \belowcaptionskip=\skip49
 \bibindent=\dimen140
 )
-(/usr/share/texmf-dist/tex/latex/base/inputenc.sty
+(/usr/local/texlive/2024/texmf-dist/tex/latex/base/inputenc.sty
 Package: inputenc 2021/02/14 v1.3d Input encoding file
 \inpenc@prehook=\toks17
 \inpenc@posthook=\toks18
 )
-(/usr/share/texmf-dist/tex/latex/microtype/microtype.sty
+(/usr/local/texlive/2024/texmf-dist/tex/latex/microtype/microtype.sty
 Package: microtype 2023/03/13 v3.1a Micro-typographical refinements (RS)
 
-(/usr/share/texmf-dist/tex/latex/graphics/keyval.sty
+(/usr/local/texlive/2024/texmf-dist/tex/latex/graphics/keyval.sty
 Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
 \KV@toks@=\toks19
 )
-(/usr/share/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+(/usr/local/texlive/2024/texmf-dist/tex/latex/etoolbox/etoolbox.sty
 Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
 \etb@tempcnta=\count196
 )
@@ -51,7 +52,7 @@ LaTeX Info: Redefining \textls on input line 1368.
 LaTeX Info: Redefining \textmicrotypecontext on input line 1988.
 \MT@listname@count=\count198
 
-(/usr/share/texmf-dist/tex/latex/microtype/microtype-pdftex.def
+(/usr/local/texlive/2024/texmf-dist/tex/latex/microtype/microtype-pdftex.def
 File: microtype-pdftex.def 2023/03/13 v3.1a Definitions specific to pdftex (RS)
 
 LaTeX Info: Redefining \lsstyle on input line 902.
@@ -60,35 +61,35 @@ LaTeX Info: Redefining \lslig on input line 902.
 )
 Package microtype Info: Loading configuration file microtype.cfg.
 
-(/usr/share/texmf-dist/tex/latex/microtype/microtype.cfg
+(/usr/local/texlive/2024/texmf-dist/tex/latex/microtype/microtype.cfg
 File: microtype.cfg 2023/03/13 v3.1a microtype main configuration file (RS)
 ))
-(/usr/share/texmf-dist/tex/latex/graphics/graphicx.sty
+(/usr/local/texlive/2024/texmf-dist/tex/latex/graphics/graphicx.sty
 Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
 
-(/usr/share/texmf-dist/tex/latex/graphics/graphics.sty
+(/usr/local/texlive/2024/texmf-dist/tex/latex/graphics/graphics.sty
 Package: graphics 2022/03/10 v1.4e Standard LaTeX Graphics (DPC,SPQR)
 
-(/usr/share/texmf-dist/tex/latex/graphics/trig.sty
+(/usr/local/texlive/2024/texmf-dist/tex/latex/graphics/trig.sty
 Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
 )
-(/usr/share/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+(/usr/local/texlive/2024/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
 Package graphics Info: Driver file: pdftex.def on input line 107.
 
-(/usr/share/texmf-dist/tex/latex/graphics-def/pdftex.def
+(/usr/local/texlive/2024/texmf-dist/tex/latex/graphics-def/pdftex.def
 File: pdftex.def 2022/09/22 v1.2b Graphics/color driver for pdftex
 ))
 \Gin@req@height=\dimen142
 \Gin@req@width=\dimen143
 )
-(/usr/share/texmf-dist/tex/latex/changepage/changepage.sty
+(/usr/local/texlive/2024/texmf-dist/tex/latex/changepage/changepage.sty
 Package: changepage 2009/10/20 v1.0c check page and change page layout
 \c@cp@cntr=\count199
 \cp@tempcnt=\count266
 )
-(/usr/share/texmf-dist/tex/latex/wrapfig/wrapfig.sty
+(/usr/local/texlive/2024/texmf-dist/tex/latex/wrapfig/wrapfig.sty
 \wrapoverhang=\dimen144
 \WF@size=\dimen145
 \c@WF@wrappedlines=\count267
@@ -96,7 +97,7 @@ Package: changepage 2009/10/20 v1.0c check page and change page layout
 \WF@everypar=\toks22
 Package: wrapfig 2003/01/31  v 3.6
 )
-(/usr/share/texmf-dist/tex/latex/enumitem/enumitem.sty
+(/usr/local/texlive/2024/texmf-dist/tex/latex/enumitem/enumitem.sty
 Package: enumitem 2019/06/20 v3.9 Customized lists
 \labelindent=\skip51
 \enit@outerparindent=\dimen146
@@ -105,7 +106,7 @@ Package: enumitem 2019/06/20 v3.9 Customized lists
 \enit@count@id=\count268
 \enitdp@description=\count269
 )
-(/usr/share/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
+(/usr/local/texlive/2024/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
 Package: fancyhdr 2022/11/09 v4.1 Extensive control of page headers and footers
 
 \f@nch@headwidth=\skip52
@@ -118,24 +119,24 @@ Package: fancyhdr 2022/11/09 v4.1 Extensive control of page headers and footers
 \f@nch@O@olf=\skip59
 \f@nch@O@orf=\skip60
 )
-(/usr/share/texmf-dist/tex/latex/amsmath/amsmath.sty
+(/usr/local/texlive/2024/texmf-dist/tex/latex/amsmath/amsmath.sty
 Package: amsmath 2023/05/13 v2.17o AMS math features
 \@mathmargin=\skip61
 
 For additional information on amsmath, use the `?' option.
-(/usr/share/texmf-dist/tex/latex/amsmath/amstext.sty
+(/usr/local/texlive/2024/texmf-dist/tex/latex/amsmath/amstext.sty
 Package: amstext 2021/08/26 v2.01 AMS text
 
-(/usr/share/texmf-dist/tex/latex/amsmath/amsgen.sty
+(/usr/local/texlive/2024/texmf-dist/tex/latex/amsmath/amsgen.sty
 File: amsgen.sty 1999/11/30 v2.0 generic functions
 \@emptytoks=\toks24
 \ex@=\dimen147
 ))
-(/usr/share/texmf-dist/tex/latex/amsmath/amsbsy.sty
+(/usr/local/texlive/2024/texmf-dist/tex/latex/amsmath/amsbsy.sty
 Package: amsbsy 1999/11/29 v1.2d Bold Symbols
 \pmbraise@=\dimen148
 )
-(/usr/share/texmf-dist/tex/latex/amsmath/amsopn.sty
+(/usr/local/texlive/2024/texmf-dist/tex/latex/amsmath/amsopn.sty
 Package: amsopn 2022/04/08 v2.04 operator names
 )
 \inf@bad=\count270
@@ -186,7 +187,7 @@ LaTeX Info: Redefining \Relbar on input line 971.
 LaTeX Info: Redefining \[ on input line 2953.
 LaTeX Info: Redefining \] on input line 2954.
 )
-(/usr/share/texmf-dist/tex/latex/index/index.sty
+(/usr/local/texlive/2024/texmf-dist/tex/latex/index/index.sty
 Package: index 2004/01/20 v4.2beta Improved index support (dmj)
 \@indexbox=\insert252
 \indexproofstyle=\toks29
@@ -199,10 +200,10 @@ LaTeX Warning: Command \markboth  has changed.
 LaTeX Warning: Command \markright  has changed.
                Check if current package is valid.
 
-) (/usr/share/texmf-dist/tex/latex/setspace/setspace.sty
+) (/usr/local/texlive/2024/texmf-dist/tex/latex/setspace/setspace.sty
 Package: setspace 2022/12/04 v6.7b set line spacing
 )
-(/usr/share/texmf-dist/tex/latex/tools/longtable.sty
+(/usr/local/texlive/2024/texmf-dist/tex/latex/tools/longtable.sty
 Package: longtable 2023-11-01 v4.19 Multi-page Table package (DPC)
 \LTleft=\skip64
 \LTright=\skip65
@@ -221,10 +222,10 @@ Package: longtable 2023-11-01 v4.19 Multi-page Table package (DPC)
 \c@LT@chunks=\count286
 \LT@p@ftn=\toks30
 )
-(/usr/share/texmf-dist/tex/latex/anyfontsize/anyfontsize.sty
+(/usr/local/texlive/2024/texmf-dist/tex/latex/anyfontsize/anyfontsize.sty
 Package: anyfontsize 2007/11/22 anyfontsize.sty by pts
 )
-(/usr/share/texmf-dist/tex/latex/float/float.sty
+(/usr/local/texlive/2024/texmf-dist/tex/latex/float/float.sty
 Package: float 2001/11/08 v1.3d Float enhancements (AL)
 \c@float@type=\count287
 \float@exts=\toks31
@@ -232,43 +233,43 @@ Package: float 2001/11/08 v1.3d Float enhancements (AL)
 \@float@everytoks=\toks32
 \@floatcapt=\box62
 )
-(/usr/share/texmf-dist/tex/latex/biblatex/biblatex.sty
+(/usr/local/texlive/2024/texmf-dist/tex/latex/biblatex/biblatex.sty
 Package: biblatex 2023/03/05 v3.19 programmable bibliographies (PK/MW)
 
-(/usr/share/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
+(/usr/local/texlive/2024/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
 Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
 )
 
-(/usr/share/texmf-dist/tex/generic/infwarerr/infwarerr.sty
+(/usr/local/texlive/2024/texmf-dist/tex/generic/infwarerr/infwarerr.sty
 Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
 )
-(/usr/share/texmf-dist/tex/generic/iftex/iftex.sty
+(/usr/local/texlive/2024/texmf-dist/tex/generic/iftex/iftex.sty
 Package: iftex 2022/02/03 v1.0f TeX engine tests
 )
-(/usr/share/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
+(/usr/local/texlive/2024/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
 Package: ltxcmds 2023-12-04 v1.26 LaTeX kernel commands for general use (HO)
 )
 Package pdftexcmds Info: \pdf@primitive is available.
 Package pdftexcmds Info: \pdf@ifprimitive is available.
 Package pdftexcmds Info: \pdfdraftmode found.
 )
-(/usr/share/texmf-dist/tex/latex/kvoptions/kvoptions.sty
+(/usr/local/texlive/2024/texmf-dist/tex/latex/kvoptions/kvoptions.sty
 Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
 
-(/usr/share/texmf-dist/tex/latex/kvsetkeys/kvsetkeys.sty
+(/usr/local/texlive/2024/texmf-dist/tex/latex/kvsetkeys/kvsetkeys.sty
 Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
 ))
-(/usr/share/texmf-dist/tex/latex/logreq/logreq.sty
+(/usr/local/texlive/2024/texmf-dist/tex/latex/logreq/logreq.sty
 Package: logreq 2010/08/04 v1.0 xml request logger
 \lrq@indent=\count288
 
-(/usr/share/texmf-dist/tex/latex/logreq/logreq.def
+(/usr/local/texlive/2024/texmf-dist/tex/latex/logreq/logreq.def
 File: logreq.def 2010/08/04 v1.0 logreq spec v1.0
 ))
-(/usr/share/texmf-dist/tex/latex/base/ifthen.sty
+(/usr/local/texlive/2024/texmf-dist/tex/latex/base/ifthen.sty
 Package: ifthen 2022/04/13 v1.1d Standard LaTeX ifthen package (DPC)
 )
-(/usr/share/texmf-dist/tex/latex/url/url.sty
+(/usr/local/texlive/2024/texmf-dist/tex/latex/url/url.sty
 \Urlmuskip=\muskip17
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
@@ -325,20 +326,20 @@ Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 \bibhang=\skip75
 \blx@bcfin=\read2
 \blx@bcfout=\write3
-\blx@langwohyphens=\language5
+\blx@langwohyphens=\language89
 \c@mincomprange=\count332
 \c@maxcomprange=\count333
 \c@mincompwidth=\count334
 Package biblatex Info: Trying to load biblatex default data model...
 Package biblatex Info: ... file 'blx-dm.def' found.
 
-(/usr/share/texmf-dist/tex/latex/biblatex/blx-dm.def
+(/usr/local/texlive/2024/texmf-dist/tex/latex/biblatex/blx-dm.def
 File: blx-dm.def 2023/03/05 v3.19 biblatex localization (PK/MW)
 )
 Package biblatex Info: Trying to load biblatex style data model...
 Package biblatex Info: ... file 'apa.dbx' found.
 
-(/usr/share/texmf-dist/tex/latex/biblatex-apa/apa.dbx
+(/usr/local/texlive/2024/texmf-dist/tex/latex/biblatex-apa/apa.dbx
 File: apa.dbx 2023/03/20 v9.17 APA biblatex style data model
 )
 Package biblatex Info: Trying to load biblatex custom data model...
@@ -438,13 +439,13 @@ Package biblatex Info: ... file 'biblatex-dm.cfg' not found.
 Package biblatex Info: Trying to load compatibility code...
 Package biblatex Info: ... file 'blx-compat.def' found.
 
-(/usr/share/texmf-dist/tex/latex/biblatex/blx-compat.def
+(/usr/local/texlive/2024/texmf-dist/tex/latex/biblatex/blx-compat.def
 File: blx-compat.def 2023/03/05 v3.19 biblatex compatibility (PK/MW)
 )
 Package biblatex Info: Trying to load generic definitions...
 Package biblatex Info: ... file 'biblatex.def' found.
 
-(/usr/share/texmf-dist/tex/latex/biblatex/biblatex.def
+(/usr/local/texlive/2024/texmf-dist/tex/latex/biblatex/biblatex.def
 File: biblatex.def 2023/03/05 v3.19 biblatex compatibility (PK/MW)
 \c@textcitecount=\count413
 \c@textcitetotal=\count414
@@ -463,12 +464,12 @@ File: biblatex.def 2023/03/05 v3.19 biblatex compatibility (PK/MW)
 Package biblatex Info: Trying to load bibliography style 'apa'...
 Package biblatex Info: ... file 'apa.bbx' found.
 
-(/usr/share/texmf-dist/tex/latex/biblatex-apa/apa.bbx
+(/usr/local/texlive/2024/texmf-dist/tex/latex/biblatex-apa/apa.bbx
 File: apa.bbx 2023/03/20 v9.17 APA biblatex references style
 Package biblatex Info: Trying to load bibliography style 'standard'...
 Package biblatex Info: ... file 'standard.bbx' found.
 
-(/usr/share/texmf-dist/tex/latex/biblatex/bbx/standard.bbx
+(/usr/local/texlive/2024/texmf-dist/tex/latex/biblatex/bbx/standard.bbx
 File: standard.bbx 2023/03/05 v3.19 biblatex bibliography style (PK/MW)
 \c@bbx:relatedcount=\count422
 \c@bbx:relatedtotal=\count423
@@ -485,7 +486,7 @@ Package biblatex Info: Delimiter 'nonameyeardelim' in context 'biblist' already
 Package biblatex Info: Trying to load citation style 'numeric'...
 Package biblatex Info: ... file 'numeric.cbx' found.
 
-(/usr/share/texmf-dist/tex/latex/biblatex/cbx/numeric.cbx
+(/usr/local/texlive/2024/texmf-dist/tex/latex/biblatex/cbx/numeric.cbx
 File: numeric.cbx 2023/03/05 v3.19 biblatex citation style (PK/MW)
 Package biblatex Info: Redefining '\cite'.
 Package biblatex Info: Redefining '\parencite'.
@@ -502,16 +503,16 @@ Package biblatex Info: Redefining '\smartcites'.
 Package biblatex Info: Trying to load configuration file...
 Package biblatex Info: ... file 'biblatex.cfg' found.
 
-(/usr/share/texmf-dist/tex/latex/biblatex/biblatex.cfg
+(/usr/local/texlive/2024/texmf-dist/tex/latex/biblatex/biblatex.cfg
 File: biblatex.cfg 
 )
 Package biblatex Info: Input encoding 'utf8' detected.
 Package biblatex Info: Document encoding is UTF8 ....
 
-(/usr/share/texmf-dist/tex/latex/l3kernel/expl3.sty
+(/usr/local/texlive/2024/texmf-dist/tex/latex/l3kernel/expl3.sty
 Package: expl3 2024-02-20 L3 programming layer (loader) 
 
-(/usr/share/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+(/usr/local/texlive/2024/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 File: l3backend-pdftex.def 2024-02-20 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count424
 \l__pdf_internal_box=\box63
@@ -521,16 +522,16 @@ Package biblatex Info: ... and expl3
 (biblatex)             is new enough (at least 2020/04/06),
 (biblatex)             setting 'casechanger=expl3'.
 
-(/usr/share/texmf-dist/tex/latex/biblatex/blx-case-expl3.sty
-(/usr/share/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
+(/usr/local/texlive/2024/texmf-dist/tex/latex/biblatex/blx-case-expl3.sty
+(/usr/local/texlive/2024/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
 Package: xparse 2024-02-18 L3 Experimental document command parser
 )
 Package: blx-case-expl3 2023/03/05 v3.19 expl3 case changing code for biblatex
 ))
-(/usr/share/texmf-dist/tex/latex/geometry/geometry.sty
+(/usr/local/texlive/2024/texmf-dist/tex/latex/geometry/geometry.sty
 Package: geometry 2020/01/02 v5.9 Page Geometry
 
-(/usr/share/texmf-dist/tex/generic/iftex/ifvtex.sty
+(/usr/local/texlive/2024/texmf-dist/tex/generic/iftex/ifvtex.sty
 Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 )
 \Gm@cnth=\count425
@@ -546,7 +547,7 @@ Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 \Gm@layoutvoffset=\dimen164
 \Gm@dimlist=\toks33
 )
-(/usr/share/texmf-dist/tex/latex/tools/multicol.sty
+(/usr/local/texlive/2024/texmf-dist/tex/latex/tools/multicol.sty
 Package: multicol 2023/03/30 v1.9f multicolumn formatting (FMi)
 \c@tracingmulticols=\count428
 \mult@box=\box64
@@ -616,7 +617,7 @@ Package: multicol 2023/03/30 v1.9f multicolumn formatting (FMi)
 \colbreak@box=\box109
 \mc@col@check@num=\count437
 )
-(/usr/share/texmf-dist/tex/latex/tools/bm.sty
+(/usr/local/texlive/2024/texmf-dist/tex/latex/tools/bm.sty
 Package: bm 2023/07/08 v1.2f Bold Symbol Support (DPC/FMi)
 \symboldoperators=\mathgroup4
 \symboldletters=\mathgroup5
@@ -624,10 +625,10 @@ Package: bm 2023/07/08 v1.2f Bold Symbol Support (DPC/FMi)
 Package bm Info: No bold for \OMX/cmex/m/n, using \pmb.
 LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 149.
 )
-(/usr/share/texmf-dist/tex/latex/caption/caption.sty
+(/usr/local/texlive/2024/texmf-dist/tex/latex/caption/caption.sty
 Package: caption 2023/08/05 v3.6o Customizing captions (AR)
 
-(/usr/share/texmf-dist/tex/latex/caption/caption3.sty
+(/usr/local/texlive/2024/texmf-dist/tex/latex/caption/caption3.sty
 Package: caption3 2023/07/31 v2.4d caption3 kernel (AR)
 \caption@tempdima=\dimen174
 \captionmargin=\dimen175
@@ -647,15 +648,15 @@ Package caption Info: changepage package is loaded.
 Package caption Info: float package is loaded.
 Package caption Info: longtable package is loaded.
 
-(/usr/share/texmf-dist/tex/latex/caption/ltcaption.sty
+(/usr/local/texlive/2024/texmf-dist/tex/latex/caption/ltcaption.sty
 Package: ltcaption 2021/01/08 v1.4c longtable captions (AR)
 )
 Package caption Info: wrapfig package is loaded.
 )
-(/usr/share/texmf-dist/tex/latex/blindtext/blindtext.sty
+(/usr/local/texlive/2024/texmf-dist/tex/latex/blindtext/blindtext.sty
 Package: blindtext 2012/01/06 V2.0 blindtext-Package
 
-(/usr/share/texmf-dist/tex/latex/tools/xspace.sty
+(/usr/local/texlive/2024/texmf-dist/tex/latex/tools/xspace.sty
 Package: xspace 2014/10/28 v1.13 Space after command names (DPC,MH)
 )
 \c@blindtext=\count440
@@ -677,7 +678,7 @@ Package: xspace 2014/10/28 v1.13 Space after command names (DPC,MH)
 \c@blind@pangramcount=\count456
 \c@blind@pangrammax=\count457
 )
-(/usr/share/texmf-dist/tex/generic/ulem/ulem.sty
+(/usr/local/texlive/2024/texmf-dist/tex/generic/ulem/ulem.sty
 \UL@box=\box110
 \UL@hyphenbox=\box111
 \UL@skip=\skip92
@@ -689,15 +690,15 @@ Package: xspace 2014/10/28 v1.13 Space after command names (DPC,MH)
 Package: ulem 2019/11/18
 \ULdepth=\dimen186
 )
-(/usr/share/texmf-dist/tex/latex/xcolor/xcolor.sty
+(/usr/local/texlive/2024/texmf-dist/tex/latex/xcolor/xcolor.sty
 Package: xcolor 2023/11/15 v3.01 LaTeX color extensions (UK)
 
-(/usr/share/texmf-dist/tex/latex/graphics-cfg/color.cfg
+(/usr/local/texlive/2024/texmf-dist/tex/latex/graphics-cfg/color.cfg
 File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
 Package xcolor Info: Driver file: pdftex.def on input line 274.
 
-(/usr/share/texmf-dist/tex/latex/graphics/mathcolor.ltx)
+(/usr/local/texlive/2024/texmf-dist/tex/latex/graphics/mathcolor.ltx)
 Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1350.
 Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1354.
 Package xcolor Info: Model `RGB' extended on input line 1366.
@@ -708,13 +709,13 @@ Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1371.
 Package xcolor Info: Model `Gray' substituted by `gray' on input line 1372.
 Package xcolor Info: Model `wave' substituted by `hsb' on input line 1373.
 )
-(/usr/share/texmf-dist/tex/latex/tools/afterpage.sty
+(/usr/local/texlive/2024/texmf-dist/tex/latex/tools/afterpage.sty
 Package: afterpage 2023/07/04 v1.08 After-Page Package (DPC)
 \AP@output=\toks35
 \AP@partial=\box113
 \AP@footins=\box114
 )
-(/usr/share/texmf-dist/tex/latex/appendix/appendix.sty
+(/usr/local/texlive/2024/texmf-dist/tex/latex/appendix/appendix.sty
 Package: appendix 2020/02/08 v1.2c extra appendix facilities
 \c@@pps=\count459
 \c@@ppsavesec=\count460
@@ -722,40 +723,8 @@ Package: appendix 2020/02/08 v1.2c extra appendix facilities
 )
 \@quotelevel=\count462
 \@quotereset=\count463
- (./main.aux
 
-LaTeX Warning: Label `fig:sample-image' multiply defined.
-
-
-LaTeX Warning: Label `fig:sample-image' multiply defined.
-
-
-LaTeX Warning: Label `fig:sample-image' multiply defined.
-
-
-LaTeX Warning: Label `fig:sample-image' multiply defined.
-
-
-LaTeX Warning: Label `tab:activity_schedule' multiply defined.
-
-
-LaTeX Warning: Label `tab:activity_schedule' multiply defined.
-
-
-LaTeX Warning: Label `tab:activity_schedule' multiply defined.
-
-
-LaTeX Warning: Label `tab:activity_schedule' multiply defined.
-
-
-LaTeX Warning: Label `fig:sample-image' multiply defined.
-
-
-LaTeX Warning: Label `fig:sample-image' multiply defined.
-
-
-LaTeX Warning: Label `fig:sample-image' multiply defined.
-
+(./main.aux
 
 LaTeX Warning: Label `fig:sample-image' multiply defined.
 
@@ -1001,21 +970,6 @@ LaTeX Warning: Label `fig:sample-image' multiply defined.
 
 
 LaTeX Warning: Label `fig:sample-image' multiply defined.
-
-
-LaTeX Warning: Label `tab:activity_schedule' multiply defined.
-
-
-LaTeX Warning: Label `tab:activity_schedule' multiply defined.
-
-
-LaTeX Warning: Label `tab:activity_schedule' multiply defined.
-
-
-LaTeX Warning: Label `tab:activity_schedule' multiply defined.
-
-
-LaTeX Warning: Label `tab:activity_schedule' multiply defined.
 
 
 LaTeX Warning: Label `tab:activity_schedule' multiply defined.
@@ -1049,11 +1003,11 @@ Package microtype Info: No font expansion.
 Package microtype Info: No adjustment of tracking.
 Package microtype Info: No adjustment of interword spacing.
 Package microtype Info: No adjustment of character kerning.
- (/usr/share/texmf-dist/tex/latex/microtype/mt-cmr.cfg
+ (/usr/local/texlive/2024/texmf-dist/tex/latex/microtype/mt-cmr.cfg
 File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman 
 (RS)
 )
-(/usr/share/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+(/usr/local/texlive/2024/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count464
 \scratchdimen=\dimen187
@@ -1066,40 +1020,40 @@ File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman
 \MPnumerator=\count468
 \makeMPintoPDFobject=\count469
 \everyMPtoPDFconversion=\toks37
-) (/usr/share/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+) (/usr/local/texlive/2024/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 85.
 
-(/usr/share/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+(/usr/local/texlive/2024/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
 Package biblatex Info: Trying to load language 'english' -> 'english-apa'...
 Package biblatex Info: ... file 'english-apa.lbx' found.
 
-(/usr/share/texmf-dist/tex/latex/biblatex-apa/english-apa.lbx
+(/usr/local/texlive/2024/texmf-dist/tex/latex/biblatex-apa/english-apa.lbx
 File: english-apa.lbx 2023/03/20 v9.17 APA biblatex localisation
 Package biblatex Info: Trying to load language 'english'...
 Package biblatex Info: ... file 'english.lbx' found.
 
-(/usr/share/texmf-dist/tex/latex/biblatex/lbx/english.lbx
+(/usr/local/texlive/2024/texmf-dist/tex/latex/biblatex/lbx/english.lbx
 File: english.lbx 2023/03/05 v3.19 biblatex localization (PK/MW)
 )
 Package biblatex Info: Trying to load language 'american' -> 'american-apa'...
 Package biblatex Info: ... file 'american-apa.lbx' found.
 
-(/usr/share/texmf-dist/tex/latex/biblatex-apa/american-apa.lbx
+(/usr/local/texlive/2024/texmf-dist/tex/latex/biblatex-apa/american-apa.lbx
 File: american-apa.lbx 2023/03/20 v9.17 APA biblatex localisation
 Package biblatex Info: Trying to load language 'american'...
 Package biblatex Info: ... file 'american.lbx' found.
 
-(/usr/share/texmf-dist/tex/latex/biblatex/lbx/american.lbx
+(/usr/local/texlive/2024/texmf-dist/tex/latex/biblatex/lbx/american.lbx
 File: american.lbx 2023/03/05 v3.19 biblatex localization (PK/MW)
 Package biblatex Info: Trying to load language 'english'...
 Package biblatex Info: ... file 'english.lbx' found.
 
-(/usr/share/texmf-dist/tex/latex/biblatex/lbx/english.lbx
+(/usr/local/texlive/2024/texmf-dist/tex/latex/biblatex/lbx/english.lbx
 File: english.lbx 2023/03/05 v3.19 biblatex localization (PK/MW)
 ))))
 Package biblatex Info: Input encoding 'utf8' detected.
@@ -1109,7 +1063,8 @@ Package biblatex Info: Automatic encoding selection.
 
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'main.bbl' found.
- (./main.bbl)
+
+(./main.bbl)
 Package biblatex Info: Reference section=0 on input line 61.
 Package biblatex Info: Reference segment=0 on input line 61.
 
@@ -1190,8 +1145,8 @@ Package pdftex.def Info: assets/title/symbol.jpg  used on input line 8.
  [1
 
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./assets/title/symbol.jpg>
-]) (./black-and-white.tex
+{/usr/local/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./asset
+s/title/symbol.jpg>]) (./black-and-white.tex
 *geometry* verbose mode - [ newgeometry ] result:
 * driver: pdftex
 * paper: a4paper
@@ -1264,8 +1219,7 @@ Package pdftex.def Info: assets/title/gray-symbol.png  used on input line 8.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-
-(./copyright.tex
+ (./copyright.tex
 <assets/copyright/copy-right.png, id=14, 88.33pt x 31.11626pt>
 File: assets/copyright/copy-right.png Graphic file (type png)
 <use assets/copyright/copy-right.png>
@@ -1280,17 +1234,12 @@ Overfull \hbox (24.0pt too wide) in paragraph at lines 6--17
 [1
 
  <./assets/copyright/copy-right.png>]) (./0-Acknowledgements.tex [2])
-(./1-Abstract.tex
-Overfull \hbox (17.94981pt too wide) in paragraph at lines 11--13
-[]\OT1/cmr/bx/n/10.95 Keywords: []
- []
-
-) [3] (./statement-of-integrity.tex [4]) (./main.toc [5])
+(./statement-of-integrity.tex [3]) (./1-Abstract.tex) [4] (./2-Resumo.tex)
+[5] (./main.toc [6])
 \tf@toc=\write4
 \openout4 = `main.toc'.
 
- [6]
-(./figures-list.tex (./main.lof [7] [8])
+ [7] (./main.lof [8])
 \tf@lof=\write5
 \openout5 = `main.lof'.
 
@@ -1298,653 +1247,824 @@ Overfull \hbox (17.94981pt too wide) in paragraph at lines 11--13
 \tf@lot=\write6
 \openout6 = `main.lot'.
 
- [10] [11] [12]
-[13] [14] [15]) (./2-Introduction.tex [1] [2] [3] [4] [5] [6])
-(./3-Art-state.tex [7] [8]
-<assets/state-of-art/type-blockchains.png, id=91, 571.13374pt x 212.795pt>
+ [10]
+(./figures-list.tex [11] [12] [13]) (./3-Introduction.tex [1] [2] [3] [4]
+[5] [6]) (./4-Art-state.tex [7] [8]
+<assets/state-of-art/type-blockchains.png, id=84, 571.13374pt x 212.795pt>
 File: assets/state-of-art/type-blockchains.png Graphic file (type png)
 <use assets/state-of-art/type-blockchains.png>
 Package pdftex.def Info: assets/state-of-art/type-blockchains.png  used on inpu
-t line 24.
-(pdftex.def)             Requested size: 364.19667pt x 135.69478pt.
- [9 <./assets/state-of-art/type-blockchains.png>]
-[10] [11]
-Overfull \hbox (85.83858pt too wide) in paragraph at lines 56--58
+t line 25.
+(pdftex.def)             Requested size: 318.66948pt x 118.72928pt.
+<assets/state-of-art/type-blockchains2.png, id=85, 853.1875pt x 353.32pt>
+File: assets/state-of-art/type-blockchains2.png Graphic file (type png)
+<use assets/state-of-art/type-blockchains2.png>
+Package pdftex.def Info: assets/state-of-art/type-blockchains2.png  used on inp
+ut line 32.
+(pdftex.def)             Requested size: 318.66948pt x 131.96632pt.
+ [9 <./assets/state-of-art/type-blockchains.png>] [10 <./assets/state-of-art/ty
+pe-blockchains2.png>] [11]
+Overfull \hbox (85.83858pt too wide) in paragraph at lines 64--66
 \OT1/cmr/m/n/10.95 sion gives the blockchain us-age ben-e-fits like au-then-ti-
 ca-tion,immutability,provenance,robustness,availability,security
  []
 
 [12] [13]
-Overfull \hbox (2.61844pt too wide) in paragraph at lines 89--91
+Overfull \hbox (2.61844pt too wide) in paragraph at lines 98--99
 \OT1/cmr/m/n/10.95 Issues and chal-lenges must be con-sid-ered when con-tem-pla
 t-ing the im-ple-men-ta-tion of a blockchain-
  []
 
-[14] [15] [16] [17] [18] [19] [20]) (./4-Methodologies-and-tools.tex [21]
-[22] [23] [24] [25] [26]
-Underfull \hbox (badness 10000) in paragraph at lines 121--122
-
- []
-
-[27]
-<assets/tools/dsr/DSR.drawio.png, id=152, 412.54124pt x 453.695pt>
+[14] [15] [16] [17] [18] [19] [20]) (./5-Approach.tex [21] [22] [23] [24]
+<assets/tools/dsr/DSR.drawio.png, id=138, 412.54124pt x 453.695pt>
 File: assets/tools/dsr/DSR.drawio.png Graphic file (type png)
 <use assets/tools/dsr/DSR.drawio.png>
-Package pdftex.def Info: assets/tools/dsr/DSR.drawio.png  used on input line 12
-7.
-(pdftex.def)             Requested size: 318.66948pt x 350.4608pt.
-<assets/swot/SWOT.png, id=153, 471.726pt x 354.123pt>
-File: assets/swot/SWOT.png Graphic file (type png)
-<use assets/swot/SWOT.png>
-Package pdftex.def Info: assets/swot/SWOT.png  used on input line 146.
-(pdftex.def)             Requested size: 455.24411pt x 341.75356pt.
- [28 <./assets/tools/dsr/DSR.drawio.png>] [29 <./assets/swot/SWOT.png>]
-<assets/swot/strengths-and-weaknesses.png, id=162, 1073.00874pt x 388.45125pt>
-File: assets/swot/strengths-and-weaknesses.png Graphic file (type png)
-<use assets/swot/strengths-and-weaknesses.png>
-Package pdftex.def Info: assets/swot/strengths-and-weaknesses.png  used on inpu
-t line 176.
-(pdftex.def)             Requested size: 455.24411pt x 164.80804pt.
+Package pdftex.def Info: assets/tools/dsr/DSR.drawio.png  used on input line 71
+.
+(pdftex.def)             Requested size: 227.62206pt x 250.32915pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 173--179
-
- []
-
-[30] [31 <./assets/swot/strengths-and-weaknesses.png>]
-<assets/swot/opportunities-threats.png, id=169, 1069.9975pt x 385.44pt>
-File: assets/swot/opportunities-threats.png Graphic file (type png)
-<use assets/swot/opportunities-threats.png>
-Package pdftex.def Info: assets/swot/opportunities-threats.png  used on input l
-ine 198.
-(pdftex.def)             Requested size: 455.24411pt x 163.98921pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 195--201
-
- []
-
-[32 <./assets/swot/opportunities-threats.png>] [33] [34] [35] [36] [37]
-[38] [39]
-Underfull \hbox (badness 10000) in paragraph at lines 350--351
-
+[25 <./assets/tools/dsr/DSR.drawio.png>] [26] [27] [28] [29] [30] [31] [32]
+[33] [34] [35] [36] [37] [38]
+Overfull \hbox (6.45354pt too wide) in paragraph at lines 335--335
+[]|\OT1/cmr/bx/n/10.95 Description| 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 352--353
-
+Overfull \hbox (1.04547pt too wide) in paragraph at lines 339--339
+[]|\OT1/cmr/bx/n/10.95 Mitigation
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 354--355
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 356--357
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 358--359
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 360--361
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 362--363
-
- []
-
-[40]
-Underfull \hbox (badness 10000) in paragraph at lines 364--365
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 366--367
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 368--369
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 370--371
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 372--373
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 374--375
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 376--377
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 378--379
-
- []
-
-
-Overfull \hbox (41.00935pt too wide) in alignment at lines 381--402
- [] [] [] [] [] [] [] [] [] [] 
- []
-
-
-Overfull \hbox (14.75235pt too wide) in alignment at lines 405--424
- [] [] [] [] [] [] [] [] [] [] 
- []
-
-[41]
-Overfull \hbox (59.2078pt too wide) in alignment at lines 462--473
+Overfull \hbox (2.30228pt too wide) in alignment at lines 331--342
  [] [] [] [] [] [] [] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 478--479
+Overfull \hbox (2.1333pt too wide) in paragraph at lines 347--348
 []|\OT1/cmr/m/n/10.95 Unreachable
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 482--483
-[]|\OT1/cmr/m/n/10.95 Planning bet-ter
+Underfull \hbox (badness 10000) in paragraph at lines 351--352
+[]|\OT1/cmr/m/n/10.95 Planning
  []
 
 
-Underfull \hbox (badness 3815) in paragraph at lines 482--483
-\OT1/cmr/m/n/10.95 the next events
+Underfull \hbox (badness 10000) in paragraph at lines 351--352
+\OT1/cmr/m/n/10.95 bet-ter the
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 482--483
-\OT1/cmr/m/n/10.95 and gain ex-
+Underfull \hbox (badness 10000) in paragraph at lines 351--352
+\OT1/cmr/m/n/10.95 and gain
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 482--483
-\OT1/cmr/m/n/10.95 pe-ri-ence from
+Underfull \hbox (badness 10000) in paragraph at lines 351--352
+\OT1/cmr/m/n/10.95 ex-pe-ri-
  []
 
 
-Underfull \hbox (badness 4416) in paragraph at lines 482--483
-\OT1/cmr/m/n/10.95 pre-vi-ous de-liv-er-
+Underfull \hbox (badness 10000) in paragraph at lines 351--352
+\OT1/cmr/m/n/10.95 ence from
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 488--489
+Underfull \hbox (badness 10000) in paragraph at lines 351--352
+\OT1/cmr/m/n/10.95 pre-vi-ous
+ []
+
+
+Overfull \hbox (8.42955pt too wide) in paragraph at lines 357--358
 []|\OT1/cmr/m/n/10.95 Requirements
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 488--489
-\OT1/cmr/m/n/10.95 of the project
+Underfull \hbox (badness 10000) in paragraph at lines 357--358
+\OT1/cmr/m/n/10.95 of the
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 492--493
-[]|\OT1/cmr/m/n/10.95 Make fre-quent
+Underfull \hbox (badness 10000) in paragraph at lines 357--358
+\OT1/cmr/m/n/10.95 project
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 492--493
-\OT1/cmr/m/n/10.95 com-mu-ni-ca-tion
+Underfull \hbox (badness 10000) in paragraph at lines 361--362
+[]|\OT1/cmr/m/n/10.95 Make
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 492--493
-\OT1/cmr/m/n/10.95 with stake-
+Underfull \hbox (badness 10000) in paragraph at lines 361--362
+\OT1/cmr/m/n/10.95 fre-quent
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 492--493
-\OT1/cmr/m/n/10.95 the lim-i-ta-tions
+Underfull \hbox (badness 10000) in paragraph at lines 361--362
+\OT1/cmr/m/n/10.95 com-mu-
  []
 
 
-Underfull \hbox (badness 3536) in paragraph at lines 492--493
-\OT1/cmr/m/n/10.95 im-posed by the
+Underfull \hbox (badness 10000) in paragraph at lines 361--362
+\OT1/cmr/m/n/10.95 ni-ca-tion
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 502--503
-[]|\OT1/cmr/m/n/10.95 Implement only
+Overfull \hbox (5.17499pt too wide) in paragraph at lines 361--362
+\OT1/cmr/m/n/10.95 holder;Check
  []
 
 
-Underfull \hbox (badness 1472) in paragraph at lines 502--503
-\OT1/cmr/m/n/10.95 what is ac-tu-ally
+Underfull \hbox (badness 10000) in paragraph at lines 361--362
+\OT1/cmr/m/n/10.95 well the
  []
 
 
-Underfull \hbox (badness 7504) in paragraph at lines 518--519
-[]|\OT1/cmr/m/n/10.95 Incorrect un-der-
+Underfull \hbox (badness 10000) in paragraph at lines 361--362
+\OT1/cmr/m/n/10.95 lim-i-ta-tions
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 522--523
-\OT1/cmr/m/n/10.95 an-a-lyz-ing the
+Underfull \hbox (badness 10000) in paragraph at lines 367--368
+[]|\OT1/cmr/m/n/10.95 Lack of
  []
 
 
-Underfull \hbox (badness 3536) in paragraph at lines 522--523
-\OT1/cmr/m/n/10.95 rel-e-vant for the
+Underfull \hbox (badness 10000) in paragraph at lines 371--372
+[]|\OT1/cmr/m/n/10.95 Implement
  []
 
 
-Underfull \hbox (badness 7777) in paragraph at lines 532--533
-\OT1/cmr/m/n/10.95 au-to-mate mode;
+Underfull \hbox (badness 10000) in paragraph at lines 371--372
+\OT1/cmr/m/n/10.95 only what
  []
 
 
-Underfull \hbox (badness 1418) in paragraph at lines 538--539
-[]|\OT1/cmr/m/n/10.95 Security im-pli-ca-
+Underfull \hbox (badness 8019) in paragraph at lines 371--372
+\OT1/cmr/m/n/10.95 is ac-tu-ally
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 542--543
-\OT1/cmr/m/n/10.95 Try to learn
+Underfull \hbox (badness 10000) in paragraph at lines 381--382
+[]|\OT1/cmr/m/n/10.95 There are
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 552--553
-\OT1/cmr/m/n/10.95 thing; Sim-plify
+Underfull \hbox (badness 10000) in paragraph at lines 381--382
+\OT1/cmr/m/n/10.95 no mit-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 552--553
-\OT1/cmr/m/n/10.95 ev-ery-thing;Join
+Underfull \hbox (badness 10000) in paragraph at lines 381--382
+\OT1/cmr/m/n/10.95 i-ga-tion
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 562--563
-[]|\OT1/cmr/m/n/10.95 Join Com-mu-
+Underfull \hbox (badness 10000) in paragraph at lines 387--388
+[]|\OT1/cmr/m/n/10.95 Incorrect
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 562--563
-\OT1/cmr/m/n/10.95 ni-ties;Arrange
+Underfull \hbox (badness 10000) in paragraph at lines 387--388
+\OT1/cmr/m/n/10.95 un-der-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 562--563
-\OT1/cmr/m/n/10.95 more de-bug
+Underfull \hbox (badness 10000) in paragraph at lines 391--392
+\OT1/cmr/m/n/10.95 time an-a-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 572--573
-[]|\OT1/cmr/m/n/10.95 Make the best
+Underfull \hbox (badness 10000) in paragraph at lines 391--392
+\OT1/cmr/m/n/10.95 lyz-ing the
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 572--573
-\OT1/cmr/m/n/10.95 so-lu-tion pos-si-
+Underfull \hbox (badness 10000) in paragraph at lines 391--392
+\OT1/cmr/m/n/10.95 sure that
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 572--573
-\OT1/cmr/m/n/10.95 ble;Make clear
+Underfull \hbox (badness 10000) in paragraph at lines 391--392
+\OT1/cmr/m/n/10.95 the ob-ject
  []
 
 
-Underfull \hbox (badness 1418) in paragraph at lines 572--573
-\OT1/cmr/m/n/10.95 the need of the
- []
-
-
-Overfull \hbox (59.2078pt too wide) in alignment at lines 473--578
+Overfull \hbox (2.30228pt too wide) in alignment at lines 342--394
  [] [] [] [] [] [] [] 
  []
 
-[42] [43] [44] [45]
-<assets/tools/hyperledger/hlf-minimal-setup.png, id=217, 811.03pt x 653.44125pt
+[39{/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.en
+c}]
+Overfull \hbox (6.45354pt too wide) in paragraph at lines 401--401
+[]|\OT1/cmr/bx/n/10.95 Description| 
+ []
+
+
+Overfull \hbox (1.04547pt too wide) in paragraph at lines 405--405
+[]|\OT1/cmr/bx/n/10.95 Mitigation
+ []
+
+
+Overfull \hbox (2.30228pt too wide) in alignment at lines 398--408
+ [] [] [] [] [] [] [] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 415--416
+[]|\OT1/cmr/m/n/10.95 Don't do
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 415--416
+\OT1/cmr/m/n/10.95 tasks in
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 415--416
+\OT1/cmr/m/n/10.95 au-to-mate
+ []
+
+
+Underfull \hbox (badness 3547) in paragraph at lines 415--416
+\OT1/cmr/m/n/10.95 mode; Fo-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 421--422
+[]|\OT1/cmr/m/n/10.95 Security
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 421--422
+\OT1/cmr/m/n/10.95 im-pli-ca-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 425--426
+[]|\OT1/cmr/m/n/10.95 Follow
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 425--426
+\OT1/cmr/m/n/10.95 stan-dards;
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 431--432
+[]|\OT1/cmr/m/n/10.95 Complexity
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 431--432
+\OT1/cmr/m/n/10.95 of the
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 435--436
+[]|\OT1/cmr/m/n/10.95 Document
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 435--436
+\OT1/cmr/m/n/10.95 Ev-ery-thing;
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 435--436
+\OT1/cmr/m/n/10.95 Sim-plify
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 435--436
+\OT1/cmr/m/n/10.95 ev-ery-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 435--436
+\OT1/cmr/m/n/10.95 thing;Join
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 435--436
+\OT1/cmr/m/n/10.95 Com-mu-ni-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 441--442
+[]|\OT1/cmr/m/n/10.95 Unknown
+ []
+
+
+Underfull \hbox (badness 5331) in paragraph at lines 445--446
+[]|\OT1/cmr/m/n/10.95 Join Com-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 445--446
+\OT1/cmr/m/n/10.95 mu-ni-
+ []
+
+
+Overfull \hbox (1.31207pt too wide) in paragraph at lines 445--446
+\OT1/cmr/m/n/10.95 ties;Arrange
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 445--446
+\OT1/cmr/m/n/10.95 mech-a-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 455--456
+[]|\OT1/cmr/m/n/10.95 Make the
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 455--456
+\OT1/cmr/m/n/10.95 best so-lu-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 455--456
+\OT1/cmr/m/n/10.95 tion pos-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 455--456
+\OT1/cmr/m/n/10.95 si-ble;Make
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 455--456
+\OT1/cmr/m/n/10.95 clear the
+ []
+
+
+Overfull \hbox (2.30228pt too wide) in alignment at lines 408--461
+ [] [] [] [] [] [] [] 
+ []
+
+[40] [41] [42] [43]
+<assets/tools/hyperledger/hlf-minimal-setup.png, id=202, 811.03pt x 653.44125pt
 >
 File: assets/tools/hyperledger/hlf-minimal-setup.png Graphic file (type png)
 <use assets/tools/hyperledger/hlf-minimal-setup.png>
 Package pdftex.def Info: assets/tools/hyperledger/hlf-minimal-setup.png  used o
-n input line 610.
-(pdftex.def)             Requested size: 364.19667pt x 293.43762pt.
- [46 <./assets/tools/hyperledger/hlf-minimal-setup.png>]
-[47] [48] [49]
-Overfull \hbox (7.42535pt too wide) in paragraph at lines 656--657
-[]\OT1/cmr/m/n/10.95 Lastly, in terms of con-sen-sus al-go-rithm, it surges the
- most spo-ken one lately, \OT1/cmr/bx/n/10.95 PBFT\OT1/cmr/m/n/10.95 (Practical
-
- []
-
-[50] [51]
-Overfull \hbox (5.92061pt too wide) in paragraph at lines 662--663
-[]\OT1/cmr/m/n/10.95 Delving into the \OT1/cmr/bx/n/10.95 scal-a-bil-ity\OT1/cm
-r/m/n/10.95 , this is most con-cerned mat-ter when it comes to the \OT1/cmr/bx/
-n/10.95 blockchain\OT1/cmr/m/n/10.95 .
- []
-
-[52] [53] [54] [55] [56] [57] [58]
-<assets/tools/kubernetes/kubernetes-architecture.png, id=259, 972.63374pt x 613
-.29124pt>
-File: assets/tools/kubernetes/kubernetes-architecture.png Graphic file (type pn
-g)
-<use assets/tools/kubernetes/kubernetes-architecture.png>
-Package pdftex.def Info: assets/tools/kubernetes/kubernetes-architecture.png  u
-sed on input line 715.
-(pdftex.def)             Requested size: 364.19667pt x 229.63739pt.
- [59]
-<assets/tools/kubernetes/pods.png, id=263, 602.25pt x 255.95625pt>
-File: assets/tools/kubernetes/pods.png Graphic file (type png)
-<use assets/tools/kubernetes/pods.png>
-Package pdftex.def Info: assets/tools/kubernetes/pods.png  used on input line 7
-24.
-(pdftex.def)             Requested size: 364.19667pt x 154.78955pt.
- [60 <./assets/tools/kubernetes/kubernetes-architecture.png> <./assets/tools/ku
-bernetes/pods.png>] [61] [62] [63]
-<assets/tools/docker/Architecture-of-Docker.png, id=278, 1003.75pt x 383.4325pt
->
-File: assets/tools/docker/Architecture-of-Docker.png Graphic file (type png)
-<use assets/tools/docker/Architecture-of-Docker.png>
-Package pdftex.def Info: assets/tools/docker/Architecture-of-Docker.png  used o
-n input line 757.
-(pdftex.def)             Requested size: 364.19667pt x 139.12383pt.
-
-[64]
-Overfull \hbox (72.92894pt too wide) in paragraph at lines 762--763
-\OT1/cmr/bx/n/10.95 Groups(cgroups)\OT1/cmr/m/n/10.95 ,\OT1/cmr/bx/n/10.95 Read
--only file sys-tems\OT1/cmr/m/n/10.95 ,\OT1/cmr/bx/n/10.95 user names-pace\OT1/
-cmr/m/n/10.95 ,\OT1/cmr/bx/n/10.95 security ca-pa-bil-i-ties\OT1/cmr/m/n/10.95 
-,\OT1/cmr/bx/n/10.95 Seccomp\OT1/cmr/m/n/10.95 ,\OT1/cmr/bx/n/10.95 AppArmor
- []
-
-[65 <./assets/tools/docker/Architecture-of-Docker.png (PNG copy)>] [66]
-<assets/tools/metallb/bgp-vs-l2.png, id=288, 783.92876pt x 390.45876pt>
+n input line 493.
+(pdftex.def)             Requested size: 227.62206pt x 183.39104pt.
+ [44 <./assets/tools/hyperledger/hlf-minimal-setup.png>]
+[45] [46] [47] [48] [49] [50] [51] [52] [53]
+<assets/tools/metallb/bgp-vs-l2.png, id=235, 783.92876pt x 390.45876pt>
 File: assets/tools/metallb/bgp-vs-l2.png Graphic file (type png)
 <use assets/tools/metallb/bgp-vs-l2.png>
 Package pdftex.def Info: assets/tools/metallb/bgp-vs-l2.png  used on input line
- 788.
-(pdftex.def)             Requested size: 364.19667pt x 181.40057pt.
-
-[67] [68 <./assets/tools/metallb/bgp-vs-l2.png>] [69] [70] [71] [72]
-<assets/tools/caliper/arch_high_level.png, id=308, 437.38406pt x 345.54094pt>
-File: assets/tools/caliper/arch_high_level.png Graphic file (type png)
-<use assets/tools/caliper/arch_high_level.png>
-Package pdftex.def Info: assets/tools/caliper/arch_high_level.png  used on inpu
-t line 843.
-(pdftex.def)             Requested size: 364.19667pt x 287.72685pt.
- [73]
-[74 <./assets/tools/caliper/arch_high_level.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 859--860
+ 596.
+(pdftex.def)             Requested size: 227.62206pt x 113.37312pt.
+ [54 <./assets/tools/metallb/bgp-vs-l2.png>] [55] [56] [57]
+Underfull \hbox (badness 10000) in paragraph at lines 635--636
 
  []
 
-[75]
-Overfull \hbox (7.57552pt too wide) in paragraph at lines 877--879
+[58]
+Overfull \hbox (7.57552pt too wide) in paragraph at lines 646--648
 \OT1/cmr/m/n/10.95 For show-ing data within the \OT1/cmr/bx/n/10.95 Bench-mark-
 ing \OT1/cmr/m/n/10.95 land-scape, there is the hon-ored men-tion of \OT1/cmr/b
 x/n/10.95 Grafana\OT1/cmr/m/n/10.95 .
  []
 
-[76] [77] [78] [79]) (./5-Use-cases.tex [80] [81] [82]
-<assets/use-case-1/ipfs-behavior.drawio.png, id=341, 628.3475pt x 774.895pt>
+[59] [60] [61] [62]) (./6-Use-cases.tex [63] [64]
+<assets/use-case-1/ipfs-behavior.drawio.png, id=271, 628.3475pt x 774.895pt>
 File: assets/use-case-1/ipfs-behavior.drawio.png Graphic file (type png)
 <use assets/use-case-1/ipfs-behavior.drawio.png>
 Package pdftex.def Info: assets/use-case-1/ipfs-behavior.drawio.png  used on in
 put line 22.
-(pdftex.def)             Requested size: 364.19667pt x 449.13199pt.
- [83] [84 <./assets/use-case-1/ipfs-behavior.drawio.png>]
-<assets/use-case-1/explain-kademlia.png, id=350, 1199.48125pt x 453.695pt>
+(pdftex.def)             Requested size: 227.62206pt x 280.7001pt.
+ [65] [66 <./assets/use-case-1/ipfs-behavior.drawio.png>]
+<assets/use-case-1/explain-kademlia.png, id=279, 1199.48125pt x 453.695pt>
 File: assets/use-case-1/explain-kademlia.png Graphic file (type png)
 <use assets/use-case-1/explain-kademlia.png>
 Package pdftex.def Info: assets/use-case-1/explain-kademlia.png  used on input 
 line 35.
-(pdftex.def)             Requested size: 364.19667pt x 137.75026pt.
-<assets/use-case-1/DHT.png, id=351, 691.58376pt x 900.36375pt>
+(pdftex.def)             Requested size: 227.62206pt x 86.09218pt.
+<assets/use-case-1/DHT.png, id=280, 691.58376pt x 900.36375pt>
 File: assets/use-case-1/DHT.png Graphic file (type png)
 <use assets/use-case-1/DHT.png>
 Package pdftex.def Info: assets/use-case-1/DHT.png  used on input line 42.
-(pdftex.def)             Requested size: 364.19667pt x 474.15433pt.
- [85 <./assets/use-case-1/explain-kademlia.png>]
-<assets/use-case-1/XOR1.png, id=355, 1138.2525pt x 451.6875pt>
+(pdftex.def)             Requested size: 227.62206pt x 296.33786pt.
+<assets/use-case-1/XOR1.png, id=281, 1138.2525pt x 451.6875pt>
 File: assets/use-case-1/XOR1.png Graphic file (type png)
 <use assets/use-case-1/XOR1.png>
 Package pdftex.def Info: assets/use-case-1/XOR1.png  used on input line 49.
-(pdftex.def)             Requested size: 364.19667pt x 144.52226pt.
-<assets/use-case-1/XOR2.png, id=356, 1147.28625pt x 456.70625pt>
+(pdftex.def)             Requested size: 227.62206pt x 90.32211pt.
+ [67 <./assets/use-case-1/explain-kademlia.png> <./assets/use-case-1/DHT.png>]
+<assets/use-case-1/XOR2.png, id=285, 1147.28625pt x 456.70625pt>
 File: assets/use-case-1/XOR2.png Graphic file (type png)
 <use assets/use-case-1/XOR2.png>
 Package pdftex.def Info: assets/use-case-1/XOR2.png  used on input line 56.
-(pdftex.def)             Requested size: 364.19667pt x 144.97125pt.
- [86 <./assets/use-case-1/DHT.png> <./assets/use-case-1/XOR1.png>]
+(pdftex.def)             Requested size: 227.62206pt x 90.60791pt.
+
 Overfull \hbox (18.75345pt too wide) in paragraph at lines 72--76
 \OT1/cmr/m/n/10.95 his own im-ple-men-ta-tion, but the way they are rep-re-sent
 ed is alike. \OT1/cmr/bx/n/10.95 Sfs \OT1/cmr/m/n/10.95 uses /sfs/<Location>:<H
 ostID>,
  []
 
-[87 <./assets/use-case-1/XOR2.png>]
-<assets/use-case-1/exampleNet+.png, id=364, 636.3775pt x 158.5925pt>
+[68 <./assets/use-case-1/XOR1.png> <./assets/use-case-1/XOR2.png>]
+<assets/use-case-1/exampleNet+.png, id=289, 636.3775pt x 158.5925pt>
 File: assets/use-case-1/exampleNet+.png Graphic file (type png)
 <use assets/use-case-1/exampleNet+.png>
 Package pdftex.def Info: assets/use-case-1/exampleNet+.png  used on input line 
 89.
-(pdftex.def)             Requested size: 364.19667pt x 90.76163pt.
- [88 <./assets/use-case-1/exampleNet+.png>]
-<assets/use-case-1/blobs.png, id=368, 522.95375pt x 174.6525pt>
+(pdftex.def)             Requested size: 227.62206pt x 56.72542pt.
+ [69 <./assets/use-case-1/exampleNet+.png>]
+<assets/use-case-1/blobs.png, id=293, 522.95375pt x 174.6525pt>
 File: assets/use-case-1/blobs.png Graphic file (type png)
 <use assets/use-case-1/blobs.png>
 Package pdftex.def Info: assets/use-case-1/blobs.png  used on input line 113.
-(pdftex.def)             Requested size: 364.19667pt x 121.63496pt.
-<assets/use-case-1/List.png, id=369, 945.5325pt x 536.0025pt>
+(pdftex.def)             Requested size: 227.62206pt x 76.02118pt.
+<assets/use-case-1/List.png, id=294, 945.5325pt x 536.0025pt>
 File: assets/use-case-1/List.png Graphic file (type png)
 <use assets/use-case-1/List.png>
 Package pdftex.def Info: assets/use-case-1/List.png  used on input line 122.
-(pdftex.def)             Requested size: 364.19667pt x 206.45566pt.
-
-[89 <./assets/use-case-1/blobs.png>]
-<assets/use-case-1/Trees.png, id=373, 991.705pt x 530.98375pt>
+(pdftex.def)             Requested size: 227.62206pt x 129.0358pt.
+ [70 <./assets/use-case-1/blobs.png>]
+<assets/use-case-1/Trees.png, id=299, 991.705pt x 530.98375pt>
 File: assets/use-case-1/Trees.png Graphic file (type png)
 <use assets/use-case-1/Trees.png>
 Package pdftex.def Info: assets/use-case-1/Trees.png  used on input line 132.
-(pdftex.def)             Requested size: 364.19667pt x 195.00252pt.
-<assets/use-case-1/commit.png, id=374, 806.01125pt x 296.10625pt>
+(pdftex.def)             Requested size: 227.62206pt x 121.87251pt.
+<assets/use-case-1/commit.png, id=300, 806.01125pt x 296.10625pt>
 File: assets/use-case-1/commit.png Graphic file (type png)
 <use assets/use-case-1/commit.png>
 Package pdftex.def Info: assets/use-case-1/commit.png  used on input line 142.
-(pdftex.def)             Requested size: 364.19667pt x 133.79327pt.
- [90 <./assets/use-case-1/List.png> <./assets/use-case-1/Trees.png>]
-<assets/use-case-1/ipfshow.png, id=378, 2617.78pt x 1445.4pt>
+(pdftex.def)             Requested size: 227.62206pt x 83.61853pt.
+ [71 <./assets/use-case-1/List.png> <./assets/use-case-1/Trees.png> <./assets/u
+se-case-1/commit.png>]
+<assets/use-case-1/ipfshow.png, id=304, 2617.78pt x 1445.4pt>
 File: assets/use-case-1/ipfshow.png Graphic file (type png)
 <use assets/use-case-1/ipfshow.png>
 Package pdftex.def Info: assets/use-case-1/ipfshow.png  used on input line 155.
 
-(pdftex.def)             Requested size: 364.19667pt x 201.07542pt.
- [91 <./assets/use-case-1/commit.png> <./assets/use-case-1/ipfshow.png>]
-<assets/use-case-1/Layer.png, id=382, 442.65375pt x 547.04375pt>
+(pdftex.def)             Requested size: 227.62206pt x 125.66939pt.
+<assets/use-case-1/Layer.png, id=305, 442.65375pt x 547.04375pt>
 File: assets/use-case-1/Layer.png Graphic file (type png)
 <use assets/use-case-1/Layer.png>
 Package pdftex.def Info: assets/use-case-1/Layer.png  used on input line 167.
-(pdftex.def)             Requested size: 364.19667pt x 450.10631pt.
- [92] [93 <./assets/use-case-1/Layer.png>]
-<assets/use-case-1/Master.png, id=390, 978.65625pt x 665.48625pt>
+(pdftex.def)             Requested size: 227.62206pt x 281.30914pt.
+ [72 <./assets/use-case-1/ipfshow.png>]
+<assets/use-case-1/Master.png, id=309, 978.65625pt x 665.48625pt>
 File: assets/use-case-1/Master.png Graphic file (type png)
 <use assets/use-case-1/Master.png>
 Package pdftex.def Info: assets/use-case-1/Master.png  used on input line 176.
-(pdftex.def)             Requested size: 364.19667pt x 247.65784pt.
-<assets/use-case-1/Slave.png, id=391, 980.66376pt x 663.47874pt>
+(pdftex.def)             Requested size: 227.62206pt x 154.78488pt.
+ [73 <./assets/use-case-1/Layer.png>]
+<assets/use-case-1/Slave.png, id=313, 980.66376pt x 663.47874pt>
 File: assets/use-case-1/Slave.png Graphic file (type png)
 <use assets/use-case-1/Slave.png>
 Package pdftex.def Info: assets/use-case-1/Slave.png  used on input line 183.
-(pdftex.def)             Requested size: 364.19667pt x 246.39442pt.
-<assets/use-case-1/global-vision.drawio.png, id=392, 1668.2325pt x 1162.3425pt>
+(pdftex.def)             Requested size: 227.62206pt x 153.99399pt.
+<assets/use-case-1/global-vision.drawio.png, id=314, 1668.2325pt x 1162.3425pt>
 
 File: assets/use-case-1/global-vision.drawio.png Graphic file (type png)
 <use assets/use-case-1/global-vision.drawio.png>
 Package pdftex.def Info: assets/use-case-1/global-vision.drawio.png  used on in
 put line 190.
-(pdftex.def)             Requested size: 364.19667pt x 253.74745pt.
- [94 <./assets/use-case-1/Master.png> <./assets/use-case-1/Slave.png>]
-<assets/use-case-1/hyper-ledger-view.drawio.png, id=396, 1858.945pt x 1176.395p
+(pdftex.def)             Requested size: 227.62206pt x 158.59438pt.
+<assets/use-case-1/hyper-ledger-view.drawio.png, id=315, 1858.945pt x 1176.395p
 t>
 File: assets/use-case-1/hyper-ledger-view.drawio.png Graphic file (type png)
 <use assets/use-case-1/hyper-ledger-view.drawio.png>
 Package pdftex.def Info: assets/use-case-1/hyper-ledger-view.drawio.png  used o
 n input line 197.
-(pdftex.def)             Requested size: 364.19667pt x 230.46414pt.
-<assets/use-case-1/workflow.png, id=397, 480.79625pt x 324.21124pt>
+(pdftex.def)             Requested size: 227.62206pt x 144.03336pt.
+ [74 <./assets/use-case-1/Master.png> <./assets/use-case-1/Slave.png> <./assets
+/use-case-1/global-vision.drawio.png>]
+<assets/use-case-1/workflow.png, id=320, 480.79625pt x 324.21124pt>
 File: assets/use-case-1/workflow.png Graphic file (type png)
 <use assets/use-case-1/workflow.png>
 Package pdftex.def Info: assets/use-case-1/workflow.png  used on input line 204
 .
-(pdftex.def)             Requested size: 364.19667pt x 245.59178pt.
- [95 <./assets/use-case-1/global-vision.drawio.png> <./assets/use-case-1/hyper-
-ledger-view.drawio.png>]
-[96 <./assets/use-case-1/workflow.png>]
-Overfull \hbox (59.2078pt too wide) in alignment at lines 240--251
+(pdftex.def)             Requested size: 227.62206pt x 153.49239pt.
+ [75 <./assets/use-case-1/hyper-ledger-view.drawio.png> <./assets/use-case-1/wo
+rkflow.png>]
+Overfull \hbox (6.45354pt too wide) in paragraph at lines 246--246
+[]|\OT1/cmr/bx/n/10.95 Description| 
+ []
+
+
+Overfull \hbox (1.04547pt too wide) in paragraph at lines 250--250
+[]|\OT1/cmr/bx/n/10.95 Mitigation
+ []
+
+
+Overfull \hbox (21.19087pt too wide) in alignment at lines 242--253
  [] [] [] [] [] [] [] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 256--257
+Overfull \hbox (2.1333pt too wide) in paragraph at lines 258--259
 []|\OT1/cmr/m/n/10.95 Unreachable
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 260--261
-[]|\OT1/cmr/m/n/10.95 Planning bet-ter
+Underfull \hbox (badness 10000) in paragraph at lines 262--263
+\OT1/cmr/m/n/10.95 for fu-ture
  []
 
 
-Underfull \hbox (badness 3815) in paragraph at lines 260--261
-\OT1/cmr/m/n/10.95 the next events
+Underfull \hbox (badness 10000) in paragraph at lines 262--263
+\OT1/cmr/m/n/10.95 events
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 260--261
-\OT1/cmr/m/n/10.95 and gain ex-
+Underfull \hbox (badness 10000) in paragraph at lines 262--263
+\OT1/cmr/m/n/10.95 and learn
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 260--261
-\OT1/cmr/m/n/10.95 pe-ri-ence from
+Underfull \hbox (badness 10000) in paragraph at lines 262--263
+\OT1/cmr/m/n/10.95 from past
  []
 
 
-Underfull \hbox (badness 4416) in paragraph at lines 260--261
-\OT1/cmr/m/n/10.95 pre-vi-ous de-liv-er-
+Underfull \hbox (badness 10000) in paragraph at lines 268--269
+[]|\OT1/cmr/m/n/10.95 Changing
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 266--267
-[]|\OT1/cmr/m/n/10.95 Requirements
+Underfull \hbox (badness 4846) in paragraph at lines 268--269
+\OT1/cmr/m/n/10.95 project re-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 266--267
-\OT1/cmr/m/n/10.95 of the project
+Overfull \hbox (9.09874pt too wide) in paragraph at lines 272--273
+[]|\OT1/cmr/m/n/10.95 Communicate
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 270--271
-[]|\OT1/cmr/m/n/10.95 Make fre-quent
+Underfull \hbox (badness 10000) in paragraph at lines 272--273
+\OT1/cmr/m/n/10.95 fre-quently
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 270--271
-\OT1/cmr/m/n/10.95 com-mu-ni-ca-tion
+Underfull \hbox (badness 10000) in paragraph at lines 272--273
+\OT1/cmr/m/n/10.95 hold-ers;
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 270--271
-\OT1/cmr/m/n/10.95 with stake-
+Underfull \hbox (badness 10000) in paragraph at lines 272--273
+\OT1/cmr/m/n/10.95 Ver-ify
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 270--271
-\OT1/cmr/m/n/10.95 the lim-i-ta-tions
+Underfull \hbox (badness 10000) in paragraph at lines 272--273
+\OT1/cmr/m/n/10.95 project
  []
 
 
-Underfull \hbox (badness 3536) in paragraph at lines 270--271
-\OT1/cmr/m/n/10.95 im-posed by the
+Underfull \hbox (badness 10000) in paragraph at lines 272--273
+\OT1/cmr/m/n/10.95 lim-i-ta-tions
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 280--281
-[]|\OT1/cmr/m/n/10.95 Implement only
+Underfull \hbox (badness 10000) in paragraph at lines 278--279
+[]|\OT1/cmr/m/n/10.95 Lack of
  []
 
 
-Underfull \hbox (badness 1472) in paragraph at lines 280--281
-\OT1/cmr/m/n/10.95 what is ac-tu-ally
+Underfull \hbox (badness 2875) in paragraph at lines 282--283
+[]|\OT1/cmr/m/n/10.95 Focus only
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 300--301
-[]|\OT1/cmr/m/n/10.95 Creating some
+Underfull \hbox (badness 10000) in paragraph at lines 282--283
+\OT1/cmr/m/n/10.95 im-ple-men-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 300--301
-\OT1/cmr/m/n/10.95 prac-ti-cal it-er-ac-
+Underfull \hbox (badness 10000) in paragraph at lines 288--289
+[]|\OT1/cmr/m/n/10.95 Insufficient
  []
 
 
-Underfull \hbox (badness 7777) in paragraph at lines 310--311
-\OT1/cmr/m/n/10.95 au-to-mate mode;
+Underfull \hbox (badness 10000) in paragraph at lines 292--293
+[]|\OT1/cmr/m/n/10.95 No mit-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 321--322
-\OT1/cmr/m/n/10.95 thing; Sim-plify
+Underfull \hbox (badness 10000) in paragraph at lines 292--293
+\OT1/cmr/m/n/10.95 i-ga-tion
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 321--322
-\OT1/cmr/m/n/10.95 ev-ery-thing;Join
+Underfull \hbox (badness 10000) in paragraph at lines 292--293
+\OT1/cmr/m/n/10.95 mea-sures
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 331--332
-[]|\OT1/cmr/m/n/10.95 Create and
+Underfull \hbox (badness 10000) in paragraph at lines 298--299
+[]|\OT1/cmr/m/n/10.95 Unintended
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 331--332
-\OT1/cmr/m/n/10.95 bench-mark a
+Underfull \hbox (badness 10000) in paragraph at lines 302--303
+[]|\OT1/cmr/m/n/10.95 Perform
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 331--332
-\OT1/cmr/m/n/10.95 IPFS pri-vate
+Underfull \hbox (badness 10000) in paragraph at lines 302--303
+\OT1/cmr/m/n/10.95 it-er-a-tive
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 340--341
-[]|\OT1/cmr/m/n/10.95 Create and
+Underfull \hbox (badness 10000) in paragraph at lines 302--303
+\OT1/cmr/m/n/10.95 test-ing;
  []
 
 
-Overfull \hbox (59.2078pt too wide) in alignment at lines 251--346
+Underfull \hbox (badness 10000) in paragraph at lines 302--303
+\OT1/cmr/m/n/10.95 Re-search
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 302--303
+\OT1/cmr/m/n/10.95 known
+ []
+
+
+Underfull \hbox (badness 2689) in paragraph at lines 308--309
+[]|\OT1/cmr/m/n/10.95 Human er-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 312--313
+[]|\OT1/cmr/m/n/10.95 Avoid
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 312--313
+\OT1/cmr/m/n/10.95 work-ing
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 312--313
+\OT1/cmr/m/n/10.95 in "auto-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 312--313
+\OT1/cmr/m/n/10.95 pilot"
+ []
+
+
+Underfull \hbox (badness 1194) in paragraph at lines 312--313
+\OT1/cmr/m/n/10.95 mode; Pay
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 312--313
+\OT1/cmr/m/n/10.95 closer at-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 312--313
+\OT1/cmr/m/n/10.95 ten-tion to
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 318--319
+[]|\OT1/cmr/m/n/10.95 Project
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 322--323
+[]|\OT1/cmr/m/n/10.95 Document
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 322--323
+\OT1/cmr/m/n/10.95 thor-oughly;
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 322--323
+\OT1/cmr/m/n/10.95 Sim-plify
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 322--323
+\OT1/cmr/m/n/10.95 pro-cesses;
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 322--323
+\OT1/cmr/m/n/10.95 En-gage
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 322--323
+\OT1/cmr/m/n/10.95 with com-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 328--329
+[]|\OT1/cmr/m/n/10.95 Unknown
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 328--329
+\OT1/cmr/m/n/10.95 va-lid-ity of
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 328--329
+\OT1/cmr/m/n/10.95 an IPFS
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 328--329
+\OT1/cmr/m/n/10.95 pri-vate
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 332--333
+[]|\OT1/cmr/m/n/10.95 Develop
+ []
+
+
+Underfull \hbox (badness 1033) in paragraph at lines 332--333
+\OT1/cmr/m/n/10.95 and bench-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 332--333
+\OT1/cmr/m/n/10.95 mark
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 332--333
+\OT1/cmr/m/n/10.95 an IPFS
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 332--333
+\OT1/cmr/m/n/10.95 pri-vate
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 338--339
+[]|\OT1/cmr/m/n/10.95 Unknown
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 338--339
+\OT1/cmr/m/n/10.95 va-lid-ity of
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 338--339
+\OT1/cmr/m/n/10.95 an HLF
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 342--343
+[]|\OT1/cmr/m/n/10.95 Develop
+ []
+
+
+Underfull \hbox (badness 1033) in paragraph at lines 342--343
+\OT1/cmr/m/n/10.95 and bench-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 342--343
+\OT1/cmr/m/n/10.95 mark
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 342--343
+\OT1/cmr/m/n/10.95 an HLF
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 342--343
+\OT1/cmr/m/n/10.95 pri-vate
+ []
+
+
+Overfull \hbox (21.19087pt too wide) in alignment at lines 253--348
  [] [] [] [] [] [] [] 
  []
 
-[97]
-<assets/use-case-1/swot.png, id=410, 770.88pt x 578.16pt>
+[76]
+<assets/use-case-1/swot.png, id=330, 770.88pt x 578.16pt>
 File: assets/use-case-1/swot.png Graphic file (type png)
 <use assets/use-case-1/swot.png>
-Package pdftex.def Info: assets/use-case-1/swot.png  used on input line 354.
-(pdftex.def)             Requested size: 364.19667pt x 273.14676pt.
- [98 <./assets/use-case-1/swot.png>] [99] [100]
-Overfull \hbox (12.30592pt too wide) in paragraph at lines 410--411
+Package pdftex.def Info: assets/use-case-1/swot.png  used on input line 356.
+(pdftex.def)             Requested size: 227.62206pt x 170.71451pt.
+ [77] [78 <./assets/use-case-1/swot.png>] [79] [80]
+Overfull \hbox (12.30592pt too wide) in paragraph at lines 412--413
 \OT1/cmr/bx/n/10.95 tured\OT1/cmr/m/n/10.95 ,\OT1/cmr/bx/n/10.95 identity\OT1/c
 mr/m/n/10.95 ,\OT1/cmr/bx/n/10.95 MSP's\OT1/cmr/m/n/10.95 ,\OT1/cmr/bx/n/10.95 
 policies\OT1/cmr/m/n/10.95 ,\OT1/cmr/bx/n/10.95 peers\OT1/cmr/m/n/10.95 ,\OT1/c
@@ -1952,772 +2072,520 @@ mr/bx/n/10.95 ledgers\OT1/cmr/m/n/10.95 ,\OT1/cmr/bx/n/10.95 ordering ser-vice\
 OT1/cmr/m/n/10.95 ,\OT1/cmr/bx/n/10.95 smart con-tracts and chain-
  []
 
-[101] [102]
-<assets/use-case-2/notes-cas.png, id=428, 1897.0875pt x 760.8425pt>
+[81]
+<assets/use-case-2/notes-cas.png, id=347, 1897.0875pt x 760.8425pt>
 File: assets/use-case-2/notes-cas.png Graphic file (type png)
 <use assets/use-case-2/notes-cas.png>
 Package pdftex.def Info: assets/use-case-2/notes-cas.png  used on input line 44
-2.
-(pdftex.def)             Requested size: 364.19667pt x 146.0592pt.
-<assets/use-case-2/notes-orderer.png, id=429, 1896.08376pt x 687.56876pt>
+4.
+(pdftex.def)             Requested size: 227.62206pt x 91.28554pt.
+ [82]
+<assets/use-case-2/notes-orderer.png, id=352, 1896.08376pt x 687.56876pt>
 File: assets/use-case-2/notes-orderer.png Graphic file (type png)
 <use assets/use-case-2/notes-orderer.png>
 Package pdftex.def Info: assets/use-case-2/notes-orderer.png  used on input lin
-e 451.
-(pdftex.def)             Requested size: 364.19667pt x 132.06625pt.
- [103 <./assets/use-case-2/notes-cas.png> <./assets/use-case-2/notes-orderer.pn
-g>]
-<assets/use-case-2/notes-couch.png, id=433, 1884.03876pt x 571.13374pt>
+e 453.
+(pdftex.def)             Requested size: 227.62206pt x 82.53616pt.
+<assets/use-case-2/notes-couch.png, id=353, 1884.03876pt x 571.13374pt>
 File: assets/use-case-2/notes-couch.png Graphic file (type png)
 <use assets/use-case-2/notes-couch.png>
 Package pdftex.def Info: assets/use-case-2/notes-couch.png  used on input line 
-460.
-(pdftex.def)             Requested size: 364.19667pt x 110.39893pt.
-<assets/use-case-2/notes-peers.png, id=434, 1882.03125pt x 600.2425pt>
+462.
+(pdftex.def)             Requested size: 227.62206pt x 68.99496pt.
+<assets/use-case-2/notes-peers.png, id=354, 1882.03125pt x 600.2425pt>
 File: assets/use-case-2/notes-peers.png Graphic file (type png)
 <use assets/use-case-2/notes-peers.png>
 Package pdftex.def Info: assets/use-case-2/notes-peers.png  used on input line 
-469.
-(pdftex.def)             Requested size: 364.19667pt x 116.15381pt.
-<assets/use-case-2/notes-channel.png, id=435, 1892.06876pt x 595.22375pt>
+471.
+(pdftex.def)             Requested size: 227.62206pt x 72.59384pt.
+ [83 <./assets/use-case-2/notes-cas.png> <./assets/use-case-2/notes-orderer.png
+> <./assets/use-case-2/notes-couch.png>]
+<assets/use-case-2/notes-channel.png, id=358, 1892.06876pt x 595.22375pt>
 File: assets/use-case-2/notes-channel.png Graphic file (type png)
 <use assets/use-case-2/notes-channel.png>
 Package pdftex.def Info: assets/use-case-2/notes-channel.png  used on input lin
-e 478.
-(pdftex.def)             Requested size: 364.19667pt x 114.56503pt.
- [104 <./assets/use-case-2/notes-couch.png> <./assets/use-case-2/notes-peers.pn
-g>]
-<assets/use-case-2/notes-channel-and-chaincode.png, id=440, 1895.08pt x 505.89p
+e 480.
+(pdftex.def)             Requested size: 227.62206pt x 71.60541pt.
+<assets/use-case-2/notes-channel-and-chaincode.png, id=359, 1895.08pt x 505.89p
 t>
 File: assets/use-case-2/notes-channel-and-chaincode.png Graphic file (type png)
 
 <use assets/use-case-2/notes-channel-and-chaincode.png>
 Package pdftex.def Info: assets/use-case-2/notes-channel-and-chaincode.png  use
-d on input line 487.
-(pdftex.def)             Requested size: 364.19667pt x 97.21622pt.
+d on input line 489.
+(pdftex.def)             Requested size: 227.62206pt x 60.75821pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 494--495
+Underfull \hbox (badness 10000) in paragraph at lines 496--497
 
  []
 
-<assets/use-case-2/default-first-netwrk.drawio.png, id=441, 1441.385pt x 452.69
+<assets/use-case-2/default-first-netwrk.drawio.png, id=360, 1441.385pt x 452.69
 125pt>
 File: assets/use-case-2/default-first-netwrk.drawio.png Graphic file (type png)
 
 <use assets/use-case-2/default-first-netwrk.drawio.png>
 Package pdftex.def Info: assets/use-case-2/default-first-netwrk.drawio.png  use
-d on input line 500.
-(pdftex.def)             Requested size: 409.71692pt x 128.67296pt.
-[105 <./assets/use-case-2/notes-channel.png> <./assets/use-case-2/notes-channel
--and-chaincode.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 507--508
+d on input line 502.
+(pdftex.def)             Requested size: 227.62206pt x 71.48575pt.
+[84 <./assets/use-case-2/notes-peers.png> <./assets/use-case-2/notes-channel.pn
+g> <./assets/use-case-2/notes-channel-and-chaincode.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 509--510
 
  []
 
-<assets/use-case-2/default-first-hospital.drawio.png, id=445, 944.52875pt x 452
+<assets/use-case-2/default-first-hospital.drawio.png, id=364, 944.52875pt x 452
 .69125pt>
 File: assets/use-case-2/default-first-hospital.drawio.png Graphic file (type pn
 g)
 <use assets/use-case-2/default-first-hospital.drawio.png>
 Package pdftex.def Info: assets/use-case-2/default-first-hospital.drawio.png  u
-sed on input line 512.
-(pdftex.def)             Requested size: 409.71692pt x 196.3734pt.
-<assets/use-case-2/robust-network-creation.png, id=446, 1399.2275pt x 945.5325p
+sed on input line 514.
+(pdftex.def)             Requested size: 227.62206pt x 109.0902pt.
+<assets/use-case-2/robust-network-creation.png, id=365, 1399.2275pt x 945.5325p
 t>
 File: assets/use-case-2/robust-network-creation.png Graphic file (type png)
 <use assets/use-case-2/robust-network-creation.png>
 Package pdftex.def Info: assets/use-case-2/robust-network-creation.png  used on
- input line 521.
-(pdftex.def)             Requested size: 409.71692pt x 276.86652pt.
-[106 <./assets/use-case-2/default-first-netwrk.drawio.png> <./assets/use-case-2
-/default-first-hospital.drawio.png>] [107 <./assets/use-case-2/robust-network-c
-reation.png>]
-<assets/use-case-2/first-benchmarking.png, id=455, 1905.1175pt x 956.57375pt>
+ input line 523.
+(pdftex.def)             Requested size: 227.62206pt x 153.81313pt.
+[85 <./assets/use-case-2/default-first-netwrk.drawio.png> <./assets/use-case-2/
+default-first-hospital.drawio.png>]
+<assets/use-case-2/first-benchmarking.png, id=372, 1905.1175pt x 956.57375pt>
 File: assets/use-case-2/first-benchmarking.png Graphic file (type png)
 <use assets/use-case-2/first-benchmarking.png>
 Package pdftex.def Info: assets/use-case-2/first-benchmarking.png  used on inpu
-t line 544.
-(pdftex.def)             Requested size: 409.71692pt x 205.71773pt.
-<assets/use-case-2/first-benchmarking2.png, id=456, 1622.06pt x 295.1025pt>
+t line 546.
+(pdftex.def)             Requested size: 227.62206pt x 114.28763pt.
+ [86 <./assets/use-case-2/robust-network-creation.png>]
+<assets/use-case-2/first-benchmarking2.png, id=376, 1622.06pt x 295.1025pt>
 File: assets/use-case-2/first-benchmarking2.png Graphic file (type png)
 <use assets/use-case-2/first-benchmarking2.png>
 Package pdftex.def Info: assets/use-case-2/first-benchmarking2.png  used on inp
-ut line 551.
-(pdftex.def)             Requested size: 409.71692pt x 74.54092pt.
-<assets/use-case-2/first-benchmarking-hospital.png, id=457, 746.79pt x 765.8612
+ut line 553.
+(pdftex.def)             Requested size: 227.62206pt x 41.40862pt.
+<assets/use-case-2/first-benchmarking-hospital.png, id=377, 746.79pt x 765.8612
 5pt>
 File: assets/use-case-2/first-benchmarking-hospital.png Graphic file (type png)
 
 <use assets/use-case-2/first-benchmarking-hospital.png>
 Package pdftex.def Info: assets/use-case-2/first-benchmarking-hospital.png  use
-d on input line 560.
-(pdftex.def)             Requested size: 409.71692pt x 420.17323pt.
- [108 <./assets/use-case-2/first-benchmarking.png> <./assets/use-case-2/first-b
-enchmarking2.png>]
-<assets/use-case-2/first-benchmarking-hospital2.png, id=461, 1208.515pt x 304.1
+d on input line 562.
+(pdftex.def)             Requested size: 227.62206pt x 233.42958pt.
+<assets/use-case-2/first-benchmarking-hospital2.png, id=378, 1208.515pt x 304.1
 3625pt>
 File: assets/use-case-2/first-benchmarking-hospital2.png Graphic file (type png
 )
 <use assets/use-case-2/first-benchmarking-hospital2.png>
 Package pdftex.def Info: assets/use-case-2/first-benchmarking-hospital2.png  us
-ed on input line 567.
-(pdftex.def)             Requested size: 409.71692pt x 103.10794pt.
-<assets/use-case-2/first-benchmarking-hospital3.png, id=462, 587.19376pt x 562.
+ed on input line 569.
+(pdftex.def)             Requested size: 227.62206pt x 57.28064pt.
+ [87 <./assets/use-case-2/first-benchmarking.png> <./assets/use-case-2/first-be
+nchmarking2.png> <./assets/use-case-2/first-benchmarking-hospital.png>]
+<assets/use-case-2/first-benchmarking-hospital3.png, id=382, 587.19376pt x 562.
 1pt>
 File: assets/use-case-2/first-benchmarking-hospital3.png Graphic file (type png
 )
 <use assets/use-case-2/first-benchmarking-hospital3.png>
 Package pdftex.def Info: assets/use-case-2/first-benchmarking-hospital3.png  us
-ed on input line 574.
-(pdftex.def)             Requested size: 409.71692pt x 392.20651pt.
- [109 <./assets/use-case-2/first-benchmarking-hospital.png> <./assets/use-case-
-2/first-benchmarking-hospital2.png>] [110 <./assets/use-case-2/first-benchmarki
-ng-hospital3.png>]
-<assets/use-case-2/kubernetes-study.png, id=471, 931.48pt x 948.54375pt>
+ed on input line 576.
+(pdftex.def)             Requested size: 227.62206pt x 217.88869pt.
+<assets/use-case-2/kubernetes-study.png, id=383, 931.48pt x 948.54375pt>
 File: assets/use-case-2/kubernetes-study.png Graphic file (type png)
 <use assets/use-case-2/kubernetes-study.png>
 Package pdftex.def Info: assets/use-case-2/kubernetes-study.png  used on input 
-line 589.
-(pdftex.def)             Requested size: 409.71692pt x 417.2158pt.
-<assets/use-case-2/kubernetes-study2.png, id=472, 1502.61375pt x 895.345pt>
+line 591.
+(pdftex.def)             Requested size: 227.62206pt x 231.78012pt.
+ [88 <./assets/use-case-2/first-benchmarking-hospital2.png> <./assets/use-case-
+2/first-benchmarking-hospital3.png>]
+<assets/use-case-2/kubernetes-study2.png, id=389, 1502.61375pt x 895.345pt>
 File: assets/use-case-2/kubernetes-study2.png Graphic file (type png)
 <use assets/use-case-2/kubernetes-study2.png>
 Package pdftex.def Info: assets/use-case-2/kubernetes-study2.png  used on input
- line 596.
-(pdftex.def)             Requested size: 409.71692pt x 244.12354pt.
- [111 <./assets/use-case-2/kubernetes-study.png>]
-<assets/use-case-2/hlf-kuber-premise-network.png, id=476, 951.555pt x 492.84125
+ line 598.
+(pdftex.def)             Requested size: 227.62206pt x 135.62115pt.
+<assets/use-case-2/hlf-kuber-premise-network.png, id=390, 951.555pt x 492.84125
 pt>
 File: assets/use-case-2/hlf-kuber-premise-network.png Graphic file (type png)
 <use assets/use-case-2/hlf-kuber-premise-network.png>
 Package pdftex.def Info: assets/use-case-2/hlf-kuber-premise-network.png  used 
-on input line 606.
-(pdftex.def)             Requested size: 409.71692pt x 212.20335pt.
- [112 <./assets/use-case-2/kubernetes-study2.png>]
-<assets/use-case-2/hlf-kuber-premise-network2.png, id=480, 1616.0375pt x 943.52
+on input line 608.
+(pdftex.def)             Requested size: 227.62206pt x 117.89326pt.
+ [89 <./assets/use-case-2/kubernetes-study.png> <./assets/use-case-2/kubernetes
+-study2.png>]
+<assets/use-case-2/hlf-kuber-premise-network2.png, id=394, 1616.0375pt x 943.52
 5pt>
 File: assets/use-case-2/hlf-kuber-premise-network2.png Graphic file (type png)
 <use assets/use-case-2/hlf-kuber-premise-network2.png>
 Package pdftex.def Info: assets/use-case-2/hlf-kuber-premise-network2.png  used
- on input line 613.
-(pdftex.def)             Requested size: 409.71692pt x 239.20638pt.
- [113 <./assets/use-case-2/hlf-kuber-premise-network.png> <./assets/use-case-2/
-hlf-kuber-premise-network2.png>]
-<assets/use-case-2/automation-diagram.drawio.png, id=485, 2521.42pt x 1004.7537
+ on input line 615.
+(pdftex.def)             Requested size: 227.62206pt x 132.88443pt.
+ [90 <./assets/use-case-2/hlf-kuber-premise-network.png> <./assets/use-case-2/h
+lf-kuber-premise-network2.png>]
+<assets/use-case-2/automation-diagram.drawio.png, id=399, 2521.42pt x 1004.7537
 5pt>
 File: assets/use-case-2/automation-diagram.drawio.png Graphic file (type png)
 <use assets/use-case-2/automation-diagram.drawio.png>
 Package pdftex.def Info: assets/use-case-2/automation-diagram.drawio.png  used 
-on input line 629.
-(pdftex.def)             Requested size: 409.71692pt x 163.26288pt.
-<assets/use-case-2/automation-creation.png, id=486, 1526.70375pt x 861.2175pt>
+on input line 631.
+(pdftex.def)             Requested size: 227.62206pt x 90.69989pt.
+<assets/use-case-2/automation-creation.png, id=400, 1526.70375pt x 861.2175pt>
 File: assets/use-case-2/automation-creation.png Graphic file (type png)
 <use assets/use-case-2/automation-creation.png>
 Package pdftex.def Info: assets/use-case-2/automation-creation.png  used on inp
-ut line 636.
-(pdftex.def)             Requested size: 409.71692pt x 231.1126pt.
- [114 <./assets/use-case-2/automation-diagram.drawio.png>]
-<assets/use-case-2/orderer-admin-manager.png, id=491, 1694.33pt x 806.01125pt>
+ut line 638.
+(pdftex.def)             Requested size: 227.62206pt x 128.40172pt.
+<assets/use-case-2/orderer-admin-manager.png, id=401, 1694.33pt x 806.01125pt>
 File: assets/use-case-2/orderer-admin-manager.png Graphic file (type png)
 <use assets/use-case-2/orderer-admin-manager.png>
 Package pdftex.def Info: assets/use-case-2/orderer-admin-manager.png  used on i
-nput line 643.
-(pdftex.def)             Requested size: 409.71692pt x 194.8979pt.
-<assets/use-case-2/peer-manager-prototype-page.png, id=492, 1694.33pt x 806.011
+nput line 645.
+(pdftex.def)             Requested size: 227.62206pt x 108.27797pt.
+<assets/use-case-2/peer-manager-prototype-page.png, id=402, 1694.33pt x 806.011
 25pt>
 File: assets/use-case-2/peer-manager-prototype-page.png Graphic file (type png)
 
 <use assets/use-case-2/peer-manager-prototype-page.png>
 Package pdftex.def Info: assets/use-case-2/peer-manager-prototype-page.png  use
-d on input line 650.
-(pdftex.def)             Requested size: 409.71692pt x 194.8979pt.
- [115 <./assets/use-case-2/automation-creation.png> <./assets/use-case-2/ordere
-r-admin-manager.png>]
-<assets/use-case-2/kubernetes-network.drawio.png, id=497, 1376.14125pt x 834.11
+d on input line 652.
+(pdftex.def)             Requested size: 227.62206pt x 108.27797pt.
+<assets/use-case-2/kubernetes-network.drawio.png, id=403, 1376.14125pt x 834.11
 626pt>
 File: assets/use-case-2/kubernetes-network.drawio.png Graphic file (type png)
 <use assets/use-case-2/kubernetes-network.drawio.png>
 Package pdftex.def Info: assets/use-case-2/kubernetes-network.drawio.png  used 
-on input line 659.
-(pdftex.def)             Requested size: 409.71692pt x 248.3404pt.
- [116 <./assets/use-case-2/peer-manager-prototype-page.png> <./assets/use-case-
-2/kubernetes-network.drawio.png>]
+on input line 661.
+(pdftex.def)             Requested size: 227.62206pt x 137.96689pt.
+ [91 <./assets/use-case-2/automation-diagram.drawio.png> <./assets/use-case-2/a
+utomation-creation.png> <./assets/use-case-2/orderer-admin-manager.png> <./asse
+ts/use-case-2/peer-manager-prototype-page.png>]
 File: assets/use-case-2/default-first-netwrk.drawio.png Graphic file (type png)
 
 <use assets/use-case-2/default-first-netwrk.drawio.png>
 Package pdftex.def Info: assets/use-case-2/default-first-netwrk.drawio.png  use
-d on input line 671.
-(pdftex.def)             Requested size: 409.71692pt x 128.67296pt.
-<assets/use-case-2/scenario1.png, id=504, 1751.54375pt x 736.7525pt>
+d on input line 673.
+(pdftex.def)             Requested size: 227.62206pt x 71.48575pt.
+<assets/use-case-2/scenario1.png, id=410, 1751.54375pt x 736.7525pt>
 File: assets/use-case-2/scenario1.png Graphic file (type png)
 <use assets/use-case-2/scenario1.png>
 Package pdftex.def Info: assets/use-case-2/scenario1.png  used on input line 68
-0.
-(pdftex.def)             Requested size: 409.71692pt x 172.33868pt.
-<assets/use-case-2/scenario2.png, id=505, 2053.6725pt x 585.18625pt>
+2.
+(pdftex.def)             Requested size: 227.62206pt x 95.7362pt.
+ [92 <./assets/use-case-2/kubernetes-network.drawio.png>]
+<assets/use-case-2/scenario2.png, id=415, 2053.6725pt x 585.18625pt>
 File: assets/use-case-2/scenario2.png Graphic file (type png)
 <use assets/use-case-2/scenario2.png>
-Package pdftex.def Info: assets/use-case-2/scenario2.png  used on input line 68
-9.
-(pdftex.def)             Requested size: 409.71692pt x 116.74051pt.
- [117 <./assets/use-case-2/scenario1.png>]
-<assets/use-case-2/scenario3.png, id=510, 1998.46625pt x 512.91624pt>
+Package pdftex.def Info: assets/use-case-2/scenario2.png  used on input line 69
+1.
+(pdftex.def)             Requested size: 227.62206pt x 64.85286pt.
+<assets/use-case-2/scenario3.png, id=416, 1998.46625pt x 512.91624pt>
 File: assets/use-case-2/scenario3.png Graphic file (type png)
 <use assets/use-case-2/scenario3.png>
-Package pdftex.def Info: assets/use-case-2/scenario3.png  used on input line 69
-8.
-(pdftex.def)             Requested size: 409.71692pt x 105.15633pt.
-<assets/use-case-2/scenario4.png, id=511, 1998.46625pt x 934.49126pt>
+Package pdftex.def Info: assets/use-case-2/scenario3.png  used on input line 70
+0.
+(pdftex.def)             Requested size: 227.62206pt x 58.4167pt.
+<assets/use-case-2/scenario4.png, id=417, 1998.46625pt x 934.49126pt>
 File: assets/use-case-2/scenario4.png Graphic file (type png)
 <use assets/use-case-2/scenario4.png>
 Package pdftex.def Info: assets/use-case-2/scenario4.png  used on input line 70
-7.
-(pdftex.def)             Requested size: 409.71692pt x 191.5862pt.
- [118 <./assets/use-case-2/scenario2.png> <./assets/use-case-2/scenario3.png> <
-./assets/use-case-2/scenario4.png>]
-<assets/use-case-2/scenario5.png, id=518, 2139.995pt x 935.495pt>
+9.
+(pdftex.def)             Requested size: 227.62206pt x 106.43044pt.
+ [93 <./assets/use-case-2/scenario1.png> <./assets/use-case-2/scenario2.png> <.
+/assets/use-case-2/scenario3.png> <./assets/use-case-2/scenario4.png>]
+<assets/use-case-2/scenario5.png, id=425, 2139.995pt x 935.495pt>
 File: assets/use-case-2/scenario5.png Graphic file (type png)
 <use assets/use-case-2/scenario5.png>
 Package pdftex.def Info: assets/use-case-2/scenario5.png  used on input line 71
-6.
-(pdftex.def)             Requested size: 409.71692pt x 179.10196pt.
- [119 <./assets/use-case-2/scenario5.png>]
-<assets/use-case-2/docker.png, id=524, 1420.30624pt x 708.6475pt>
+8.
+(pdftex.def)             Requested size: 227.62206pt x 99.49316pt.
+ [94 <./assets/use-case-2/scenario5.png>]
+<assets/use-case-2/docker.png, id=432, 1420.30624pt x 708.6475pt>
 File: assets/use-case-2/docker.png Graphic file (type png)
 <use assets/use-case-2/docker.png>
-Package pdftex.def Info: assets/use-case-2/docker.png  used on input line 733.
-(pdftex.def)             Requested size: 409.71692pt x 204.4212pt.
-<assets/use-case-2/k8.png, id=525, 1326.9575pt x 758.835pt>
+Package pdftex.def Info: assets/use-case-2/docker.png  used on input line 735.
+(pdftex.def)             Requested size: 227.62206pt x 113.56973pt.
+<assets/use-case-2/k8.png, id=433, 1326.9575pt x 758.835pt>
 File: assets/use-case-2/k8.png Graphic file (type png)
 <use assets/use-case-2/k8.png>
-Package pdftex.def Info: assets/use-case-2/k8.png  used on input line 743.
-(pdftex.def)             Requested size: 409.71692pt x 234.29854pt.
- [120 <./assets/use-case-2/docker.png>]
-<assets/use-case-2/k8-lb.png, id=529, 1329.96875pt x 756.8275pt>
+Package pdftex.def Info: assets/use-case-2/k8.png  used on input line 745.
+(pdftex.def)             Requested size: 227.62206pt x 130.15813pt.
+<assets/use-case-2/k8-lb.png, id=434, 1329.96875pt x 756.8275pt>
 File: assets/use-case-2/k8-lb.png Graphic file (type png)
 <use assets/use-case-2/k8-lb.png>
-Package pdftex.def Info: assets/use-case-2/k8-lb.png  used on input line 753.
-(pdftex.def)             Requested size: 409.71692pt x 233.14748pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 759--760
+Package pdftex.def Info: assets/use-case-2/k8-lb.png  used on input line 755.
+(pdftex.def)             Requested size: 227.62206pt x 129.52509pt.
+ [95 <./assets/use-case-2/docker.png> <./assets/use-case-2/k8.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 761--762
 
  []
 
-[121 <./assets/use-case-2/k8.png> <./assets/use-case-2/k8-lb.png>]
-<assets/use-case-2/docker-evaluation.png, id=533, 1606.0pt x 773.89125pt>
+<assets/use-case-2/docker-evaluation.png, id=438, 1606.0pt x 773.89125pt>
 File: assets/use-case-2/docker-evaluation.png Graphic file (type png)
 <use assets/use-case-2/docker-evaluation.png>
 Package pdftex.def Info: assets/use-case-2/docker-evaluation.png  used on input
- line 769.
-(pdftex.def)             Requested size: 409.71692pt x 197.42822pt.
-<assets/use-case-2/evaluation-of-k8-and-k8-with-lb.png, id=534, 1606.0pt x 771.
+ line 771.
+(pdftex.def)             Requested size: 227.62206pt x 109.6784pt.
+<assets/use-case-2/evaluation-of-k8-and-k8-with-lb.png, id=439, 1606.0pt x 771.
 88374pt>
 File: assets/use-case-2/evaluation-of-k8-and-k8-with-lb.png Graphic file (type 
 png)
 <use assets/use-case-2/evaluation-of-k8-and-k8-with-lb.png>
 Package pdftex.def Info: assets/use-case-2/evaluation-of-k8-and-k8-with-lb.png 
- used on input line 778.
-(pdftex.def)             Requested size: 409.71692pt x 196.91608pt.
- [122 <./assets/use-case-2/docker-evaluation.png>] [123 <./assets/use-case-2/ev
-aluation-of-k8-and-k8-with-lb.png>]
-<assets/use-case-2/block-explorer-dashboard.png, id=542, 1606.0pt x 825.0825pt>
+ used on input line 780.
+(pdftex.def)             Requested size: 227.62206pt x 109.39389pt.
+[96 <./assets/use-case-2/k8-lb.png> <./assets/use-case-2/docker-evaluation.png>
+] [97 <./assets/use-case-2/evaluation-of-k8-and-k8-with-lb.png>]
+<assets/use-case-2/block-explorer-dashboard.png, id=446, 1606.0pt x 825.0825pt>
 
 File: assets/use-case-2/block-explorer-dashboard.png Graphic file (type png)
 <use assets/use-case-2/block-explorer-dashboard.png>
 Package pdftex.def Info: assets/use-case-2/block-explorer-dashboard.png  used o
-n input line 814.
-(pdftex.def)             Requested size: 409.71692pt x 210.48767pt.
- [124]
-<assets/use-case-2/block-explorer-network.png, id=546, 1606.0pt x 821.0675pt>
+n input line 816.
+(pdftex.def)             Requested size: 227.62206pt x 116.9334pt.
+<assets/use-case-2/block-explorer-network.png, id=447, 1606.0pt x 821.0675pt>
 File: assets/use-case-2/block-explorer-network.png Graphic file (type png)
 <use assets/use-case-2/block-explorer-network.png>
 Package pdftex.def Info: assets/use-case-2/block-explorer-network.png  used on 
-input line 823.
-(pdftex.def)             Requested size: 409.71692pt x 209.46341pt.
-<assets/use-case-2/block-explorer-blocks.png, id=547, 1606.0pt x 835.12pt>
+input line 825.
+(pdftex.def)             Requested size: 227.62206pt x 116.36438pt.
+ [98 <./assets/use-case-2/block-explorer-dashboard.png>]
+<assets/use-case-2/block-explorer-blocks.png, id=451, 1606.0pt x 835.12pt>
 File: assets/use-case-2/block-explorer-blocks.png Graphic file (type png)
 <use assets/use-case-2/block-explorer-blocks.png>
 Package pdftex.def Info: assets/use-case-2/block-explorer-blocks.png  used on i
-nput line 832.
-(pdftex.def)             Requested size: 409.71692pt x 213.04836pt.
- [125 <./assets/use-case-2/block-explorer-dashboard.png> <./assets/use-case-2/b
-lock-explorer-network.png>]
-<assets/use-case-2/block-explorer-transactions.png, id=551, 1606.0pt x 841.1425
+nput line 834.
+(pdftex.def)             Requested size: 227.62206pt x 118.35594pt.
+<assets/use-case-2/block-explorer-transactions.png, id=452, 1606.0pt x 841.1425
 pt>
 File: assets/use-case-2/block-explorer-transactions.png Graphic file (type png)
 
 <use assets/use-case-2/block-explorer-transactions.png>
 Package pdftex.def Info: assets/use-case-2/block-explorer-transactions.png  use
-d on input line 841.
-(pdftex.def)             Requested size: 409.71692pt x 214.58476pt.
-<assets/use-case-2/block-explorer-chaincode.png, id=552, 1606.0pt x 823.075pt>
+d on input line 843.
+(pdftex.def)             Requested size: 227.62206pt x 119.20947pt.
+ [99 <./assets/use-case-2/block-explorer-network.png> <./assets/use-case-2/bloc
+k-explorer-blocks.png> <./assets/use-case-2/block-explorer-transactions.png>]
+<assets/use-case-2/block-explorer-chaincode.png, id=456, 1606.0pt x 823.075pt>
 File: assets/use-case-2/block-explorer-chaincode.png Graphic file (type png)
 <use assets/use-case-2/block-explorer-chaincode.png>
 Package pdftex.def Info: assets/use-case-2/block-explorer-chaincode.png  used o
-n input line 850.
-(pdftex.def)             Requested size: 409.71692pt x 209.97554pt.
- [126 <./assets/use-case-2/block-explorer-blocks.png> <./assets/use-case-2/bloc
-k-explorer-transactions.png>]
-<assets/use-case-2/block-explorer-channels.png, id=556, 1606.0pt x 830.10126pt>
+n input line 852.
+(pdftex.def)             Requested size: 227.62206pt x 116.64888pt.
+<assets/use-case-2/block-explorer-channels.png, id=457, 1606.0pt x 830.10126pt>
 
 File: assets/use-case-2/block-explorer-channels.png Graphic file (type png)
 <use assets/use-case-2/block-explorer-channels.png>
 Package pdftex.def Info: assets/use-case-2/block-explorer-channels.png  used on
- input line 859.
-(pdftex.def)             Requested size: 409.71692pt x 211.76802pt.
-<assets/use-case-2/general-network-dashboard.png, id=557, 1606.0pt x 857.2025pt
+ input line 861.
+(pdftex.def)             Requested size: 227.62206pt x 117.64467pt.
+<assets/use-case-2/general-network-dashboard.png, id=458, 1606.0pt x 857.2025pt
 >
 File: assets/use-case-2/general-network-dashboard.png Graphic file (type png)
 <use assets/use-case-2/general-network-dashboard.png>
 Package pdftex.def Info: assets/use-case-2/general-network-dashboard.png  used 
-on input line 871.
-(pdftex.def)             Requested size: 409.71692pt x 218.68184pt.
- [127 <./assets/use-case-2/block-explorer-chaincode.png> <./assets/use-case-2/b
+on input line 873.
+(pdftex.def)             Requested size: 227.62206pt x 121.48555pt.
+ [100 <./assets/use-case-2/block-explorer-chaincode.png> <./assets/use-case-2/b
 lock-explorer-channels.png>]
-<assets/use-case-2/general-network-resources.png, id=561, 1606.0pt x 820.06375p
+<assets/use-case-2/general-network-resources.png, id=463, 1606.0pt x 820.06375p
 t>
 File: assets/use-case-2/general-network-resources.png Graphic file (type png)
 <use assets/use-case-2/general-network-resources.png>
 Package pdftex.def Info: assets/use-case-2/general-network-resources.png  used 
-on input line 880.
-(pdftex.def)             Requested size: 409.71692pt x 209.20734pt.
-<assets/use-case-2/network-visualization.png, id=562, 1606.0pt x 828.09375pt>
+on input line 882.
+(pdftex.def)             Requested size: 227.62206pt x 116.22212pt.
+<assets/use-case-2/network-visualization.png, id=464, 1606.0pt x 828.09375pt>
 File: assets/use-case-2/network-visualization.png Graphic file (type png)
 <use assets/use-case-2/network-visualization.png>
 Package pdftex.def Info: assets/use-case-2/network-visualization.png  used on i
-nput line 889.
-(pdftex.def)             Requested size: 409.71692pt x 211.25587pt.
- [128 <./assets/use-case-2/general-network-dashboard.png> <./assets/use-case-2/
-general-network-resources.png>]
-<assets/use-case-2/peer-config-upload-configs.png, id=567, 1606.0pt x 836.12375
+nput line 891.
+(pdftex.def)             Requested size: 227.62206pt x 117.36017pt.
+ [101 <./assets/use-case-2/general-network-dashboard.png> <./assets/use-case-2/
+general-network-resources.png> <./assets/use-case-2/network-visualization.png>]
+<assets/use-case-2/peer-config-upload-configs.png, id=468, 1606.0pt x 836.12375
 pt>
 File: assets/use-case-2/peer-config-upload-configs.png Graphic file (type png)
 <use assets/use-case-2/peer-config-upload-configs.png>
 Package pdftex.def Info: assets/use-case-2/peer-config-upload-configs.png  used
- on input line 901.
-(pdftex.def)             Requested size: 409.71692pt x 213.30441pt.
-<assets/use-case-2/peer-config-query-channels.png, id=568, 1606.0pt x 814.04124
+ on input line 903.
+(pdftex.def)             Requested size: 227.62206pt x 118.4982pt.
+<assets/use-case-2/peer-config-query-channels.png, id=469, 1606.0pt x 814.04124
 pt>
 File: assets/use-case-2/peer-config-query-channels.png Graphic file (type png)
 <use assets/use-case-2/peer-config-query-channels.png>
 Package pdftex.def Info: assets/use-case-2/peer-config-query-channels.png  used
- on input line 910.
-(pdftex.def)             Requested size: 409.71692pt x 207.67093pt.
- [129 <./assets/use-case-2/network-visualization.png> <./assets/use-case-2/peer
--config-upload-configs.png>]
-<assets/use-case-2/peer-config-fetch-channel.png, id=572, 1606.0pt x 836.12375p
+ on input line 912.
+(pdftex.def)             Requested size: 227.62206pt x 115.36859pt.
+<assets/use-case-2/peer-config-fetch-channel.png, id=470, 1606.0pt x 836.12375p
 t>
 File: assets/use-case-2/peer-config-fetch-channel.png Graphic file (type png)
 <use assets/use-case-2/peer-config-fetch-channel.png>
 Package pdftex.def Info: assets/use-case-2/peer-config-fetch-channel.png  used 
-on input line 919.
-(pdftex.def)             Requested size: 409.71692pt x 213.30441pt.
-<assets/use-case-2/peer-config-join-channel.png, id=573, 1606.0pt x 820.06375pt
+on input line 921.
+(pdftex.def)             Requested size: 227.62206pt x 118.4982pt.
+<assets/use-case-2/peer-config-join-channel.png, id=471, 1606.0pt x 820.06375pt
 >
 File: assets/use-case-2/peer-config-join-channel.png Graphic file (type png)
 <use assets/use-case-2/peer-config-join-channel.png>
 Package pdftex.def Info: assets/use-case-2/peer-config-join-channel.png  used o
-n input line 928.
-(pdftex.def)             Requested size: 409.71692pt x 209.20734pt.
- [130 <./assets/use-case-2/peer-config-query-channels.png> <./assets/use-case-2
-/peer-config-fetch-channel.png>]
-<assets/use-case-2/peer-config-install-chaincode.png, id=577, 1606.0pt x 831.10
+n input line 930.
+(pdftex.def)             Requested size: 227.62206pt x 116.22212pt.
+ [102 <./assets/use-case-2/peer-config-upload-configs.png> <./assets/use-case-2
+/peer-config-query-channels.png> <./assets/use-case-2/peer-config-fetch-channel
+.png>]
+<assets/use-case-2/peer-config-install-chaincode.png, id=475, 1606.0pt x 831.10
 5pt>
 File: assets/use-case-2/peer-config-install-chaincode.png Graphic file (type pn
 g)
 <use assets/use-case-2/peer-config-install-chaincode.png>
 Package pdftex.def Info: assets/use-case-2/peer-config-install-chaincode.png  u
-sed on input line 937.
-(pdftex.def)             Requested size: 409.71692pt x 212.02408pt.
-<assets/use-case-2/peer-config-query-chaincode.png, id=578, 1606.0pt x 832.1087
+sed on input line 939.
+(pdftex.def)             Requested size: 227.62206pt x 117.78693pt.
+<assets/use-case-2/peer-config-query-chaincode.png, id=476, 1606.0pt x 832.1087
 5pt>
 File: assets/use-case-2/peer-config-query-chaincode.png Graphic file (type png)
 
 <use assets/use-case-2/peer-config-query-chaincode.png>
 Package pdftex.def Info: assets/use-case-2/peer-config-query-chaincode.png  use
-d on input line 946.
-(pdftex.def)             Requested size: 409.71692pt x 212.28015pt.
- [131 <./assets/use-case-2/peer-config-join-channel.png> <./assets/use-case-2/p
-eer-config-install-chaincode.png>]
-<assets/use-case-2/peer-config-approve-chaincode.png, id=582, 1606.0pt x 815.04
+d on input line 948.
+(pdftex.def)             Requested size: 227.62206pt x 117.92918pt.
+<assets/use-case-2/peer-config-approve-chaincode.png, id=477, 1606.0pt x 815.04
 5pt>
 File: assets/use-case-2/peer-config-approve-chaincode.png Graphic file (type pn
 g)
 <use assets/use-case-2/peer-config-approve-chaincode.png>
 Package pdftex.def Info: assets/use-case-2/peer-config-approve-chaincode.png  u
-sed on input line 955.
-(pdftex.def)             Requested size: 409.71692pt x 207.92699pt.
-<assets/use-case-2/peer-config-query-chaincode-approvals.png, id=583, 1606.0pt 
+sed on input line 957.
+(pdftex.def)             Requested size: 227.62206pt x 115.51085pt.
+
+[103 <./assets/use-case-2/peer-config-join-channel.png> <./assets/use-case-2/pe
+er-config-install-chaincode.png> <./assets/use-case-2/peer-config-query-chainco
+de.png>]
+<assets/use-case-2/peer-config-query-chaincode-approvals.png, id=481, 1606.0pt 
 x 847.165pt>
 File: assets/use-case-2/peer-config-query-chaincode-approvals.png Graphic file 
 (type png)
 <use assets/use-case-2/peer-config-query-chaincode-approvals.png>
 Package pdftex.def Info: assets/use-case-2/peer-config-query-chaincode-approval
-s.png  used on input line 964.
-(pdftex.def)             Requested size: 409.71692pt x 216.12115pt.
-[132 <./assets/use-case-2/peer-config-query-chaincode.png> <./assets/use-case-2
-/peer-config-approve-chaincode.png>]
-<assets/use-case-2/peer-config-commit-chaincode.png, id=587, 1606.0pt x 838.131
+s.png  used on input line 966.
+(pdftex.def)             Requested size: 227.62206pt x 120.063pt.
+<assets/use-case-2/peer-config-commit-chaincode.png, id=482, 1606.0pt x 838.131
 26pt>
 File: assets/use-case-2/peer-config-commit-chaincode.png Graphic file (type png
 )
 <use assets/use-case-2/peer-config-commit-chaincode.png>
 Package pdftex.def Info: assets/use-case-2/peer-config-commit-chaincode.png  us
-ed on input line 973.
-(pdftex.def)             Requested size: 409.71692pt x 213.81656pt.
-<assets/use-case-2/peer-config-invoke-chaincode.png, id=588, 1606.0pt x 842.146
+ed on input line 975.
+(pdftex.def)             Requested size: 227.62206pt x 118.78271pt.
+<assets/use-case-2/peer-config-invoke-chaincode.png, id=483, 1606.0pt x 842.146
 26pt>
 File: assets/use-case-2/peer-config-invoke-chaincode.png Graphic file (type png
 )
 <use assets/use-case-2/peer-config-invoke-chaincode.png>
 Package pdftex.def Info: assets/use-case-2/peer-config-invoke-chaincode.png  us
-ed on input line 982.
-(pdftex.def)             Requested size: 409.71692pt x 214.84084pt.
- [133 <./assets/use-case-2/peer-config-query-chaincode-approvals.png> <./assets
-/use-case-2/peer-config-commit-chaincode.png>]
-<assets/use-case-2/peer-config-custom-commands.png, id=593, 1606.0pt x 840.1387
+ed on input line 984.
+(pdftex.def)             Requested size: 227.62206pt x 119.35173pt.
+ [104 <./assets/use-case-2/peer-config-approve-chaincode.png> <./assets/use-cas
+e-2/peer-config-query-chaincode-approvals.png> <./assets/use-case-2/peer-config
+-commit-chaincode.png>]
+<assets/use-case-2/peer-config-custom-commands.png, id=487, 1606.0pt x 840.1387
 5pt>
 File: assets/use-case-2/peer-config-custom-commands.png Graphic file (type png)
 
 <use assets/use-case-2/peer-config-custom-commands.png>
 Package pdftex.def Info: assets/use-case-2/peer-config-custom-commands.png  use
-d on input line 991.
-(pdftex.def)             Requested size: 409.71692pt x 214.32869pt.
-<assets/use-case-2/orderer-config-creating-channel.png, id=594, 1606.0pt x 808.
+d on input line 993.
+(pdftex.def)             Requested size: 227.62206pt x 119.06721pt.
+<assets/use-case-2/orderer-config-creating-channel.png, id=488, 1606.0pt x 808.
 01875pt>
 File: assets/use-case-2/orderer-config-creating-channel.png Graphic file (type 
 png)
 <use assets/use-case-2/orderer-config-creating-channel.png>
 Package pdftex.def Info: assets/use-case-2/orderer-config-creating-channel.png 
- used on input line 1003.
-(pdftex.def)             Requested size: 409.71692pt x 206.13452pt.
- [134 <./assets/use-case-2/peer-config-invoke-chaincode.png> <./assets/use-case
--2/peer-config-custom-commands.png>]
-<assets/use-case-2/orderer-config-join-channel.png, id=599, 1606.0pt x 838.1312
+ used on input line 1005.
+(pdftex.def)             Requested size: 227.62206pt x 114.51506pt.
+<assets/use-case-2/orderer-config-join-channel.png, id=489, 1606.0pt x 838.1312
 6pt>
 File: assets/use-case-2/orderer-config-join-channel.png Graphic file (type png)
 
 <use assets/use-case-2/orderer-config-join-channel.png>
 Package pdftex.def Info: assets/use-case-2/orderer-config-join-channel.png  use
-d on input line 1012.
-(pdftex.def)             Requested size: 409.71692pt x 213.81656pt.
-<assets/use-case-2/orderer-config-query-channels.png, id=600, 1606.0pt x 837.12
+d on input line 1014.
+(pdftex.def)             Requested size: 227.62206pt x 118.78271pt.
+ [105 <./assets/use-case-2/peer-config-invoke-chaincode.png> <./assets/use-case
+-2/peer-config-custom-commands.png> <./assets/use-case-2/orderer-config-creatin
+g-channel.png>]
+<assets/use-case-2/orderer-config-query-channels.png, id=493, 1606.0pt x 837.12
 75pt>
 File: assets/use-case-2/orderer-config-query-channels.png Graphic file (type pn
 g)
 <use assets/use-case-2/orderer-config-query-channels.png>
 Package pdftex.def Info: assets/use-case-2/orderer-config-query-channels.png  u
-sed on input line 1021.
-(pdftex.def)             Requested size: 409.71692pt x 213.56049pt.
- [135 <./assets/use-case-2/orderer-config-creating-channel.png> <./assets/use-c
-ase-2/orderer-config-join-channel.png>]
-<assets/use-case-2/orderer-config-custom-commands.png, id=604, 1606.0pt x 827.0
+sed on input line 1023.
+(pdftex.def)             Requested size: 227.62206pt x 118.64046pt.
+<assets/use-case-2/orderer-config-custom-commands.png, id=494, 1606.0pt x 827.0
 9pt>
 File: assets/use-case-2/orderer-config-custom-commands.png Graphic file (type p
 ng)
 <use assets/use-case-2/orderer-config-custom-commands.png>
 Package pdftex.def Info: assets/use-case-2/orderer-config-custom-commands.png  
-used on input line 1030.
-(pdftex.def)             Requested size: 409.71692pt x 210.9998pt.
-
-[136 <./assets/use-case-2/orderer-config-query-channels.png> <./assets/use-case
--2/orderer-config-custom-commands.png>]
-<assets/use-case-2/final-arch.png, id=608, 1463.4675pt x 687.56876pt>
+used on input line 1032.
+(pdftex.def)             Requested size: 227.62206pt x 117.21791pt.
+ [106 <./assets/use-case-2/orderer-config-join-channel.png> <./assets/use-case-
+2/orderer-config-query-channels.png> <./assets/use-case-2/orderer-config-custom
+-commands.png>]
+<assets/use-case-2/final-arch.png, id=499, 1463.4675pt x 687.56876pt>
 File: assets/use-case-2/final-arch.png Graphic file (type png)
 <use assets/use-case-2/final-arch.png>
 Package pdftex.def Info: assets/use-case-2/final-arch.png  used on input line 1
-044.
-(pdftex.def)             Requested size: 409.71692pt x 192.49695pt.
- [137 <./assets/use-case-2/final-arch.png>]
-Overfull \hbox (40.4882pt too wide) in alignment at lines 1101--1129
- [] [] [] [] [] [] [] [] [] [] 
- []
+046.
+(pdftex.def)             Requested size: 227.62206pt x 106.93925pt.
 
-[138]
-Overfull \hbox (59.2078pt too wide) in alignment at lines 1168--1179
- [] [] [] [] [] [] [] 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1184--1185
-[]|\OT1/cmr/m/n/10.95 Unreachable
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1188--1189
-[]|\OT1/cmr/m/n/10.95 Planning bet-ter
- []
-
-
-Underfull \hbox (badness 3815) in paragraph at lines 1188--1189
-\OT1/cmr/m/n/10.95 the next events
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1188--1189
-\OT1/cmr/m/n/10.95 and gain ex-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1188--1189
-\OT1/cmr/m/n/10.95 pe-ri-ence from
- []
-
-
-Underfull \hbox (badness 4416) in paragraph at lines 1188--1189
-\OT1/cmr/m/n/10.95 pre-vi-ous de-liv-er-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1194--1195
-[]|\OT1/cmr/m/n/10.95 Requirements
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1194--1195
-\OT1/cmr/m/n/10.95 of the project
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1198--1199
-[]|\OT1/cmr/m/n/10.95 Make fre-quent
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1198--1199
-\OT1/cmr/m/n/10.95 com-mu-ni-ca-tion
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1198--1199
-\OT1/cmr/m/n/10.95 with stake-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1198--1199
-\OT1/cmr/m/n/10.95 the lim-i-ta-tions
- []
-
-
-Underfull \hbox (badness 3536) in paragraph at lines 1198--1199
-\OT1/cmr/m/n/10.95 im-posed by the
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1208--1209
-[]|\OT1/cmr/m/n/10.95 Implement only
- []
-
-
-Underfull \hbox (badness 1472) in paragraph at lines 1208--1209
-\OT1/cmr/m/n/10.95 what is ac-tu-ally
- []
-
-
-Underfull \hbox (badness 7504) in paragraph at lines 1224--1225
-[]|\OT1/cmr/m/n/10.95 Incorrect un-der-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1228--1229
-\OT1/cmr/m/n/10.95 an-a-lyz-ing the
- []
-
-
-Underfull \hbox (badness 3536) in paragraph at lines 1228--1229
-\OT1/cmr/m/n/10.95 rel-e-vant for the
- []
-
-
-Underfull \hbox (badness 7777) in paragraph at lines 1238--1239
-\OT1/cmr/m/n/10.95 au-to-mate mode;
- []
-
-
-Underfull \hbox (badness 1418) in paragraph at lines 1244--1245
-[]|\OT1/cmr/m/n/10.95 Security im-pli-ca-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1248--1249
-\OT1/cmr/m/n/10.95 Try to learn
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1258--1259
-\OT1/cmr/m/n/10.95 thing; Sim-plify
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1258--1259
-\OT1/cmr/m/n/10.95 ev-ery-thing;Join
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1268--1269
-[]|\OT1/cmr/m/n/10.95 Join Com-mu-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1268--1269
-\OT1/cmr/m/n/10.95 ni-ties;Arrange
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1268--1269
-\OT1/cmr/m/n/10.95 more de-bug
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1278--1279
-[]|\OT1/cmr/m/n/10.95 Make the best
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1278--1279
-\OT1/cmr/m/n/10.95 so-lu-tion pos-si-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1278--1279
-\OT1/cmr/m/n/10.95 ble;Make clear
- []
-
-
-Underfull \hbox (badness 1418) in paragraph at lines 1278--1279
-\OT1/cmr/m/n/10.95 the need of the
- []
-
-
-Underfull \hbox (badness 8056) in paragraph at lines 1294--1295
-[]|\OT1/cmr/m/n/10.95 Infrastructure is
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1294--1295
-\OT1/cmr/m/n/10.95 larger or-ga-ni-za-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1304--1305
-[]|\OT1/cmr/m/n/10.95 It was never
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1304--1305
-\OT1/cmr/m/n/10.95 im-ple-mented in
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1304--1305
-\OT1/cmr/m/n/10.95 cloud en-vi-ron-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1308--1309
-[]|\OT1/cmr/m/n/10.95 Make a op-er-a-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1308--1309
-\OT1/cmr/m/n/10.95 tional guide of
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1308--1309
-\OT1/cmr/m/n/10.95 how to im-ple-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1308--1309
-\OT1/cmr/m/n/10.95 ment in cloud
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1314--1315
-[]|\OT1/cmr/m/n/10.95 Not know-ing
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1314--1315
-\OT1/cmr/m/n/10.95 when to stop
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1318--1319
-[]|\OT1/cmr/m/n/10.95 Understand in
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1318--1319
-\OT1/cmr/m/n/10.95 each point the
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1318--1319
-\OT1/cmr/m/n/10.95 re-fi-na-tions are
- []
-
-
-Overfull \hbox (59.2078pt too wide) in alignment at lines 1179--1324
- [] [] [] [] [] [] [] 
- []
-
-[139] [140]
-Underfull \hbox (badness 10000) in paragraph at lines 1332--1333
+Underfull \hbox (badness 10000) in paragraph at lines 1056--1057
 
  []
 
-[141]
-Underfull \hbox (badness 10000) in paragraph at lines 1386--1387
+[107 <./assets/use-case-2/final-arch.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 1110--1111
 
  []
 
-<assets/use-case-2/SWOT-use-case-2.png, id=625, 770.88pt x 578.16pt>
+<assets/use-case-2/SWOT-use-case-2.png, id=503, 770.88pt x 578.16pt>
 File: assets/use-case-2/SWOT-use-case-2.png Graphic file (type png)
 <use assets/use-case-2/SWOT-use-case-2.png>
 Package pdftex.def Info: assets/use-case-2/SWOT-use-case-2.png  used on input l
-ine 1392.
-(pdftex.def)             Requested size: 409.71692pt x 307.28789pt.
-[142]
-Underfull \hbox (badness 10000) in paragraph at lines 1403--1404
+ine 1116.
+(pdftex.def)             Requested size: 227.62206pt x 170.71451pt.
+[108 <./assets/use-case-2/SWOT-use-case-2.png (PNG copy)>]
+Underfull \hbox (badness 10000) in paragraph at lines 1131--1132
 
  []
 
-[143 <./assets/use-case-2/SWOT-use-case-2.png (PNG copy)>] [144] [145])
-(./6-Discussion.tex [146]
-<assets/discussion/SWOT-analysis-general.png, id=642, 770.88pt x 578.16pt>
-File: assets/discussion/SWOT-analysis-general.png Graphic file (type png)
-<use assets/discussion/SWOT-analysis-general.png>
-Package pdftex.def Info: assets/discussion/SWOT-analysis-general.png  used on i
-nput line 12.
-(pdftex.def)             Requested size: 409.71692pt x 307.28789pt.
- [147]) (./7-Conclusions.tex [148 <./assets/discussion/SWOT-analysis-general.pn
-g (PNG copy)>]) (./8-References.tex [149] [150]
+[109] [110] [111]) (./7-Conclusions.tex [112]) (./8-References.tex [113]
+[114]
 Overfull \hbox (5.82982pt too wide) in paragraph at lines 4--4
 [][]\OT1/cmr/m/n/10.95 Lamport, L. (1998). The part-time par-lia-ment. \OT1/cmr
 /m/it/10.95 ACM Trans-ac-tions on Com-puter Sys-tems (TOCS)\OT1/cmr/m/n/10.95 ,
 
  []
 
-[151] [152]
+[115] [116]
 Overfull \hbox (1.89572pt too wide) in paragraph at lines 4--4
 \OT1/cmr/m/n/10.95 Asym-met-ric com-mu-ni-ca-tion with ip spoof-ing for censors
 hip-resistant web brows-ing. $https :
  []
 
-[153] [154]
+[117]
 Overfull \hbox (2.25847pt too wide) in paragraph at lines 4--4
 \OT1/cmr/m/n/10.95 tonomous in-network com-put-ing. \OT1/cmr/m/it/10.95 Pro-cee
 d-ings of the 9th ACM Con-fer-ence on Information-
  []
 
-[155]
+[118] [119]
 
 Package biblatex Warning: No driver for 'internetdraft'.
 (biblatex)                Using fallback driver on input line 3.
 
-[156] [157]) (./9-AppendixI-AbstractofSubmittedArticles.tex
+[120]) (./9-AppendixI-AbstractofSubmittedArticles.tex
 Underfull \hbox (badness 10000) in paragraph at lines 1--2
 
  []
@@ -2734,7 +2602,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 23--24
 
  []
 
-[158]) (./main.aux)
+[121]) (./main.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-02-20>
@@ -2747,31 +2615,32 @@ LaTeX Warning: There were undefined references.
 LaTeX Warning: There were multiply-defined labels.
 
 
-Package biblatex Warning: Please rerun LaTeX.
-(biblatex)                Page breaks have changed.
+Package biblatex Warning: Please (re)run Biber on the file:
+(biblatex)                main
+(biblatex)                and rerun LaTeX afterwards.
 
 Package logreq Info: Writing requests to 'main.run.xml'.
 \openout1 = `main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 18062 strings out of 476076
- 364481 string characters out of 5793774
- 1976187 words of memory out of 5000000
- 39927 multiletter control sequences out of 15000+600000
+ 18214 strings out of 474116
+ 366734 string characters out of 5743682
+ 1948187 words of memory out of 5000000
+ 40331 multiletter control sequences out of 15000+600000
  566600 words of font info for 65 fonts, out of 8000000 for 9000
- 14 hyphenation exceptions out of 8191
- 66i,12n,81p,5315b,5052s stack positions out of 10000i,1000n,20000p,200000b,200000s
- </home/pedromn35/.texlive/texmf-var/fonts/pk/ljfour/jknappen/ec/tcrm1095.600
-pk> </home/pedromn35/.texlive/texmf-var/fonts/pk/ljfour/jknappen/ec/tcbx1095.60
-0pk></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/shar
-e/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texmf-dist/f
-onts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texmf-dist/fonts/type1/publ
-ic/amsfonts/cm/cmti10.pfb>
-Output written on main.pdf (175 pages, 10110481 bytes).
+ 1141 hyphenation exceptions out of 8191
+ 66i,12n,81p,3582b,5052s stack positions out of 10000i,1000n,20000p,200000b,200000s
+</usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb
+></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb>
+</usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></
+usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></u
+sr/local/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfbx1095.pfb></usr
+/local/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfrm1095.pfb>
+Output written on main.pdf (136 pages, 9720384 bytes).
 PDF statistics:
- 714 PDF objects out of 1000 (max. 8388607)
- 408 compressed objects within 5 object streams
+ 581 PDF objects out of 1000 (max. 8388607)
+ 321 compressed objects within 4 object streams
  0 named destinations out of 1000 (max. 500000)
- 461 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 426 words of extra memory for PDF output out of 10000 (max. 10000000)
 

@@ -1,32 +1,33 @@
 [0] Config.pm:307> INFO - This is Biber 2.19
 [0] Config.pm:310> INFO - Logfile is 'main.blg'
-[61] biber:340> INFO - === Tue Oct 29, 2024, 16:45:18
-[73] Biber.pm:419> INFO - Reading 'main.bcf'
-[151] Biber.pm:979> INFO - Found 127 citekeys in bib section 0
-[169] Biber.pm:4419> INFO - Processing section 0
-[176] Biber.pm:4610> INFO - Looking for bibtex file 'library.bib' for section 0
-[181] bibtex.pm:1713> INFO - LaTeX decoding ...
-[285] bibtex.pm:1519> INFO - Found BibTeX data source 'library.bib'
-[1105] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[1105] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
-[1105] Biber.pm:4239> INFO - Sorting list 'none/apasortcite//global/global' of type 'entry' with template 'none' and locale 'en-US'
-[1105] Biber.pm:4245> INFO - No sort tailoring available for locale 'en-US'
-[1224] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
-[1224] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[1224] Biber.pm:4239> INFO - Sorting list 'none/global//global/global' of type 'entry' with template 'none' and locale 'en-US'
-[1224] Biber.pm:4245> INFO - No sort tailoring available for locale 'en-US'
-[1288] bbl.pm:660> INFO - Writing 'main.bbl' with encoding 'UTF-8'
-[1390] bbl.pm:763> INFO - Output to main.bbl
-[1390] Biber.pm:131> WARN - Possible typo (case mismatch) between datasource keys: 'dht' and 'DHT' in file 'library.bib'
-[1390] Biber.pm:131> WARN - legacy month field 'March' in entry 'CDBC' is not an integer - this will probably not sort properly.
-[1390] Biber.pm:131> WARN - legacy month field 'December' in entry 'blockchain-in-heathcare' is not an integer - this will probably not sort properly.
-[1390] Biber.pm:131> WARN - legacy month field 'Feb' in entry 'permissioned-vs-permissionless-tradeoffs' is not an integer - this will probably not sort properly.
-[1390] Biber.pm:131> WARN - legacy month field 'May' in entry 'rfc5280' is not an integer - this will probably not sort properly.
-[1390] Biber.pm:131> WARN - legacy month field 'Mar' in entry 'microservices-common-vulnerabilities' is not an integer - this will probably not sort properly.
-[1390] Biber.pm:131> WARN - legacy month field 'Jun.' in entry 'ipfs-persistence' is not an integer - this will probably not sort properly.
-[1390] Biber.pm:131> WARN - legacy month field 'August' in entry 'nfts' is not an integer - this will probably not sort properly.
-[1390] Biber.pm:131> WARN - legacy month field 'March' in entry 'json' is not an integer - this will probably not sort properly.
-[1390] Biber.pm:131> WARN - legacy month field 'April' in entry 'circuit-breaking-and-retries-2' is not an integer - this will probably not sort properly.
-[1390] Biber.pm:131> WARN - legacy month field 'September' in entry 'circuit-breaks-and-retries' is not an integer - this will probably not sort properly.
-[1390] Biber.pm:131> WARN - legacy month field 'July' in entry 'ietf-ice' is not an integer - this will probably not sort properly.
-[1390] Biber.pm:133> INFO - WARNINGS: 12
+[23] biber-darwin:340> INFO - === Sat Jan 11, 2025, 18:25:29
+[28] Biber.pm:419> INFO - Reading 'main.bcf'
+[66] Biber.pm:979> INFO - Found 127 citekeys in bib section 0
+[74] Biber.pm:4419> INFO - Processing section 0
+[78] Biber.pm:4610> INFO - Looking for bibtex file 'library.bib' for section 0
+[81] bibtex.pm:1713> INFO - LaTeX decoding ...
+[128] bibtex.pm:1519> INFO - Found BibTeX data source 'library.bib'
+[473] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[473] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[473] Biber.pm:4239> INFO - Sorting list 'none/apasortcite//global/global' of type 'entry' with template 'none' and locale 'en-US'
+[473] Biber.pm:4245> INFO - No sort tailoring available for locale 'en-US'
+[536] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[536] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[536] Biber.pm:4239> INFO - Sorting list 'none/global//global/global' of type 'entry' with template 'none' and locale 'en-US'
+[536] Biber.pm:4245> INFO - No sort tailoring available for locale 'en-US'
+[570] bbl.pm:660> INFO - Writing 'main.bbl' with encoding 'UTF-8'
+[630] bbl.pm:763> INFO - Output to main.bbl
+[630] Biber.pm:131> WARN - Possible typo (case mismatch) between datasource keys: 'dht' and 'DHT' in file 'library.bib'
+[630] Biber.pm:131> WARN - legacy month field 'March' in entry 'CDBC' is not an integer - this will probably not sort properly.
+[630] Biber.pm:131> WARN - legacy month field 'December' in entry 'blockchain-in-heathcare' is not an integer - this will probably not sort properly.
+[630] Biber.pm:131> WARN - legacy month field 'Feb' in entry 'permissioned-vs-permissionless-tradeoffs' is not an integer - this will probably not sort properly.
+[630] Biber.pm:131> WARN - legacy month field 'May' in entry 'rfc5280' is not an integer - this will probably not sort properly.
+[630] Biber.pm:131> WARN - legacy month field 'Mar' in entry 'microservices-common-vulnerabilities' is not an integer - this will probably not sort properly.
+[630] Biber.pm:131> WARN - legacy month field 'Jun.' in entry 'ipfs-persistence' is not an integer - this will probably not sort properly.
+[630] Biber.pm:131> WARN - legacy month field 'August' in entry 'nfts' is not an integer - this will probably not sort properly.
+[630] Biber.pm:131> WARN - legacy month field 'March' in entry 'json' is not an integer - this will probably not sort properly.
+[630] Biber.pm:131> WARN - ISBN '9798400703874' in entry 'service-mesh-traffic' is invalid - run biber with '--validate_datamodel' for details.
+[630] Biber.pm:131> WARN - legacy month field 'April' in entry 'circuit-breaking-and-retries-2' is not an integer - this will probably not sort properly.
+[630] Biber.pm:131> WARN - legacy month field 'September' in entry 'circuit-breaks-and-retries' is not an integer - this will probably not sort properly.
+[630] Biber.pm:131> WARN - legacy month field 'July' in entry 'ietf-ice' is not an integer - this will probably not sort properly.
+[630] Biber.pm:133> INFO - WARNINGS: 13

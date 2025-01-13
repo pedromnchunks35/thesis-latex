@@ -1,90 +1,83 @@
-\contentsline {figure}{\numberline {1}{\ignorespaces State of art: blockchain types}}{9}{}%
-\contentsline {figure}{\numberline {2}{\ignorespaces DSR Life-cycle}}{28}{}%
-\contentsline {figure}{\numberline {3}{\ignorespaces SWOT}}{29}{}%
-\contentsline {figure}{\numberline {4}{\ignorespaces SWOT: Strengths and Weaknesses}}{31}{}%
-\contentsline {figure}{\numberline {5}{\ignorespaces SWOT: Opportunities and Threats}}{32}{}%
-\contentsline {figure}{\numberline {6}{\ignorespaces Major components Relationship}}{46}{}%
-\contentsline {figure}{\numberline {7}{\ignorespaces Kubernetes Architecture: High view}}{60}{}%
-\contentsline {figure}{\numberline {8}{\ignorespaces Representation of pods within a cluster}}{60}{}%
-\contentsline {figure}{\numberline {9}{\ignorespaces Docker architecture: simple view}}{65}{}%
-\contentsline {figure}{\numberline {10}{\ignorespaces Layer 2 vs Layer 3 Mode}}{68}{}%
-\contentsline {figure}{\numberline {11}{\ignorespaces Caliper architecture}}{74}{}%
-\contentsline {figure}{\numberline {12}{\ignorespaces Ipfs simplified}}{84}{}%
-\contentsline {figure}{\numberline {13}{\ignorespaces Kademlia: peer id generation}}{85}{}%
-\contentsline {figure}{\numberline {14}{\ignorespaces Kademlia: How it works for updating the k-buckets}}{86}{}%
-\contentsline {figure}{\numberline {15}{\ignorespaces Kademlia: Example 1 of XOR}}{86}{}%
-\contentsline {figure}{\numberline {16}{\ignorespaces Kademlia: Example 2 of XOR}}{87}{}%
-\contentsline {figure}{\numberline {17}{\ignorespaces IPFS: Example of multiaddress}}{88}{}%
-\contentsline {figure}{\numberline {18}{\ignorespaces IPFS: blobs}}{89}{}%
-\contentsline {figure}{\numberline {19}{\ignorespaces IPFS: lists}}{90}{}%
-\contentsline {figure}{\numberline {20}{\ignorespaces IPFS: tree}}{90}{}%
-\contentsline {figure}{\numberline {21}{\ignorespaces IPFS: commit}}{91}{}%
-\contentsline {figure}{\numberline {22}{\ignorespaces IPFS: Practical Implementation}}{91}{}%
-\contentsline {figure}{\numberline {23}{\ignorespaces First use case: Layer Architecture}}{93}{}%
-\contentsline {figure}{\numberline {24}{\ignorespaces First use case: Master node composition}}{94}{}%
-\contentsline {figure}{\numberline {25}{\ignorespaces First use case: Slave node composition}}{94}{}%
-\contentsline {figure}{\numberline {26}{\ignorespaces First use case: Global vision}}{95}{}%
-\contentsline {figure}{\numberline {27}{\ignorespaces First use case: hyperledger fabric simple network example}}{95}{}%
-\contentsline {figure}{\numberline {28}{\ignorespaces First use case: Workflow}}{96}{}%
-\contentsline {figure}{\numberline {29}{\ignorespaces First use case: Swot}}{98}{}%
-\contentsline {figure}{\numberline {30}{\ignorespaces Second use case: ca's operational guide}}{103}{}%
-\contentsline {figure}{\numberline {31}{\ignorespaces Second use case: orderer operational guide}}{103}{}%
-\contentsline {figure}{\numberline {32}{\ignorespaces Second use case: couchdb operational guide}}{104}{}%
-\contentsline {figure}{\numberline {33}{\ignorespaces Second use case: peer operational guide}}{104}{}%
-\contentsline {figure}{\numberline {34}{\ignorespaces Second use case: channel operational guide}}{105}{}%
-\contentsline {figure}{\numberline {35}{\ignorespaces Second use case: chaincode operational guide}}{105}{}%
-\contentsline {figure}{\numberline {36}{\ignorespaces Second use case: first network}}{106}{}%
-\contentsline {figure}{\numberline {37}{\ignorespaces Second use case: first hospital network}}{106}{}%
-\contentsline {figure}{\numberline {38}{\ignorespaces Second use case: hospital v2 repository}}{107}{}%
-\contentsline {figure}{\numberline {39}{\ignorespaces Second use case: first benchmark}}{108}{}%
-\contentsline {figure}{\numberline {40}{\ignorespaces Second use case: first benchmark (part 2)}}{108}{}%
-\contentsline {figure}{\numberline {41}{\ignorespaces Second use case: first benchmark hospital}}{109}{}%
-\contentsline {figure}{\numberline {42}{\ignorespaces Second use case: first benchmark hospital (part 2)}}{109}{}%
-\contentsline {figure}{\numberline {43}{\ignorespaces Second use case: first benchmark hospital (part 3)}}{110}{}%
-\contentsline {figure}{\numberline {44}{\ignorespaces Second use case: kubernetes study}}{111}{}%
-\contentsline {figure}{\numberline {45}{\ignorespaces Second use case: kubernetes study (handwriten)}}{112}{}%
-\contentsline {figure}{\numberline {46}{\ignorespaces Second use case: local kubernetes hlf network}}{113}{}%
-\contentsline {figure}{\numberline {47}{\ignorespaces Second use case: local kubernetes hlf network (part 2)}}{113}{}%
-\contentsline {figure}{\numberline {48}{\ignorespaces Second use case: kubernetes automation creation}}{114}{}%
-\contentsline {figure}{\numberline {49}{\ignorespaces Second use case: kubernetes automation creation repository}}{115}{}%
-\contentsline {figure}{\numberline {50}{\ignorespaces Second use case: kubernetes automation creation orderer prototype}}{115}{}%
-\contentsline {figure}{\numberline {51}{\ignorespaces Second use case: kubernetes automation creation peer prototype}}{116}{}%
-\contentsline {figure}{\numberline {52}{\ignorespaces Second use case: kubernetes first hlf hospital network}}{116}{}%
-\contentsline {figure}{\numberline {53}{\ignorespaces Second use case: multiple networks default scenario}}{117}{}%
-\contentsline {figure}{\numberline {54}{\ignorespaces Second use case: multiple networks scenario 1}}{117}{}%
-\contentsline {figure}{\numberline {55}{\ignorespaces Second use case: multiple networks scenario 2}}{118}{}%
-\contentsline {figure}{\numberline {56}{\ignorespaces Second use case: multiple networks scenario 3}}{118}{}%
-\contentsline {figure}{\numberline {57}{\ignorespaces Second use case: multiple networks scenario 4}}{118}{}%
-\contentsline {figure}{\numberline {58}{\ignorespaces Second use case: multiple networks scenario 5}}{119}{}%
-\contentsline {figure}{\numberline {59}{\ignorespaces Second use case: Docker only Architecture}}{120}{}%
-\contentsline {figure}{\numberline {60}{\ignorespaces Second use case: Kubernetes Archtiecture}}{121}{}%
-\contentsline {figure}{\numberline {61}{\ignorespaces Second use case: Kubernetes with Load Balancer Architecture}}{121}{}%
-\contentsline {figure}{\numberline {62}{\ignorespaces Second use case: Docker Architecture 1 Evaluation}}{122}{}%
-\contentsline {figure}{\numberline {63}{\ignorespaces Second use case: Kubernetes Architecture 1 and 2 Evaluation}}{123}{}%
-\contentsline {figure}{\numberline {64}{\ignorespaces Second use case: admin web client block-explorer dashboard}}{125}{}%
-\contentsline {figure}{\numberline {65}{\ignorespaces Second use case: admin web client block-explorer network}}{125}{}%
-\contentsline {figure}{\numberline {66}{\ignorespaces Second use case: admin web client block-explorer blocks}}{126}{}%
-\contentsline {figure}{\numberline {67}{\ignorespaces Second use case: admin web client block-explorer transactions}}{126}{}%
-\contentsline {figure}{\numberline {68}{\ignorespaces Second use case: admin web client block-explorer chaincodes}}{127}{}%
-\contentsline {figure}{\numberline {69}{\ignorespaces Second use case: admin web client block-explorer channels}}{127}{}%
-\contentsline {figure}{\numberline {70}{\ignorespaces Second use case: admin web client general network dashboard}}{128}{}%
-\contentsline {figure}{\numberline {71}{\ignorespaces Second use case: admin web client general network resources}}{128}{}%
-\contentsline {figure}{\numberline {72}{\ignorespaces Second use case: admin web client general network resources}}{129}{}%
-\contentsline {figure}{\numberline {73}{\ignorespaces Second use case: admin web client peer config upload of configurations}}{129}{}%
-\contentsline {figure}{\numberline {74}{\ignorespaces Second use case: admin web client peer config query of channels}}{130}{}%
-\contentsline {figure}{\numberline {75}{\ignorespaces Second use case: admin web client peer config fetch a channel}}{130}{}%
-\contentsline {figure}{\numberline {76}{\ignorespaces Second use case: admin web client peer config join channel}}{131}{}%
-\contentsline {figure}{\numberline {77}{\ignorespaces Second use case: admin web client peer config install chaincode}}{131}{}%
-\contentsline {figure}{\numberline {78}{\ignorespaces Second use case: admin web client peer config query chaincodes}}{132}{}%
-\contentsline {figure}{\numberline {79}{\ignorespaces Second use case: admin web client peer config approve chaincode}}{132}{}%
-\contentsline {figure}{\numberline {80}{\ignorespaces Second use case: admin web client peer config query chaincode approvals}}{133}{}%
-\contentsline {figure}{\numberline {81}{\ignorespaces Second use case: admin web client peer config commit chaincode}}{133}{}%
-\contentsline {figure}{\numberline {82}{\ignorespaces Second use case: admin web client peer config invoke chaincode}}{134}{}%
-\contentsline {figure}{\numberline {83}{\ignorespaces Second use case: admin web client peer config custom commands}}{134}{}%
-\contentsline {figure}{\numberline {84}{\ignorespaces Second use case: admin web client orderer config creating a channel}}{135}{}%
-\contentsline {figure}{\numberline {85}{\ignorespaces Second use case: admin web client orderer config join a channel}}{135}{}%
-\contentsline {figure}{\numberline {86}{\ignorespaces Second use case: admin web client orderer config query channels}}{136}{}%
-\contentsline {figure}{\numberline {87}{\ignorespaces Second use case: admin web client orderer config custom commands}}{136}{}%
-\contentsline {figure}{\numberline {88}{\ignorespaces Second use case: final architecture}}{137}{}%
-\contentsline {figure}{\numberline {89}{\ignorespaces Use case 2: SWOT analysis}}{143}{}%
-\contentsline {figure}{\numberline {90}{\ignorespaces Discussion: SWOT analysis}}{148}{}%
+\contentsline {figure}{\numberline {1}{\ignorespaces State of art: blockchain types table}}{9}{}%
+\contentsline {figure}{\numberline {2}{\ignorespaces State of art: blockchain types visual representation}}{10}{}%
+\contentsline {figure}{\numberline {3}{\ignorespaces DSR Life-cycle}}{25}{}%
+\contentsline {figure}{\numberline {4}{\ignorespaces Major components Relationship}}{44}{}%
+\contentsline {figure}{\numberline {5}{\ignorespaces Layer 2 vs Layer 3 Mode}}{54}{}%
+\contentsline {figure}{\numberline {6}{\ignorespaces Ipfs simplified}}{66}{}%
+\contentsline {figure}{\numberline {7}{\ignorespaces Kademlia: peer id generation}}{67}{}%
+\contentsline {figure}{\numberline {8}{\ignorespaces Kademlia: How it works for updating the k-buckets}}{67}{}%
+\contentsline {figure}{\numberline {9}{\ignorespaces Kademlia: Example 1 of XOR}}{68}{}%
+\contentsline {figure}{\numberline {10}{\ignorespaces Kademlia: Example 2 of XOR}}{68}{}%
+\contentsline {figure}{\numberline {11}{\ignorespaces IPFS: Example of multiaddress}}{69}{}%
+\contentsline {figure}{\numberline {12}{\ignorespaces IPFS: blobs}}{70}{}%
+\contentsline {figure}{\numberline {13}{\ignorespaces IPFS: lists}}{71}{}%
+\contentsline {figure}{\numberline {14}{\ignorespaces IPFS: tree}}{71}{}%
+\contentsline {figure}{\numberline {15}{\ignorespaces IPFS: commit}}{71}{}%
+\contentsline {figure}{\numberline {16}{\ignorespaces IPFS: Practical Implementation}}{72}{}%
+\contentsline {figure}{\numberline {17}{\ignorespaces First use case: Layer Architecture}}{73}{}%
+\contentsline {figure}{\numberline {18}{\ignorespaces First use case: Master node composition}}{74}{}%
+\contentsline {figure}{\numberline {19}{\ignorespaces First use case: Slave node composition}}{74}{}%
+\contentsline {figure}{\numberline {20}{\ignorespaces First use case: Global vision}}{74}{}%
+\contentsline {figure}{\numberline {21}{\ignorespaces First use case: hyperledger fabric simple network example}}{75}{}%
+\contentsline {figure}{\numberline {22}{\ignorespaces First use case: Workflow}}{75}{}%
+\contentsline {figure}{\numberline {23}{\ignorespaces First use case: Swot}}{78}{}%
+\contentsline {figure}{\numberline {24}{\ignorespaces Second use case: ca's operational guide}}{83}{}%
+\contentsline {figure}{\numberline {25}{\ignorespaces Second use case: orderer operational guide}}{83}{}%
+\contentsline {figure}{\numberline {26}{\ignorespaces Second use case: couchdb operational guide}}{83}{}%
+\contentsline {figure}{\numberline {27}{\ignorespaces Second use case: peer operational guide}}{84}{}%
+\contentsline {figure}{\numberline {28}{\ignorespaces Second use case: channel operational guide}}{84}{}%
+\contentsline {figure}{\numberline {29}{\ignorespaces Second use case: chaincode operational guide}}{84}{}%
+\contentsline {figure}{\numberline {30}{\ignorespaces Second use case: first network}}{85}{}%
+\contentsline {figure}{\numberline {31}{\ignorespaces Second use case: first hospital network}}{85}{}%
+\contentsline {figure}{\numberline {32}{\ignorespaces Second use case: hospital v2 repository}}{86}{}%
+\contentsline {figure}{\numberline {33}{\ignorespaces Second use case: first benchmark}}{87}{}%
+\contentsline {figure}{\numberline {34}{\ignorespaces Second use case: first benchmark (part 2)}}{87}{}%
+\contentsline {figure}{\numberline {35}{\ignorespaces Second use case: first benchmark hospital}}{87}{}%
+\contentsline {figure}{\numberline {36}{\ignorespaces Second use case: first benchmark hospital (part 2)}}{88}{}%
+\contentsline {figure}{\numberline {37}{\ignorespaces Second use case: first benchmark hospital (part 3)}}{88}{}%
+\contentsline {figure}{\numberline {38}{\ignorespaces Second use case: kubernetes study}}{89}{}%
+\contentsline {figure}{\numberline {39}{\ignorespaces Second use case: kubernetes study (handwriten)}}{89}{}%
+\contentsline {figure}{\numberline {40}{\ignorespaces Second use case: local kubernetes hlf network}}{90}{}%
+\contentsline {figure}{\numberline {41}{\ignorespaces Second use case: local kubernetes hlf network (part 2)}}{90}{}%
+\contentsline {figure}{\numberline {42}{\ignorespaces Second use case: kubernetes automation creation}}{91}{}%
+\contentsline {figure}{\numberline {43}{\ignorespaces Second use case: kubernetes automation creation repository}}{91}{}%
+\contentsline {figure}{\numberline {44}{\ignorespaces Second use case: kubernetes automation creation orderer prototype}}{91}{}%
+\contentsline {figure}{\numberline {45}{\ignorespaces Second use case: kubernetes automation creation peer prototype}}{91}{}%
+\contentsline {figure}{\numberline {46}{\ignorespaces Second use case: kubernetes first hlf hospital network}}{92}{}%
+\contentsline {figure}{\numberline {47}{\ignorespaces Second use case: multiple networks default scenario}}{92}{}%
+\contentsline {figure}{\numberline {48}{\ignorespaces Second use case: multiple networks scenario 1}}{93}{}%
+\contentsline {figure}{\numberline {49}{\ignorespaces Second use case: multiple networks scenario 2}}{93}{}%
+\contentsline {figure}{\numberline {50}{\ignorespaces Second use case: multiple networks scenario 3}}{93}{}%
+\contentsline {figure}{\numberline {51}{\ignorespaces Second use case: multiple networks scenario 4}}{93}{}%
+\contentsline {figure}{\numberline {52}{\ignorespaces Second use case: multiple networks scenario 5}}{94}{}%
+\contentsline {figure}{\numberline {53}{\ignorespaces Second use case: Docker only Architecture}}{95}{}%
+\contentsline {figure}{\numberline {54}{\ignorespaces Second use case: Kubernetes Archtiecture}}{95}{}%
+\contentsline {figure}{\numberline {55}{\ignorespaces Second use case: Kubernetes with Load Balancer Architecture}}{96}{}%
+\contentsline {figure}{\numberline {56}{\ignorespaces Second use case: Docker Architecture 1 Evaluation}}{96}{}%
+\contentsline {figure}{\numberline {57}{\ignorespaces Second use case: Kubernetes Architecture 1 and 2 Evaluation}}{97}{}%
+\contentsline {figure}{\numberline {58}{\ignorespaces Second use case: admin web client block-explorer dashboard}}{98}{}%
+\contentsline {figure}{\numberline {59}{\ignorespaces Second use case: admin web client block-explorer network}}{99}{}%
+\contentsline {figure}{\numberline {60}{\ignorespaces Second use case: admin web client block-explorer blocks}}{99}{}%
+\contentsline {figure}{\numberline {61}{\ignorespaces Second use case: admin web client block-explorer transactions}}{99}{}%
+\contentsline {figure}{\numberline {62}{\ignorespaces Second use case: admin web client block-explorer chaincodes}}{100}{}%
+\contentsline {figure}{\numberline {63}{\ignorespaces Second use case: admin web client block-explorer channels}}{100}{}%
+\contentsline {figure}{\numberline {64}{\ignorespaces Second use case: admin web client general network dashboard}}{101}{}%
+\contentsline {figure}{\numberline {65}{\ignorespaces Second use case: admin web client general network resources}}{101}{}%
+\contentsline {figure}{\numberline {66}{\ignorespaces Second use case: admin web client general network resources}}{101}{}%
+\contentsline {figure}{\numberline {67}{\ignorespaces Second use case: admin web client peer config upload of configurations}}{102}{}%
+\contentsline {figure}{\numberline {68}{\ignorespaces Second use case: admin web client peer config query of channels}}{102}{}%
+\contentsline {figure}{\numberline {69}{\ignorespaces Second use case: admin web client peer config fetch a channel}}{102}{}%
+\contentsline {figure}{\numberline {70}{\ignorespaces Second use case: admin web client peer config join channel}}{103}{}%
+\contentsline {figure}{\numberline {71}{\ignorespaces Second use case: admin web client peer config install chaincode}}{103}{}%
+\contentsline {figure}{\numberline {72}{\ignorespaces Second use case: admin web client peer config query chaincodes}}{103}{}%
+\contentsline {figure}{\numberline {73}{\ignorespaces Second use case: admin web client peer config approve chaincode}}{104}{}%
+\contentsline {figure}{\numberline {74}{\ignorespaces Second use case: admin web client peer config query chaincode approvals}}{104}{}%
+\contentsline {figure}{\numberline {75}{\ignorespaces Second use case: admin web client peer config commit chaincode}}{104}{}%
+\contentsline {figure}{\numberline {76}{\ignorespaces Second use case: admin web client peer config invoke chaincode}}{105}{}%
+\contentsline {figure}{\numberline {77}{\ignorespaces Second use case: admin web client peer config custom commands}}{105}{}%
+\contentsline {figure}{\numberline {78}{\ignorespaces Second use case: admin web client orderer config creating a channel}}{105}{}%
+\contentsline {figure}{\numberline {79}{\ignorespaces Second use case: admin web client orderer config join a channel}}{106}{}%
+\contentsline {figure}{\numberline {80}{\ignorespaces Second use case: admin web client orderer config query channels}}{106}{}%
+\contentsline {figure}{\numberline {81}{\ignorespaces Second use case: admin web client orderer config custom commands}}{106}{}%
+\contentsline {figure}{\numberline {82}{\ignorespaces Second use case: final architecture}}{107}{}%
+\contentsline {figure}{\numberline {83}{\ignorespaces Use case 2: SWOT analysis}}{108}{}%
