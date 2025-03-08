@@ -1,114 +1,131 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2025.1.11)  13 JAN 2025 08:49
-entering extended mode
- restricted \write18 enabled.
+This is LuaHBTeX, Version 1.18.0 (TeX Live 2024)  (format=lualatex 2025.1.11)  8 MAR 2025 19:59
+ restricted system commands enabled.
  file:line:error style messages enabled.
- %&-line parsing enabled.
-**main.tex
-(./main.tex
+**/Users/pedromn35/Documents/personal/thesis-latex/main.tex
+(/Users/pedromn35/Documents/personal/thesis-latex/main.tex
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-02-20>
-(/usr/local/texlive/2024/texmf-dist/tex/latex/base/article.cls
+Lua module: luaotfload 2024-02-14 3.28 Lua based OpenType font support
+Lua module: lualibs 2023-07-13 2.76 ConTeXt Lua standard libraries.
+Lua module: lualibs-extended 2023-07-13 2.76 ConTeXt Lua libraries -- extended collection.
+luaotfload | conf : Root cache directory is "/Users/pedromn35/Library/texlive/2024/texmf-var/luatex-cache/generic/names".
+luaotfload | init : Loading fontloader "fontloader-2023-12-28.lua" from kpse-resolved path "/usr/local/texlive/2024/texmf-dist/tex/luatex/luaotfload/fontloader-2023-12-28.lua".
+Lua-only attribute luaotfload@noligature = 1
+luaotfload | init : Context OpenType loader version 3.134
+Inserting `luaotfload.node_processor' in `pre_linebreak_filter'.
+Inserting `luaotfload.node_processor' in `hpack_filter'.
+Inserting `luaotfload.glyph_stream' in `glyph_stream_provider'.
+Inserting `luaotfload.define_font' in `define_font'.
+Lua-only attribute luaotfload_color_attribute = 2
+luaotfload | conf : Root cache directory is "/Users/pedromn35/Library/texlive/2024/texmf-var/luatex-cache/generic/names".
+Inserting `luaotfload.harf.strip_prefix' in `find_opentype_file'.
+Inserting `luaotfload.harf.strip_prefix' in `find_truetype_file'.
+Removing  `luaotfload.glyph_stream' from `glyph_stream_provider'.
+Inserting `luaotfload.harf.glyphstream' in `glyph_stream_provider'.
+Inserting `luaotfload.harf.finalize_vlist' in `post_linebreak_filter'.
+Inserting `luaotfload.harf.finalize_hlist' in `hpack_filter'.
+Inserting `luaotfload.cleanup_files' in `wrapup_run'.
+Inserting `luaotfload.harf.finalize_unicode' in `finish_pdffile'.
+Inserting `luaotfload.glyphinfo' in `glyph_info'.
+Lua-only attribute luaotfload.letterspace_done = 3
+Inserting `luaotfload.aux.set_sscale_dimens' in `luaotfload.patch_font'.
+Inserting `luaotfload.aux.set_font_index' in `luaotfload.patch_font'.
+Inserting `luaotfload.aux.patch_cambria_domh' in `luaotfload.patch_font'.
+Inserting `luaotfload.aux.fixup_fontdata' in `luaotfload.patch_font_unsafe'.
+Inserting `luaotfload.aux.set_capheight' in `luaotfload.patch_font'.
+Inserting `luaotfload.aux.set_xheight' in `luaotfload.patch_font'.
+Inserting `luaotfload.rewrite_fontname' in `luaotfload.patch_font'.
+Inserting `tracingstacklevels' in `input_level_string'. (/usr/local/texlive/2024/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2023/05/17 v1.4n Standard LaTeX document class
 (/usr/local/texlive/2024/texmf-dist/tex/latex/base/size11.clo
 File: size11.clo 2023/05/17 v1.4n Standard LaTeX file (size option)
-)
-\c@part=\count188
-\c@section=\count189
-\c@subsection=\count190
-\c@subsubsection=\count191
-\c@paragraph=\count192
-\c@subparagraph=\count193
-\c@figure=\count194
-\c@table=\count195
+luaotfload | db : Font names database loaded from /Users/pedromn35/Library/texlive/2024/texmf-var/luatex-cache/generic/names/luaotfload-names.luc.gz)
+\c@part=\count186
+\c@section=\count187
+\c@subsection=\count188
+\c@subsubsection=\count189
+\c@paragraph=\count190
+\c@subparagraph=\count191
+\c@figure=\count192
+\c@table=\count193
 \abovecaptionskip=\skip48
 \belowcaptionskip=\skip49
-\bibindent=\dimen140
-)
-(/usr/local/texlive/2024/texmf-dist/tex/latex/base/inputenc.sty
+\bibindent=\dimen139
+) (/usr/local/texlive/2024/texmf-dist/tex/latex/base/inputenc.sty
 Package: inputenc 2021/02/14 v1.3d Input encoding file
 \inpenc@prehook=\toks17
 \inpenc@posthook=\toks18
-)
-(/usr/local/texlive/2024/texmf-dist/tex/latex/microtype/microtype.sty
-Package: microtype 2023/03/13 v3.1a Micro-typographical refinements (RS)
 
-(/usr/local/texlive/2024/texmf-dist/tex/latex/graphics/keyval.sty
+
+Package inputenc Warning: inputenc package ignored with utf8 based engines.
+
+) (/usr/local/texlive/2024/texmf-dist/tex/latex/microtype/microtype.sty
+Package: microtype 2023/03/13 v3.1a Micro-typographical refinements (RS)
+ (/usr/local/texlive/2024/texmf-dist/tex/latex/graphics/keyval.sty
 Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
 \KV@toks@=\toks19
-)
-(/usr/local/texlive/2024/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+) (/usr/local/texlive/2024/texmf-dist/tex/latex/etoolbox/etoolbox.sty
 Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
-\etb@tempcnta=\count196
+\etb@tempcnta=\count194
 )
 \MT@toks=\toks20
 \MT@tempbox=\box51
-\MT@count=\count197
+\MT@count=\count195
 LaTeX Info: Redefining \noprotrusionifhmode on input line 1059.
 LaTeX Info: Redefining \leftprotrusion on input line 1060.
 \MT@prot@toks=\toks21
 LaTeX Info: Redefining \rightprotrusion on input line 1078.
 LaTeX Info: Redefining \textls on input line 1368.
-\MT@outer@kern=\dimen141
+\MT@outer@kern=\dimen140
 LaTeX Info: Redefining \textmicrotypecontext on input line 1988.
-\MT@listname@count=\count198
-
-(/usr/local/texlive/2024/texmf-dist/tex/latex/microtype/microtype-pdftex.def
-File: microtype-pdftex.def 2023/03/13 v3.1a Definitions specific to pdftex (RS)
-
-LaTeX Info: Redefining \lsstyle on input line 902.
-LaTeX Info: Redefining \lslig on input line 902.
+\MT@listname@count=\count196
+ (/usr/local/texlive/2024/texmf-dist/tex/latex/microtype/microtype-luatex.def
+File: microtype-luatex.def 2023/03/13 v3.1a Definitions specific to luatex (RS)
+Lua module: microtype 2023/03/13 3.1a microtype module.
+Module microtype Info: overwriting function `keepligature' on input line 63
+LaTeX Info: Redefining \lsstyle on input line 688.
+LaTeX Info: Redefining \lslig on input line 688.
 \MT@outer@space=\skip50
 )
 Package microtype Info: Loading configuration file microtype.cfg.
-
-(/usr/local/texlive/2024/texmf-dist/tex/latex/microtype/microtype.cfg
+ (/usr/local/texlive/2024/texmf-dist/tex/latex/microtype/microtype.cfg
 File: microtype.cfg 2023/03/13 v3.1a microtype main configuration file (RS)
-))
-(/usr/local/texlive/2024/texmf-dist/tex/latex/graphics/graphicx.sty
+)) (/usr/local/texlive/2024/texmf-dist/tex/latex/graphics/graphicx.sty
 Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
-
-(/usr/local/texlive/2024/texmf-dist/tex/latex/graphics/graphics.sty
+ (/usr/local/texlive/2024/texmf-dist/tex/latex/graphics/graphics.sty
 Package: graphics 2022/03/10 v1.4e Standard LaTeX Graphics (DPC,SPQR)
-
-(/usr/local/texlive/2024/texmf-dist/tex/latex/graphics/trig.sty
+ (/usr/local/texlive/2024/texmf-dist/tex/latex/graphics/trig.sty
 Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
-)
-(/usr/local/texlive/2024/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+) (/usr/local/texlive/2024/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
-Package graphics Info: Driver file: pdftex.def on input line 107.
-
-(/usr/local/texlive/2024/texmf-dist/tex/latex/graphics-def/pdftex.def
-File: pdftex.def 2022/09/22 v1.2b Graphics/color driver for pdftex
+Package graphics Info: Driver file: luatex.def on input line 107.
+ (/usr/local/texlive/2024/texmf-dist/tex/latex/graphics-def/luatex.def
+File: luatex.def 2022/09/22 v1.2d Graphics/color driver for luatex
 ))
-\Gin@req@height=\dimen142
-\Gin@req@width=\dimen143
-)
-(/usr/local/texlive/2024/texmf-dist/tex/latex/changepage/changepage.sty
+\Gin@req@height=\dimen141
+\Gin@req@width=\dimen142
+) (/usr/local/texlive/2024/texmf-dist/tex/latex/changepage/changepage.sty
 Package: changepage 2009/10/20 v1.0c check page and change page layout
-\c@cp@cntr=\count199
-\cp@tempcnt=\count266
-)
-(/usr/local/texlive/2024/texmf-dist/tex/latex/wrapfig/wrapfig.sty
-\wrapoverhang=\dimen144
-\WF@size=\dimen145
-\c@WF@wrappedlines=\count267
+\c@cp@cntr=\count197
+\cp@tempcnt=\count198
+) (/usr/local/texlive/2024/texmf-dist/tex/latex/wrapfig/wrapfig.sty
+\wrapoverhang=\dimen143
+\WF@size=\dimen144
+\c@WF@wrappedlines=\count199
 \WF@box=\box52
 \WF@everypar=\toks22
 Package: wrapfig 2003/01/31  v 3.6
-)
-(/usr/local/texlive/2024/texmf-dist/tex/latex/enumitem/enumitem.sty
+) (/usr/local/texlive/2024/texmf-dist/tex/latex/enumitem/enumitem.sty
 Package: enumitem 2019/06/20 v3.9 Customized lists
 \labelindent=\skip51
-\enit@outerparindent=\dimen146
+\enit@outerparindent=\dimen145
 \enit@toks=\toks23
 \enit@inbox=\box53
-\enit@count@id=\count268
-\enitdp@description=\count269
-)
-(/usr/local/texlive/2024/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
+\enit@count@id=\count266
+\enitdp@description=\count267
+) (/usr/local/texlive/2024/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
 Package: fancyhdr 2022/11/09 v4.1 Extensive control of page headers and footers
-
 \f@nch@headwidth=\skip52
 \f@nch@O@elh=\skip53
 \f@nch@O@erh=\skip54
@@ -118,35 +135,31 @@ Package: fancyhdr 2022/11/09 v4.1 Extensive control of page headers and footers
 \f@nch@O@erf=\skip58
 \f@nch@O@olf=\skip59
 \f@nch@O@orf=\skip60
-)
-(/usr/local/texlive/2024/texmf-dist/tex/latex/amsmath/amsmath.sty
+) (/usr/local/texlive/2024/texmf-dist/tex/latex/amsmath/amsmath.sty
 Package: amsmath 2023/05/13 v2.17o AMS math features
 \@mathmargin=\skip61
 
 For additional information on amsmath, use the `?' option.
 (/usr/local/texlive/2024/texmf-dist/tex/latex/amsmath/amstext.sty
 Package: amstext 2021/08/26 v2.01 AMS text
-
-(/usr/local/texlive/2024/texmf-dist/tex/latex/amsmath/amsgen.sty
+ (/usr/local/texlive/2024/texmf-dist/tex/latex/amsmath/amsgen.sty
 File: amsgen.sty 1999/11/30 v2.0 generic functions
 \@emptytoks=\toks24
-\ex@=\dimen147
-))
-(/usr/local/texlive/2024/texmf-dist/tex/latex/amsmath/amsbsy.sty
+\ex@=\dimen146
+)) (/usr/local/texlive/2024/texmf-dist/tex/latex/amsmath/amsbsy.sty
 Package: amsbsy 1999/11/29 v1.2d Bold Symbols
-\pmbraise@=\dimen148
-)
-(/usr/local/texlive/2024/texmf-dist/tex/latex/amsmath/amsopn.sty
+\pmbraise@=\dimen147
+) (/usr/local/texlive/2024/texmf-dist/tex/latex/amsmath/amsopn.sty
 Package: amsopn 2022/04/08 v2.04 operator names
 )
-\inf@bad=\count270
-LaTeX Info: Redefining \frac on input line 234.
-\uproot@=\count271
-\leftroot@=\count272
+\inf@bad=\count268
+LaTeX Info: Redefining \frac on input line 236.
+\uproot@=\count269
+\leftroot@=\count270
 LaTeX Info: Redefining \overline on input line 399.
 LaTeX Info: Redefining \colon on input line 410.
-\classnum@=\count273
-\DOTSCASE@=\count274
+\classnum@=\count271
+\DOTSCASE@=\count272
 LaTeX Info: Redefining \ldots on input line 496.
 LaTeX Info: Redefining \dots on input line 499.
 LaTeX Info: Redefining \cdots on input line 620.
@@ -156,38 +169,37 @@ LaTeX Info: Redefining \big on input line 722.
 LaTeX Info: Redefining \Big on input line 723.
 LaTeX Info: Redefining \bigg on input line 724.
 LaTeX Info: Redefining \Bigg on input line 725.
-\big@size=\dimen149
+\big@size=\dimen148
 LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
 LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
-\macc@depth=\count275
+\macc@depth=\count273
 LaTeX Info: Redefining \bmod on input line 905.
 LaTeX Info: Redefining \pmod on input line 910.
 LaTeX Info: Redefining \smash on input line 940.
 LaTeX Info: Redefining \relbar on input line 970.
 LaTeX Info: Redefining \Relbar on input line 971.
-\c@MaxMatrixCols=\count276
+\c@MaxMatrixCols=\count274
 \dotsspace@=\muskip16
-\c@parentequation=\count277
-\dspbrk@lvl=\count278
+\c@parentequation=\count275
+\dspbrk@lvl=\count276
 \tag@help=\toks25
-\row@=\count279
-\column@=\count280
-\maxfields@=\count281
+\row@=\count277
+\column@=\count278
+\maxfields@=\count279
 \andhelp@=\toks26
-\eqnshift@=\dimen150
-\alignsep@=\dimen151
-\tagshift@=\dimen152
-\tagwidth@=\dimen153
-\totwidth@=\dimen154
-\lineht@=\dimen155
+\eqnshift@=\dimen149
+\alignsep@=\dimen150
+\tagshift@=\dimen151
+\tagwidth@=\dimen152
+\totwidth@=\dimen153
+\lineht@=\dimen154
 \@envbody=\toks27
 \multlinegap=\skip62
 \multlinetaggap=\skip63
 \mathdisplay@stack=\toks28
 LaTeX Info: Redefining \[ on input line 2953.
 LaTeX Info: Redefining \] on input line 2954.
-)
-(/usr/local/texlive/2024/texmf-dist/tex/latex/index/index.sty
+) (/usr/local/texlive/2024/texmf-dist/tex/latex/index/index.sty
 Package: index 2004/01/20 v4.2beta Improved index support (dmj)
 \@indexbox=\insert252
 \indexproofstyle=\toks29
@@ -202,120 +214,161 @@ LaTeX Warning: Command \markright  has changed.
 
 ) (/usr/local/texlive/2024/texmf-dist/tex/latex/setspace/setspace.sty
 Package: setspace 2022/12/04 v6.7b set line spacing
-)
-(/usr/local/texlive/2024/texmf-dist/tex/latex/tools/longtable.sty
+) (/usr/local/texlive/2024/texmf-dist/tex/latex/tools/longtable.sty
 Package: longtable 2023-11-01 v4.19 Multi-page Table package (DPC)
 \LTleft=\skip64
 \LTright=\skip65
 \LTpre=\skip66
 \LTpost=\skip67
-\LTchunksize=\count282
-\LTcapwidth=\dimen156
+\LTchunksize=\count280
+\LTcapwidth=\dimen155
 \LT@head=\box56
 \LT@firsthead=\box57
 \LT@foot=\box58
 \LT@lastfoot=\box59
 \LT@gbox=\box60
-\LT@cols=\count283
-\LT@rows=\count284
-\c@LT@tables=\count285
-\c@LT@chunks=\count286
+\LT@cols=\count281
+\LT@rows=\count282
+\c@LT@tables=\count283
+\c@LT@chunks=\count284
 \LT@p@ftn=\toks30
+) (/usr/local/texlive/2024/texmf-dist/tex/latex/fontspec/fontspec.sty (/usr/local/texlive/2024/texmf-dist/tex/latex/l3packages/xparse/xparse.sty (/usr/local/texlive/2024/texmf-dist/tex/latex/l3kernel/expl3.sty
+Package: expl3 2024-02-20 L3 programming layer (loader) 
+ (/usr/local/texlive/2024/texmf-dist/tex/latex/l3backend/l3backend-luatex.def
+File: l3backend-luatex.def 2024-02-20 L3 backend support: PDF output (LuaTeX)
+\l__color_backend_stack_int=\count285
+Inserting `l3color' in `luaotfload.parse_color'.
+\l__pdf_internal_box=\box61
+))
+Package: xparse 2024-02-18 L3 Experimental document command parser
 )
-(/usr/local/texlive/2024/texmf-dist/tex/latex/anyfontsize/anyfontsize.sty
+Package: fontspec 2024/02/13 v2.9a Font selection for XeLaTeX and LuaLaTeX
+Lua module: fontspec 2024/02/13 2.9a Font selection for XeLaTeX and LuaLaTeX (/usr/local/texlive/2024/texmf-dist/tex/latex/fontspec/fontspec-luatex.sty
+Package: fontspec-luatex 2024/02/13 v2.9a Font selection for XeLaTeX and LuaLaTeX
+\l__fontspec_script_int=\count286
+\l__fontspec_language_int=\count287
+\l__fontspec_strnum_int=\count288
+\l__fontspec_tmp_int=\count289
+\l__fontspec_tmpa_int=\count290
+\l__fontspec_tmpb_int=\count291
+\l__fontspec_tmpc_int=\count292
+\l__fontspec_em_int=\count293
+\l__fontspec_emdef_int=\count294
+\l__fontspec_strong_int=\count295
+\l__fontspec_strongdef_int=\count296
+\l__fontspec_tmpa_dim=\dimen156
+\l__fontspec_tmpb_dim=\dimen157
+\l__fontspec_tmpc_dim=\dimen158
+ (/usr/local/texlive/2024/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
+) (/usr/local/texlive/2024/texmf-dist/tex/latex/fontspec/fontspec.cfg)))
+luaotfload | cache : Lookup cache loaded from /Users/pedromn35/Library/texlive/2024/texmf-var/luatex-cache/generic/names/luaotfload-lookup-cache.luc.
+luaotfload | aux : font no 18 (nil) defines no feature for script latn
+luaotfload | aux : font no 18 (nil) defines no feature for script dflt
+
+Package fontspec Info: Could not resolve font "NewsGotT/BI" (it probably
+(fontspec)             doesn't exist).
+
+
+Package fontspec Info: Could not resolve font "NewsGotT/I" (it probably
+(fontspec)             doesn't exist).
+
+
+Package fontspec Info: Font family 'NewsGotT(0)' created for font 'NewsGotT'
+(fontspec)             with options [Ligatures=TeX].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->"name:NewsGotT:mode=node;language=dflt;+tlig;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
+(fontspec)             - 'bold' (b/n) with NFSS spec.:
+(fontspec)             <->"name:NewsGotT/B:mode=node;language=dflt;+tlig;"
+(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.: 
+
+ (/usr/local/texlive/2024/texmf-dist/tex/latex/anyfontsize/anyfontsize.sty
 Package: anyfontsize 2007/11/22 anyfontsize.sty by pts
-)
-(/usr/local/texlive/2024/texmf-dist/tex/latex/float/float.sty
+) (/usr/local/texlive/2024/texmf-dist/tex/latex/float/float.sty
 Package: float 2001/11/08 v1.3d Float enhancements (AL)
-\c@float@type=\count287
+\c@float@type=\count297
 \float@exts=\toks31
-\float@box=\box61
+\float@box=\box62
 \@float@everytoks=\toks32
-\@floatcapt=\box62
-)
-(/usr/local/texlive/2024/texmf-dist/tex/latex/biblatex/biblatex.sty
+\@floatcapt=\box63
+) (/usr/local/texlive/2024/texmf-dist/tex/latex/biblatex/biblatex.sty
 Package: biblatex 2023/03/05 v3.19 programmable bibliographies (PK/MW)
-
-(/usr/local/texlive/2024/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
-Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
-)
-
-(/usr/local/texlive/2024/texmf-dist/tex/generic/infwarerr/infwarerr.sty
+ (/usr/local/texlive/2024/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO)
+ (/usr/local/texlive/2024/texmf-dist/tex/generic/infwarerr/infwarerr.sty
 Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
-)
-(/usr/local/texlive/2024/texmf-dist/tex/generic/iftex/iftex.sty
+) (/usr/local/texlive/2024/texmf-dist/tex/generic/iftex/iftex.sty
 Package: iftex 2022/02/03 v1.0f TeX engine tests
-)
-(/usr/local/texlive/2024/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
+) (/usr/local/texlive/2024/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
 Package: ltxcmds 2023-12-04 v1.26 LaTeX kernel commands for general use (HO)
 )
 Package pdftexcmds Info: \pdf@primitive is available.
 Package pdftexcmds Info: \pdf@ifprimitive is available.
 Package pdftexcmds Info: \pdfdraftmode found.
-)
-(/usr/local/texlive/2024/texmf-dist/tex/latex/kvoptions/kvoptions.sty
+\pdftexcmds@toks=\toks33
+) (/usr/local/texlive/2024/texmf-dist/tex/latex/kvoptions/kvoptions.sty
 Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
-
-(/usr/local/texlive/2024/texmf-dist/tex/latex/kvsetkeys/kvsetkeys.sty
+ (/usr/local/texlive/2024/texmf-dist/tex/latex/kvsetkeys/kvsetkeys.sty
 Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
-))
-(/usr/local/texlive/2024/texmf-dist/tex/latex/logreq/logreq.sty
+)) (/usr/local/texlive/2024/texmf-dist/tex/latex/logreq/logreq.sty
 Package: logreq 2010/08/04 v1.0 xml request logger
-\lrq@indent=\count288
-
-(/usr/local/texlive/2024/texmf-dist/tex/latex/logreq/logreq.def
+\lrq@indent=\count298
+ (/usr/local/texlive/2024/texmf-dist/tex/latex/logreq/logreq.def
 File: logreq.def 2010/08/04 v1.0 logreq spec v1.0
-))
-(/usr/local/texlive/2024/texmf-dist/tex/latex/base/ifthen.sty
+)) (/usr/local/texlive/2024/texmf-dist/tex/latex/base/ifthen.sty
 Package: ifthen 2022/04/13 v1.1d Standard LaTeX ifthen package (DPC)
-)
-(/usr/local/texlive/2024/texmf-dist/tex/latex/url/url.sty
+) (/usr/local/texlive/2024/texmf-dist/tex/latex/url/url.sty
 \Urlmuskip=\muskip17
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
-\c@tabx@nest=\count289
-\c@listtotal=\count290
-\c@listcount=\count291
-\c@liststart=\count292
-\c@liststop=\count293
-\c@citecount=\count294
-\c@citetotal=\count295
-\c@multicitecount=\count296
-\c@multicitetotal=\count297
-\c@instcount=\count298
-\c@maxnames=\count299
-\c@minnames=\count300
-\c@maxitems=\count301
-\c@minitems=\count302
-\c@citecounter=\count303
-\c@maxcitecounter=\count304
-\c@savedcitecounter=\count305
-\c@uniquelist=\count306
-\c@uniquename=\count307
-\c@refsection=\count308
-\c@refsegment=\count309
-\c@maxextratitle=\count310
-\c@maxextratitleyear=\count311
-\c@maxextraname=\count312
-\c@maxextradate=\count313
-\c@maxextraalpha=\count314
-\c@abbrvpenalty=\count315
-\c@highnamepenalty=\count316
-\c@lownamepenalty=\count317
-\c@maxparens=\count318
-\c@parenlevel=\count319
-\blx@tempcnta=\count320
-\blx@tempcntb=\count321
-\blx@tempcntc=\count322
-\c@blx@maxsection=\count323
-\blx@maxsegment@0=\count324
-\blx@notetype=\count325
-\blx@parenlevel@text=\count326
-\blx@parenlevel@foot=\count327
-\blx@sectionciteorder@0=\count328
-\blx@sectionciteorderinternal@0=\count329
-\blx@entrysetcounter=\count330
-\blx@biblioinstance=\count331
+\c@tabx@nest=\count299
+\c@listtotal=\count300
+\c@listcount=\count301
+\c@liststart=\count302
+\c@liststop=\count303
+\c@citecount=\count304
+\c@citetotal=\count305
+\c@multicitecount=\count306
+\c@multicitetotal=\count307
+\c@instcount=\count308
+\c@maxnames=\count309
+\c@minnames=\count310
+\c@maxitems=\count311
+\c@minitems=\count312
+\c@citecounter=\count313
+\c@maxcitecounter=\count314
+\c@savedcitecounter=\count315
+\c@uniquelist=\count316
+\c@uniquename=\count317
+\c@refsection=\count318
+\c@refsegment=\count319
+\c@maxextratitle=\count320
+\c@maxextratitleyear=\count321
+\c@maxextraname=\count322
+\c@maxextradate=\count323
+\c@maxextraalpha=\count324
+\c@abbrvpenalty=\count325
+\c@highnamepenalty=\count326
+\c@lownamepenalty=\count327
+\c@maxparens=\count328
+\c@parenlevel=\count329
+\blx@tempcnta=\count330
+\blx@tempcntb=\count331
+\blx@tempcntc=\count332
+\c@blx@maxsection=\count333
+\blx@maxsegment@0=\count334
+\blx@notetype=\count335
+\blx@parenlevel@text=\count336
+\blx@parenlevel@foot=\count337
+\blx@sectionciteorder@0=\count338
+\blx@sectionciteorderinternal@0=\count339
+\blx@entrysetcounter=\count340
+\blx@biblioinstance=\count341
 \labelnumberwidth=\skip68
 \labelalphawidth=\skip69
 \biblabelsep=\skip70
@@ -326,102 +379,100 @@ Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 \bibhang=\skip75
 \blx@bcfin=\read2
 \blx@bcfout=\write3
-\blx@langwohyphens=\language89
-\c@mincomprange=\count332
-\c@maxcomprange=\count333
-\c@mincompwidth=\count334
+\blx@langwohyphens=\language2
+\c@mincomprange=\count342
+\c@maxcomprange=\count343
+\c@mincompwidth=\count344
 Package biblatex Info: Trying to load biblatex default data model...
 Package biblatex Info: ... file 'blx-dm.def' found.
-
-(/usr/local/texlive/2024/texmf-dist/tex/latex/biblatex/blx-dm.def
+ (/usr/local/texlive/2024/texmf-dist/tex/latex/biblatex/blx-dm.def
 File: blx-dm.def 2023/03/05 v3.19 biblatex localization (PK/MW)
 )
 Package biblatex Info: Trying to load biblatex style data model...
 Package biblatex Info: ... file 'apa.dbx' found.
-
-(/usr/local/texlive/2024/texmf-dist/tex/latex/biblatex-apa/apa.dbx
+ (/usr/local/texlive/2024/texmf-dist/tex/latex/biblatex-apa/apa.dbx
 File: apa.dbx 2023/03/20 v9.17 APA biblatex style data model
 )
 Package biblatex Info: Trying to load biblatex custom data model...
 Package biblatex Info: ... file 'biblatex-dm.cfg' not found.
-\c@afterword=\count335
-\c@savedafterword=\count336
-\c@annotator=\count337
-\c@savedannotator=\count338
-\c@author=\count339
-\c@savedauthor=\count340
-\c@bookauthor=\count341
-\c@savedbookauthor=\count342
-\c@commentator=\count343
-\c@savedcommentator=\count344
-\c@editor=\count345
-\c@savededitor=\count346
-\c@editora=\count347
-\c@savededitora=\count348
-\c@editorb=\count349
-\c@savededitorb=\count350
-\c@editorc=\count351
-\c@savededitorc=\count352
-\c@foreword=\count353
-\c@savedforeword=\count354
-\c@holder=\count355
-\c@savedholder=\count356
-\c@introduction=\count357
-\c@savedintroduction=\count358
-\c@namea=\count359
-\c@savednamea=\count360
-\c@nameb=\count361
-\c@savednameb=\count362
-\c@namec=\count363
-\c@savednamec=\count364
-\c@translator=\count365
-\c@savedtranslator=\count366
-\c@shortauthor=\count367
-\c@savedshortauthor=\count368
-\c@shorteditor=\count369
-\c@savedshorteditor=\count370
-\c@narrator=\count371
-\c@savednarrator=\count372
-\c@execproducer=\count373
-\c@savedexecproducer=\count374
-\c@execdirector=\count375
-\c@savedexecdirector=\count376
-\c@with=\count377
-\c@savedwith=\count378
-\c@labelname=\count379
-\c@savedlabelname=\count380
-\c@institution=\count381
-\c@savedinstitution=\count382
-\c@lista=\count383
-\c@savedlista=\count384
-\c@listb=\count385
-\c@savedlistb=\count386
-\c@listc=\count387
-\c@savedlistc=\count388
-\c@listd=\count389
-\c@savedlistd=\count390
-\c@liste=\count391
-\c@savedliste=\count392
-\c@listf=\count393
-\c@savedlistf=\count394
-\c@location=\count395
-\c@savedlocation=\count396
-\c@organization=\count397
-\c@savedorganization=\count398
-\c@origlocation=\count399
-\c@savedoriglocation=\count400
-\c@origpublisher=\count401
-\c@savedorigpublisher=\count402
-\c@publisher=\count403
-\c@savedpublisher=\count404
-\c@language=\count405
-\c@savedlanguage=\count406
-\c@origlanguage=\count407
-\c@savedoriglanguage=\count408
-\c@citation=\count409
-\c@savedcitation=\count410
-\c@pageref=\count411
-\c@savedpageref=\count412
+\c@afterword=\count345
+\c@savedafterword=\count346
+\c@annotator=\count347
+\c@savedannotator=\count348
+\c@author=\count349
+\c@savedauthor=\count350
+\c@bookauthor=\count351
+\c@savedbookauthor=\count352
+\c@commentator=\count353
+\c@savedcommentator=\count354
+\c@editor=\count355
+\c@savededitor=\count356
+\c@editora=\count357
+\c@savededitora=\count358
+\c@editorb=\count359
+\c@savededitorb=\count360
+\c@editorc=\count361
+\c@savededitorc=\count362
+\c@foreword=\count363
+\c@savedforeword=\count364
+\c@holder=\count365
+\c@savedholder=\count366
+\c@introduction=\count367
+\c@savedintroduction=\count368
+\c@namea=\count369
+\c@savednamea=\count370
+\c@nameb=\count371
+\c@savednameb=\count372
+\c@namec=\count373
+\c@savednamec=\count374
+\c@translator=\count375
+\c@savedtranslator=\count376
+\c@shortauthor=\count377
+\c@savedshortauthor=\count378
+\c@shorteditor=\count379
+\c@savedshorteditor=\count380
+\c@narrator=\count381
+\c@savednarrator=\count382
+\c@execproducer=\count383
+\c@savedexecproducer=\count384
+\c@execdirector=\count385
+\c@savedexecdirector=\count386
+\c@with=\count387
+\c@savedwith=\count388
+\c@labelname=\count389
+\c@savedlabelname=\count390
+\c@institution=\count391
+\c@savedinstitution=\count392
+\c@lista=\count393
+\c@savedlista=\count394
+\c@listb=\count395
+\c@savedlistb=\count396
+\c@listc=\count397
+\c@savedlistc=\count398
+\c@listd=\count399
+\c@savedlistd=\count400
+\c@liste=\count401
+\c@savedliste=\count402
+\c@listf=\count403
+\c@savedlistf=\count404
+\c@location=\count405
+\c@savedlocation=\count406
+\c@organization=\count407
+\c@savedorganization=\count408
+\c@origlocation=\count409
+\c@savedoriglocation=\count410
+\c@origpublisher=\count411
+\c@savedorigpublisher=\count412
+\c@publisher=\count413
+\c@savedpublisher=\count414
+\c@language=\count415
+\c@savedlanguage=\count416
+\c@origlanguage=\count417
+\c@savedoriglanguage=\count418
+\c@citation=\count419
+\c@savedcitation=\count420
+\c@pageref=\count421
+\c@savedpageref=\count422
 \shorthandwidth=\skip76
 \shortjournalwidth=\skip77
 \shortserieswidth=\skip78
@@ -436,57 +487,51 @@ Package biblatex Info: ... file 'biblatex-dm.cfg' not found.
 \localshorttitlewidth=\skip87
 \localshortauthorwidth=\skip88
 \localshorteditorwidth=\skip89
+Package biblatex Info: Trying to load enhanced support for Unicode engines...
+Package biblatex Info: ... file 'blx-unicode.def' found.
+ (/usr/local/texlive/2024/texmf-dist/tex/latex/biblatex/blx-unicode.def)
 Package biblatex Info: Trying to load compatibility code...
 Package biblatex Info: ... file 'blx-compat.def' found.
-
-(/usr/local/texlive/2024/texmf-dist/tex/latex/biblatex/blx-compat.def
+ (/usr/local/texlive/2024/texmf-dist/tex/latex/biblatex/blx-compat.def
 File: blx-compat.def 2023/03/05 v3.19 biblatex compatibility (PK/MW)
 )
 Package biblatex Info: Trying to load generic definitions...
 Package biblatex Info: ... file 'biblatex.def' found.
-
-(/usr/local/texlive/2024/texmf-dist/tex/latex/biblatex/biblatex.def
+ (/usr/local/texlive/2024/texmf-dist/tex/latex/biblatex/biblatex.def
 File: biblatex.def 2023/03/05 v3.19 biblatex compatibility (PK/MW)
-\c@textcitecount=\count413
-\c@textcitetotal=\count414
-\c@textcitemaxnames=\count415
-\c@biburlbigbreakpenalty=\count416
-\c@biburlbreakpenalty=\count417
-\c@biburlnumpenalty=\count418
-\c@biburlucpenalty=\count419
-\c@biburllcpenalty=\count420
+\c@textcitecount=\count423
+\c@textcitetotal=\count424
+\c@textcitemaxnames=\count425
+\c@biburlbigbreakpenalty=\count426
+\c@biburlbreakpenalty=\count427
+\c@biburlnumpenalty=\count428
+\c@biburlucpenalty=\count429
+\c@biburllcpenalty=\count430
 \biburlbigskip=\muskip18
 \biburlnumskip=\muskip19
 \biburlucskip=\muskip20
 \biburllcskip=\muskip21
-\c@smartand=\count421
+\c@smartand=\count431
 )
 Package biblatex Info: Trying to load bibliography style 'apa'...
 Package biblatex Info: ... file 'apa.bbx' found.
-
-(/usr/local/texlive/2024/texmf-dist/tex/latex/biblatex-apa/apa.bbx
+ (/usr/local/texlive/2024/texmf-dist/tex/latex/biblatex-apa/apa.bbx
 File: apa.bbx 2023/03/20 v9.17 APA biblatex references style
 Package biblatex Info: Trying to load bibliography style 'standard'...
 Package biblatex Info: ... file 'standard.bbx' found.
-
-(/usr/local/texlive/2024/texmf-dist/tex/latex/biblatex/bbx/standard.bbx
+ (/usr/local/texlive/2024/texmf-dist/tex/latex/biblatex/bbx/standard.bbx
 File: standard.bbx 2023/03/05 v3.19 biblatex bibliography style (PK/MW)
-\c@bbx:relatedcount=\count422
-\c@bbx:relatedtotal=\count423
+\c@bbx:relatedcount=\count432
+\c@bbx:relatedtotal=\count433
 )
-Package biblatex Info: Delimiter 'nameyeardelim' in context 'bib' already defin
-ed, overwriting.
-Package biblatex Info: Delimiter 'nameyeardelim' in context 'biblist' already d
-efined, overwriting.
-Package biblatex Info: Delimiter 'nonameyeardelim' in context 'bib' already def
-ined, overwriting.
-Package biblatex Info: Delimiter 'nonameyeardelim' in context 'biblist' already
- defined, overwriting.
+Package biblatex Info: Delimiter 'nameyeardelim' in context 'bib' already defined, overwriting.
+Package biblatex Info: Delimiter 'nameyeardelim' in context 'biblist' already defined, overwriting.
+Package biblatex Info: Delimiter 'nonameyeardelim' in context 'bib' already defined, overwriting.
+Package biblatex Info: Delimiter 'nonameyeardelim' in context 'biblist' already defined, overwriting.
 )
 Package biblatex Info: Trying to load citation style 'numeric'...
 Package biblatex Info: ... file 'numeric.cbx' found.
-
-(/usr/local/texlive/2024/texmf-dist/tex/latex/biblatex/cbx/numeric.cbx
+ (/usr/local/texlive/2024/texmf-dist/tex/latex/biblatex/cbx/numeric.cbx
 File: numeric.cbx 2023/03/05 v3.19 biblatex citation style (PK/MW)
 Package biblatex Info: Redefining '\cite'.
 Package biblatex Info: Redefining '\parencite'.
@@ -502,71 +547,55 @@ Package biblatex Info: Redefining '\smartcites'.
 )
 Package biblatex Info: Trying to load configuration file...
 Package biblatex Info: ... file 'biblatex.cfg' found.
-
-(/usr/local/texlive/2024/texmf-dist/tex/latex/biblatex/biblatex.cfg
+ (/usr/local/texlive/2024/texmf-dist/tex/latex/biblatex/biblatex.cfg
 File: biblatex.cfg 
 )
-Package biblatex Info: Input encoding 'utf8' detected.
+Package biblatex Info: LuaTeX detected.
+(biblatex)             Assuming input encoding 'utf8'.
 Package biblatex Info: Document encoding is UTF8 ....
-
-(/usr/local/texlive/2024/texmf-dist/tex/latex/l3kernel/expl3.sty
-Package: expl3 2024-02-20 L3 programming layer (loader) 
-
-(/usr/local/texlive/2024/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
-File: l3backend-pdftex.def 2024-02-20 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count424
-\l__pdf_internal_box=\box63
-))
 Package biblatex Info: ... and expl3
 (biblatex)             2024-02-20 L3 programming layer (loader) 
 (biblatex)             is new enough (at least 2020/04/06),
 (biblatex)             setting 'casechanger=expl3'.
-
-(/usr/local/texlive/2024/texmf-dist/tex/latex/biblatex/blx-case-expl3.sty
-(/usr/local/texlive/2024/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
-Package: xparse 2024-02-18 L3 Experimental document command parser
-)
+ (/usr/local/texlive/2024/texmf-dist/tex/latex/biblatex/blx-case-expl3.sty
 Package: blx-case-expl3 2023/03/05 v3.19 expl3 case changing code for biblatex
-))
-(/usr/local/texlive/2024/texmf-dist/tex/latex/geometry/geometry.sty
+)) (/usr/local/texlive/2024/texmf-dist/tex/latex/geometry/geometry.sty
 Package: geometry 2020/01/02 v5.9 Page Geometry
-
-(/usr/local/texlive/2024/texmf-dist/tex/generic/iftex/ifvtex.sty
+ (/usr/local/texlive/2024/texmf-dist/tex/generic/iftex/ifvtex.sty
 Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 )
-\Gm@cnth=\count425
-\Gm@cntv=\count426
-\c@Gm@tempcnt=\count427
-\Gm@bindingoffset=\dimen157
-\Gm@wd@mp=\dimen158
-\Gm@odd@mp=\dimen159
-\Gm@even@mp=\dimen160
-\Gm@layoutwidth=\dimen161
-\Gm@layoutheight=\dimen162
-\Gm@layouthoffset=\dimen163
-\Gm@layoutvoffset=\dimen164
-\Gm@dimlist=\toks33
-)
-(/usr/local/texlive/2024/texmf-dist/tex/latex/tools/multicol.sty
+\Gm@cnth=\count434
+\Gm@cntv=\count435
+\c@Gm@tempcnt=\count436
+\Gm@bindingoffset=\dimen159
+\Gm@wd@mp=\dimen160
+\Gm@odd@mp=\dimen161
+\Gm@even@mp=\dimen162
+\Gm@layoutwidth=\dimen163
+\Gm@layoutheight=\dimen164
+\Gm@layouthoffset=\dimen165
+\Gm@layoutvoffset=\dimen166
+\Gm@dimlist=\toks34
+) (/usr/local/texlive/2024/texmf-dist/tex/latex/tools/multicol.sty
 Package: multicol 2023/03/30 v1.9f multicolumn formatting (FMi)
-\c@tracingmulticols=\count428
+\c@tracingmulticols=\count437
 \mult@box=\box64
-\multicol@leftmargin=\dimen165
-\c@unbalance=\count429
-\c@collectmore=\count430
-\doublecol@number=\count431
-\multicoltolerance=\count432
-\multicolpretolerance=\count433
-\full@width=\dimen166
-\page@free=\dimen167
-\premulticols=\dimen168
-\postmulticols=\dimen169
+\multicol@leftmargin=\dimen167
+\c@unbalance=\count438
+\c@collectmore=\count439
+\doublecol@number=\count440
+\multicoltolerance=\count441
+\multicolpretolerance=\count442
+\full@width=\dimen168
+\page@free=\dimen169
+\premulticols=\dimen170
+\postmulticols=\dimen171
 \multicolsep=\skip90
 \multicolbaselineskip=\skip91
 \partial@page=\box65
 \last@line=\box66
 \mc@boxedresult=\box67
-\maxbalancingoverflow=\dimen170
+\maxbalancingoverflow=\dimen172
 \mult@rightbox=\box68
 \mult@grightbox=\box69
 \mult@firstbox=\box70
@@ -607,98 +636,88 @@ Package: multicol 2023/03/30 v1.9f multicolumn formatting (FMi)
 \@tempa=\box105
 \@tempa=\box106
 \@tempa=\box107
-\c@minrows=\count434
-\c@columnbadness=\count435
-\c@finalcolumnbadness=\count436
-\last@try=\dimen171
-\multicolovershoot=\dimen172
-\multicolundershoot=\dimen173
+\c@minrows=\count443
+\c@columnbadness=\count444
+\c@finalcolumnbadness=\count445
+\last@try=\dimen173
+\multicolovershoot=\dimen174
+\multicolundershoot=\dimen175
 \mult@nat@firstbox=\box108
 \colbreak@box=\box109
-\mc@col@check@num=\count437
-)
-(/usr/local/texlive/2024/texmf-dist/tex/latex/tools/bm.sty
+\mc@col@check@num=\count446
+) (/usr/local/texlive/2024/texmf-dist/tex/latex/tools/bm.sty
 Package: bm 2023/07/08 v1.2f Bold Symbol Support (DPC/FMi)
 \symboldoperators=\mathgroup4
 \symboldletters=\mathgroup5
 \symboldsymbols=\mathgroup6
 Package bm Info: No bold for \OMX/cmex/m/n, using \pmb.
 LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 149.
-)
-(/usr/local/texlive/2024/texmf-dist/tex/latex/caption/caption.sty
+) (/usr/local/texlive/2024/texmf-dist/tex/latex/caption/caption.sty
 Package: caption 2023/08/05 v3.6o Customizing captions (AR)
-
-(/usr/local/texlive/2024/texmf-dist/tex/latex/caption/caption3.sty
+ (/usr/local/texlive/2024/texmf-dist/tex/latex/caption/caption3.sty
 Package: caption3 2023/07/31 v2.4d caption3 kernel (AR)
-\caption@tempdima=\dimen174
-\captionmargin=\dimen175
-\caption@leftmargin=\dimen176
-\caption@rightmargin=\dimen177
-\caption@width=\dimen178
-\caption@indent=\dimen179
-\caption@parindent=\dimen180
-\caption@hangindent=\dimen181
+\caption@tempdima=\dimen176
+\captionmargin=\dimen177
+\caption@leftmargin=\dimen178
+\caption@rightmargin=\dimen179
+\caption@width=\dimen180
+\caption@indent=\dimen181
+\caption@parindent=\dimen182
+\caption@hangindent=\dimen183
 Package caption Info: Standard document class detected.
 )
-\c@caption@flags=\count438
-\c@continuedfloat=\count439
+\c@caption@flags=\count447
+\c@continuedfloat=\count448
 Package caption Info: changepage package is loaded.
-\caption@adjustwidth@hsize=\dimen182
-\caption@adjustwidth@linewidth=\dimen183
+\caption@adjustwidth@hsize=\dimen184
+\caption@adjustwidth@linewidth=\dimen185
 Package caption Info: float package is loaded.
 Package caption Info: longtable package is loaded.
-
-(/usr/local/texlive/2024/texmf-dist/tex/latex/caption/ltcaption.sty
+ (/usr/local/texlive/2024/texmf-dist/tex/latex/caption/ltcaption.sty
 Package: ltcaption 2021/01/08 v1.4c longtable captions (AR)
 )
 Package caption Info: wrapfig package is loaded.
-)
-(/usr/local/texlive/2024/texmf-dist/tex/latex/blindtext/blindtext.sty
+) (/usr/local/texlive/2024/texmf-dist/tex/latex/blindtext/blindtext.sty
 Package: blindtext 2012/01/06 V2.0 blindtext-Package
-
-(/usr/local/texlive/2024/texmf-dist/tex/latex/tools/xspace.sty
+ (/usr/local/texlive/2024/texmf-dist/tex/latex/tools/xspace.sty
 Package: xspace 2014/10/28 v1.13 Space after command names (DPC,MH)
 )
-\c@blindtext=\count440
-\c@Blindtext=\count441
-\c@blind@countparstart=\count442
-\blind@countxx=\count443
-\blindtext@numBlindtext=\count444
-\blind@countyy=\count445
-\c@blindlist=\count446
-\c@blindlistlevel=\count447
-\c@blindlist@level=\count448
-\blind@listitem=\count449
-\c@blind@listcount=\count450
-\c@blind@levelcount=\count451
-\blind@mathformula=\count452
-\blind@Mathformula=\count453
-\c@blind@randomcount=\count454
-\c@blind@randommax=\count455
-\c@blind@pangramcount=\count456
-\c@blind@pangrammax=\count457
-)
-(/usr/local/texlive/2024/texmf-dist/tex/generic/ulem/ulem.sty
+\c@blindtext=\count449
+\c@Blindtext=\count450
+\c@blind@countparstart=\count451
+\blind@countxx=\count452
+\blindtext@numBlindtext=\count453
+\blind@countyy=\count454
+\c@blindlist=\count455
+\c@blindlistlevel=\count456
+\c@blindlist@level=\count457
+\blind@listitem=\count458
+\c@blind@listcount=\count459
+\c@blind@levelcount=\count460
+\blind@mathformula=\count461
+\blind@Mathformula=\count462
+\c@blind@randomcount=\count463
+\c@blind@randommax=\count464
+\c@blind@pangramcount=\count465
+\c@blind@pangrammax=\count466
+) (/usr/local/texlive/2024/texmf-dist/tex/generic/ulem/ulem.sty
 \UL@box=\box110
 \UL@hyphenbox=\box111
 \UL@skip=\skip92
-\UL@hook=\toks34
-\UL@height=\dimen184
-\UL@pe=\count458
-\UL@pixel=\dimen185
+\UL@hook=\toks35
+\UL@height=\dimen186
+\UL@pe=\count467
+\UL@pixel=\dimen187
 \ULC@box=\box112
 Package: ulem 2019/11/18
-\ULdepth=\dimen186
-)
-(/usr/local/texlive/2024/texmf-dist/tex/latex/xcolor/xcolor.sty
+\ULdepth=\dimen188
+) (/usr/local/texlive/2024/texmf-dist/tex/latex/xcolor/xcolor.sty
 Package: xcolor 2023/11/15 v3.01 LaTeX color extensions (UK)
-
-(/usr/local/texlive/2024/texmf-dist/tex/latex/graphics-cfg/color.cfg
+ (/usr/local/texlive/2024/texmf-dist/tex/latex/graphics-cfg/color.cfg
 File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
-Package xcolor Info: Driver file: pdftex.def on input line 274.
-
-(/usr/local/texlive/2024/texmf-dist/tex/latex/graphics/mathcolor.ltx)
+Package xcolor Info: Driver file: luatex.def on input line 274.
+ (/usr/local/texlive/2024/texmf-dist/tex/latex/graphics/mathcolor.ltx)
 Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1350.
 Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1354.
 Package xcolor Info: Model `RGB' extended on input line 1366.
@@ -708,26 +727,20 @@ Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1370.
 Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1371.
 Package xcolor Info: Model `Gray' substituted by `gray' on input line 1372.
 Package xcolor Info: Model `wave' substituted by `hsb' on input line 1373.
-)
-(/usr/local/texlive/2024/texmf-dist/tex/latex/tools/afterpage.sty
+) (/usr/local/texlive/2024/texmf-dist/tex/latex/tools/afterpage.sty
 Package: afterpage 2023/07/04 v1.08 After-Page Package (DPC)
-\AP@output=\toks35
+\AP@output=\toks36
 \AP@partial=\box113
 \AP@footins=\box114
-)
-(/usr/local/texlive/2024/texmf-dist/tex/latex/appendix/appendix.sty
+) (/usr/local/texlive/2024/texmf-dist/tex/latex/appendix/appendix.sty
 Package: appendix 2020/02/08 v1.2c extra appendix facilities
-\c@@pps=\count459
-\c@@ppsavesec=\count460
-\c@@ppsaveapp=\count461
+\c@@pps=\count468
+\c@@ppsavesec=\count469
+\c@@ppsaveapp=\count470
 )
-\@quotelevel=\count462
-\@quotereset=\count463
-
-(./main.aux
-
-LaTeX Warning: Label `fig:sample-image' multiply defined.
-
+\@quotelevel=\count471
+\@quotereset=\count472
+ (./main.aux
 
 LaTeX Warning: Label `fig:sample-image' multiply defined.
 
@@ -786,7 +799,10 @@ LaTeX Warning: Label `fig:sample-image' multiply defined.
 LaTeX Warning: Label `fig:sample-image' multiply defined.
 
 
-LaTeX Warning: Label `tab:activity_schedule' multiply defined.
+LaTeX Warning: Label `fig:sample-image' multiply defined.
+
+
+LaTeX Warning: Label `fig:sample-image' multiply defined.
 
 
 LaTeX Warning: Label `tab:activity_schedule' multiply defined.
@@ -975,103 +991,346 @@ LaTeX Warning: Label `fig:sample-image' multiply defined.
 LaTeX Warning: Label `tab:activity_schedule' multiply defined.
 
 )
-\openout1 = `main.aux'.
+\openout1 = main.aux
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 61.
-LaTeX Font Info:    ... okay on input line 61.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 61.
-LaTeX Font Info:    ... okay on input line 61.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 61.
-LaTeX Font Info:    ... okay on input line 61.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 61.
-LaTeX Font Info:    ... okay on input line 61.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 61.
-LaTeX Font Info:    ... okay on input line 61.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 61.
-LaTeX Font Info:    ... okay on input line 61.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 61.
-LaTeX Font Info:    ... okay on input line 61.
-LaTeX Info: Redefining \microtypecontext on input line 61.
-Package microtype Info: Applying patch `item' on input line 61.
-Package microtype Info: Applying patch `toc' on input line 61.
-Package microtype Info: Applying patch `eqnum' on input line 61.
-Package microtype Info: Applying patch `footnote' on input line 61.
-Package microtype Info: Applying patch `verbatim' on input line 61.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 65.
+LaTeX Font Info:    ... okay on input line 65.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 65.
+LaTeX Font Info:    ... okay on input line 65.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 65.
+LaTeX Font Info:    ... okay on input line 65.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 65.
+LaTeX Font Info:    ... okay on input line 65.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 65.
+LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 65.
+ (/usr/local/texlive/2024/texmf-dist/tex/latex/base/ts1cmr.fd
+File: ts1cmr.fd 2023/04/13 v2.5m Standard LaTeX font definitions
+)
+LaTeX Font Info:    ... okay on input line 65.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 65.
+LaTeX Font Info:    ... okay on input line 65.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 65.
+LaTeX Font Info:    ... okay on input line 65.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 65.
+LaTeX Font Info:    ... okay on input line 65.
+LaTeX Info: Redefining \microtypecontext on input line 65.
+Package microtype Info: Applying patch `item' on input line 65.
+Package microtype Info: Applying patch `toc' on input line 65.
+Package microtype Info: Applying patch `eqnum' on input line 65.
+Package microtype Info: Applying patch `footnote' on input line 65.
+Package microtype Info: Applying patch `verbatim' on input line 65.
 Package microtype Info: Generating PDF output.
 Package microtype Info: No character protrusion.
 Package microtype Info: No font expansion.
 Package microtype Info: No adjustment of tracking.
-Package microtype Info: No adjustment of interword spacing.
-Package microtype Info: No adjustment of character kerning.
- (/usr/local/texlive/2024/texmf-dist/tex/latex/microtype/mt-cmr.cfg
-File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman 
-(RS)
-)
-(/usr/local/texlive/2024/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+Package microtype Info: No adjustment of spacing.
+Package microtype Info: No adjustment of kerning.
+ (/usr/local/texlive/2024/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count464
-\scratchdimen=\dimen187
+\scratchcounter=\count473
+\scratchdimen=\dimen189
 \scratchbox=\box115
-\nofMPsegments=\count465
-\nofMParguments=\count466
-\everyMPshowfont=\toks36
-\MPscratchCnt=\count467
-\MPscratchDim=\dimen188
-\MPnumerator=\count468
-\makeMPintoPDFobject=\count469
-\everyMPtoPDFconversion=\toks37
+\nofMPsegments=\count474
+\nofMParguments=\count475
+\everyMPshowfont=\toks37
+\MPscratchCnt=\count476
+\MPscratchDim=\dimen190
+\MPnumerator=\count477
+\makeMPintoPDFobject=\count478
+\everyMPtoPDFconversion=\toks38
 ) (/usr/local/texlive/2024/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
-Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
-85.
-
-(/usr/local/texlive/2024/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
-File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
-e
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
+ (/usr/local/texlive/2024/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 ))
+
+Package fontspec Info: Adjusting the maths setup (use [no-math] to avoid
+(fontspec)             this).
+
+\symlegacymaths=\mathgroup7
+LaTeX Font Info:    Overwriting symbol font `legacymaths' in version `bold'
+(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 65.
+LaTeX Font Info:    Redeclaring math accent \acute on input line 65.
+LaTeX Font Info:    Redeclaring math accent \grave on input line 65.
+LaTeX Font Info:    Redeclaring math accent \ddot on input line 65.
+LaTeX Font Info:    Redeclaring math accent \tilde on input line 65.
+LaTeX Font Info:    Redeclaring math accent \bar on input line 65.
+LaTeX Font Info:    Redeclaring math accent \breve on input line 65.
+LaTeX Font Info:    Redeclaring math accent \check on input line 65.
+LaTeX Font Info:    Redeclaring math accent \hat on input line 65.
+LaTeX Font Info:    Redeclaring math accent \dot on input line 65.
+LaTeX Font Info:    Redeclaring math accent \mathring on input line 65.
+LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 65.
+LaTeX Font Info:    Redeclaring math symbol \Delta on input line 65.
+LaTeX Font Info:    Redeclaring math symbol \Theta on input line 65.
+LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 65.
+LaTeX Font Info:    Redeclaring math symbol \Xi on input line 65.
+LaTeX Font Info:    Redeclaring math symbol \Pi on input line 65.
+LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 65.
+LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 65.
+LaTeX Font Info:    Redeclaring math symbol \Phi on input line 65.
+LaTeX Font Info:    Redeclaring math symbol \Psi on input line 65.
+LaTeX Font Info:    Redeclaring math symbol \Omega on input line 65.
+LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 65.
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 65.
+LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
+(Font)              `operators' in the math version `normal' on input line 65.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> TU/NewsGotT(0)/m/n on input line 65.
+LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
+(Font)              `operators' in the math version `bold' on input line 65.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> TU/NewsGotT(0)/m/n on input line 65.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  TU/NewsGotT(0)/m/n --> TU/NewsGotT(0)/m/n on input line 65.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> TU/NewsGotT(0)/m/it on input line 65.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> TU/NewsGotT(0)/b/n on input line 65.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
+(Font)                  OT1/cmss/m/n --> TU/lmss/m/n on input line 65.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/m/n on input line 65.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  TU/NewsGotT(0)/m/n --> TU/NewsGotT(0)/b/n on input line 65.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> TU/NewsGotT(0)/b/it on input line 65.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  OT1/cmss/bx/n --> TU/lmss/b/n on input line 65.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/b/n on input line 65.
 Package biblatex Info: Trying to load language 'english' -> 'english-apa'...
 Package biblatex Info: ... file 'english-apa.lbx' found.
-
-(/usr/local/texlive/2024/texmf-dist/tex/latex/biblatex-apa/english-apa.lbx
+ (/usr/local/texlive/2024/texmf-dist/tex/latex/biblatex-apa/english-apa.lbx
 File: english-apa.lbx 2023/03/20 v9.17 APA biblatex localisation
 Package biblatex Info: Trying to load language 'english'...
 Package biblatex Info: ... file 'english.lbx' found.
-
-(/usr/local/texlive/2024/texmf-dist/tex/latex/biblatex/lbx/english.lbx
+ (/usr/local/texlive/2024/texmf-dist/tex/latex/biblatex/lbx/english.lbx
 File: english.lbx 2023/03/05 v3.19 biblatex localization (PK/MW)
 )
 Package biblatex Info: Trying to load language 'american' -> 'american-apa'...
 Package biblatex Info: ... file 'american-apa.lbx' found.
-
-(/usr/local/texlive/2024/texmf-dist/tex/latex/biblatex-apa/american-apa.lbx
+ (/usr/local/texlive/2024/texmf-dist/tex/latex/biblatex-apa/american-apa.lbx
 File: american-apa.lbx 2023/03/20 v9.17 APA biblatex localisation
 Package biblatex Info: Trying to load language 'american'...
 Package biblatex Info: ... file 'american.lbx' found.
-
-(/usr/local/texlive/2024/texmf-dist/tex/latex/biblatex/lbx/american.lbx
+ (/usr/local/texlive/2024/texmf-dist/tex/latex/biblatex/lbx/american.lbx
 File: american.lbx 2023/03/05 v3.19 biblatex localization (PK/MW)
 Package biblatex Info: Trying to load language 'english'...
 Package biblatex Info: ... file 'english.lbx' found.
-
-(/usr/local/texlive/2024/texmf-dist/tex/latex/biblatex/lbx/english.lbx
+ (/usr/local/texlive/2024/texmf-dist/tex/latex/biblatex/lbx/english.lbx
 File: english.lbx 2023/03/05 v3.19 biblatex localization (PK/MW)
 ))))
-Package biblatex Info: Input encoding 'utf8' detected.
+Package biblatex Info: LuaTeX detected.
+(biblatex)             Assuming input encoding 'utf8'.
 Package biblatex Info: Automatic encoding selection.
 (biblatex)             Assuming data encoding 'utf8'.
-\openout3 = `main.bcf'.
 
+\openout3 = main.bcf
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'main.bbl' found.
+ (./main.bbl
 
-(./main.bbl)
-Package biblatex Info: Reference section=0 on input line 61.
-Package biblatex Info: Reference segment=0 on input line 61.
+Package biblatex Warning: Biber reported the following issues
+(biblatex)                with 'implementation-requirements-blockchain':
+(biblatex)                - article entry 'implementation-requirements-blockchain' (library.bib): Invalid format '2019/03/11' of date field 'date' - ignoring.
+
+
+Package biblatex Warning: Biber reported the following issues
+(biblatex)                with 'implementation-requirements-blockchain':
+(biblatex)                - article entry 'implementation-requirements-blockchain' (library.bib): Invalid format '2019/03/11' of date field 'date' - ignoring.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                IBM-reference
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                ICP
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                R3CEV
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                blockchain-counterfeit
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                blockchain-in-finance
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                blockchain-in-healthcare
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                blockchain-in-supply-chain
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                blockchain-patient-control
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                btc
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                consortium-blockchain
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                data-breaches-2021
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                data-volume-increase-healthcare
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                encryption-algorithms
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                healthcare-data-breaches
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                healthcare-data-fragmentation
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                healthcare-privacy
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                healthcare-theft-data
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                hyperledger-hippa-and-gdpr
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                it-challenges-healthcare
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                legacy-healthcare
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                multisectoral-healthcare
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                privacy-healthcare
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                private-blockchain
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                private-vs-public-vs-consortium
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                solana
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                tron-and-eth
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+)
+Package biblatex Info: Reference section=0 on input line 65.
+Package biblatex Info: Reference segment=0 on input line 65.
 
 *geometry* driver: auto-detecting
-*geometry* detected driver: pdftex
+*geometry* detected driver: luatex
 *geometry* verbose mode - [ preamble ] result:
-* driver: pdftex
+* driver: luatex
 * paper: a4paper
 * layout: <same size as paper>
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
@@ -1106,7 +1365,7 @@ Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: End \AtBeginDocument code.
 (./title.tex
 *geometry* verbose mode - [ newgeometry ] result:
-* driver: pdftex
+* driver: luatex
 * paper: a4paper
 * layout: <same size as paper>
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
@@ -1140,15 +1399,21 @@ Package caption Info: End \AtBeginDocument code.
 <assets/title/symbol.jpg, id=1, 1204.5pt x 632.3625pt>
 File: assets/title/symbol.jpg Graphic file (type jpg)
 <use assets/title/symbol.jpg>
-Package pdftex.def Info: assets/title/symbol.jpg  used on input line 8.
-(pdftex.def)             Requested size: 125.47737pt x 65.87415pt.
- [1
+Package luatex.def Info: assets/title/symbol.jpg  used on input line 8.
+(luatex.def)             Requested size: 125.47737pt x 65.87415pt.
 
 
-{/usr/local/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./asset
-s/title/symbol.jpg>]) (./black-and-white.tex
+LaTeX Font Warning: Font shape `TU/NewsGotT(0)/m/it' undefined
+(Font)              using `TU/NewsGotT(0)/m/n' instead on input line 14.
+
+(/usr/local/texlive/2024/texmf-dist/tex/latex/microtype/mt-cmr.cfg
+File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman (RS)
+) [1
+
+
+{/usr/local/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map}<./assets/title/symbol.jpg>]) (./black-and-white.tex
 *geometry* verbose mode - [ newgeometry ] result:
-* driver: pdftex
+* driver: luatex
 * paper: a4paper
 * layout: <same size as paper>
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
@@ -1179,16 +1444,16 @@ s/title/symbol.jpg>]) (./black-and-white.tex
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-<assets/title/gray-symbol.png, id=10, 196.735pt x 108.405pt>
+<assets/title/gray-symbol.png, id=9, 196.735pt x 108.405pt>
 File: assets/title/gray-symbol.png Graphic file (type png)
 <use assets/title/gray-symbol.png>
-Package pdftex.def Info: assets/title/gray-symbol.png  used on input line 8.
-(pdftex.def)             Requested size: 125.47737pt x 69.1391pt.
+Package luatex.def Info: assets/title/gray-symbol.png  used on input line 8.
+(luatex.def)             Requested size: 125.47737pt x 69.1391pt.
  [1
 
- <./assets/title/gray-symbol.png>])
+<./assets/title/gray-symbol.png>])
 *geometry* verbose mode - [ newgeometry ] result:
-* driver: pdftex
+* driver: luatex
 * paper: a4paper
 * layout: <same size as paper>
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
@@ -1220,12 +1485,11 @@ Package pdftex.def Info: assets/title/gray-symbol.png  used on input line 8.
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
  (./copyright.tex
-<assets/copyright/copy-right.png, id=14, 88.33pt x 31.11626pt>
+<assets/copyright/copy-right.png, id=13, 88.33pt x 31.11626pt>
 File: assets/copyright/copy-right.png Graphic file (type png)
 <use assets/copyright/copy-right.png>
-Package pdftex.def Info: assets/copyright/copy-right.png  used on input line 9.
-
-(pdftex.def)             Requested size: 72.84071pt x 25.65982pt.
+Package luatex.def Info: assets/copyright/copy-right.png  used on input line 9.
+(luatex.def)             Requested size: 72.84071pt x 25.65982pt.
 
 Overfull \hbox (24.0pt too wide) in paragraph at lines 6--17
 []$[]$ 
@@ -1233,1367 +1497,865 @@ Overfull \hbox (24.0pt too wide) in paragraph at lines 6--17
 
 [1
 
- <./assets/copyright/copy-right.png>]) (./0-Acknowledgements.tex [2])
-(./statement-of-integrity.tex [3]) (./1-Abstract.tex) [4] (./2-Resumo.tex)
-[5] (./main.toc [6])
+<./assets/copyright/copy-right.png>]) (./0-Acknowledgements.tex [2]) (./statement-of-integrity.tex [3]) (./1-Abstract.tex) [4] (./2-Resumo.tex) [5] (./main.toc [6])
 \tf@toc=\write4
-\openout4 = `main.toc'.
 
+\openout4 = main.toc
  [7] (./main.lof [8])
 \tf@lof=\write5
-\openout5 = `main.lof'.
 
+\openout5 = main.lof
  [9] (./main.lot)
 \tf@lot=\write6
-\openout6 = `main.lot'.
 
- [10]
-(./figures-list.tex [11] [12] [13]) (./3-Introduction.tex [1] [2] [3] [4]
-[5] [6]) (./4-Art-state.tex [7] [8]
-<assets/state-of-art/type-blockchains.png, id=84, 571.13374pt x 212.795pt>
+\openout6 = main.lot
+ [10] (./figures-list.tex [11] [12] [13]) (./3-Introduction.tex
+
+LaTeX Warning: Citation 'it-challenges-healthcare' on page 1 undefined on input line 10.
+
+
+LaTeX Warning: Citation 'healthcare-data-fragmentation' on page 1 undefined on input line 18.
+
+
+LaTeX Warning: Citation 'btc' on page 1 undefined on input line 30.
+
+
+LaTeX Warning: Citation 'healthcare-data-breaches' on page 1 undefined on input line 35.
+
+
+LaTeX Warning: Citation 'hyperledger-hippa-and-gdpr' on page 1 undefined on input line 46.
+
+[1]
+
+LaTeX Warning: Citation 'multisectoral-healthcare' on page 2 undefined on input line 80.
+
+[2]
+
+LaTeX Warning: Citation 'data-volume-increase-healthcare' on page 3 undefined on input line 124.
+
+
+LaTeX Warning: Citation 'data-breaches-2021' on page 3 undefined on input line 134.
+
+
+LaTeX Warning: Citation 'healthcare-privacy' on page 3 undefined on input line 134.
+
+
+LaTeX Warning: Citation 'legacy-healthcare' on page 3 undefined on input line 140.
+
+[3]
+
+LaTeX Warning: Citation 'btc' on page 4 undefined on input line 168.
+
+
+LaTeX Warning: Citation 'blockchain-in-finance' on page 4 undefined on input line 184.
+
+
+LaTeX Warning: Citation 'blockchain-in-supply-chain' on page 4 undefined on input line 184.
+
+[4] [5]) (./4-Art-state.tex [6]
+
+LaTeX Warning: Citation 'btc' on page 7 undefined on input line 33.
+
+
+LaTeX Warning: Citation 'blockchain-in-healthcare' on page 7 undefined on input line 39.
+
+
+LaTeX Warning: Citation 'ICP' on page 7 undefined on input line 48.
+
+
+LaTeX Warning: Citation 'solana' on page 7 undefined on input line 48.
+
+
+LaTeX Warning: Citation 'tron-and-eth' on page 7 undefined on input line 48.
+
+
+LaTeX Warning: Citation 'private-blockchain' on page 7 undefined on input line 63.
+
+[7]
+
+LaTeX Warning: Citation 'consortium-blockchain' on page 8 undefined on input line 73.
+
+
+LaTeX Warning: Citation 'R3CEV' on page 8 undefined on input line 73.
+
+
+LaTeX Warning: Citation 'consortium-blockchain' on page 8 undefined on input line 73.
+
+<assets/state-of-art/type-blockchains.png, id=77, 571.13374pt x 212.795pt>
 File: assets/state-of-art/type-blockchains.png Graphic file (type png)
 <use assets/state-of-art/type-blockchains.png>
-Package pdftex.def Info: assets/state-of-art/type-blockchains.png  used on inpu
-t line 25.
-(pdftex.def)             Requested size: 318.66948pt x 118.72928pt.
-<assets/state-of-art/type-blockchains2.png, id=85, 853.1875pt x 353.32pt>
+Package luatex.def Info: assets/state-of-art/type-blockchains.png  used on input line 79.
+(luatex.def)             Requested size: 318.66948pt x 118.72928pt.
+<assets/state-of-art/type-blockchains2.png, id=78, 853.1875pt x 353.32pt>
 File: assets/state-of-art/type-blockchains2.png Graphic file (type png)
 <use assets/state-of-art/type-blockchains2.png>
-Package pdftex.def Info: assets/state-of-art/type-blockchains2.png  used on inp
-ut line 32.
-(pdftex.def)             Requested size: 318.66948pt x 131.96632pt.
- [9 <./assets/state-of-art/type-blockchains.png>] [10 <./assets/state-of-art/ty
-pe-blockchains2.png>] [11]
-Overfull \hbox (85.83858pt too wide) in paragraph at lines 64--66
-\OT1/cmr/m/n/10.95 sion gives the blockchain us-age ben-e-fits like au-then-ti-
-ca-tion,immutability,provenance,robustness,availability,security
- []
+Package luatex.def Info: assets/state-of-art/type-blockchains2.png  used on input line 86.
+(luatex.def)             Requested size: 318.66948pt x 131.96632pt.
 
-[12] [13]
-Overfull \hbox (2.61844pt too wide) in paragraph at lines 98--99
-\OT1/cmr/m/n/10.95 Issues and chal-lenges must be con-sid-ered when con-tem-pla
-t-ing the im-ple-men-ta-tion of a blockchain-
- []
+LaTeX Warning: Citation 'private-vs-public-vs-consortium' on page 8 undefined on input line 87.
 
-[14] [15] [16] [17] [18] [19] [20]) (./5-Approach.tex [21] [22] [23] [24]
-<assets/tools/dsr/DSR.drawio.png, id=138, 412.54124pt x 453.695pt>
+
+LaTeX Warning: Citation 'private-vs-public-vs-consortium' on page 8 undefined on input line 87.
+
+
+LaTeX Warning: Citation 'private-vs-public-vs-consortium' on page 8 undefined on input line 95.
+
+
+LaTeX Warning: Citation 'healthcare-theft-data' on page 8 undefined on input line 112.
+
+[8<./assets/state-of-art/type-blockchains.png><./assets/state-of-art/type-blockchains2.png>]
+
+LaTeX Warning: Citation 'blockchain-patient-control' on page 9 undefined on input line 127.
+
+
+LaTeX Warning: Citation 'blockchain-counterfeit' on page 9 undefined on input line 128.
+
+
+LaTeX Warning: Citation 'IBM-reference' on page 9 undefined on input line 133.
+
+
+LaTeX Warning: Citation 'btc' on page 9 undefined on input line 153.
+
+[9]
+
+LaTeX Warning: Citation 'btc' on page 10 undefined on input line 162.
+
+
+LaTeX Warning: Citation 'btc' on page 10 undefined on input line 179.
+
+
+LaTeX Warning: Citation 'encryption-algorithms' on page 10 undefined on input line 189.
+
+
+LaTeX Warning: Citation 'privacy-healthcare' on page 10 undefined on input line 201.
+
+[10] [11] [12] [13] [14] [15] [16] [17]) [18] (./5-Approach.tex [19]
+<assets/tools/dsr/DSR.drawio.png, id=117, 412.54124pt x 453.695pt>
 File: assets/tools/dsr/DSR.drawio.png Graphic file (type png)
 <use assets/tools/dsr/DSR.drawio.png>
-Package pdftex.def Info: assets/tools/dsr/DSR.drawio.png  used on input line 71
-.
-(pdftex.def)             Requested size: 227.62206pt x 250.32915pt.
-
-[25 <./assets/tools/dsr/DSR.drawio.png>] [26] [27] [28] [29] [30] [31] [32]
-[33] [34] [35] [36] [37] [38]
-Overfull \hbox (6.45354pt too wide) in paragraph at lines 335--335
-[]|\OT1/cmr/bx/n/10.95 Description| 
- []
-
-
-Overfull \hbox (1.04547pt too wide) in paragraph at lines 339--339
-[]|\OT1/cmr/bx/n/10.95 Mitigation
- []
-
-
-Overfull \hbox (2.30228pt too wide) in alignment at lines 331--342
- [] [] [] [] [] [] [] 
- []
-
-
-Overfull \hbox (2.1333pt too wide) in paragraph at lines 347--348
-[]|\OT1/cmr/m/n/10.95 Unreachable
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 351--352
-[]|\OT1/cmr/m/n/10.95 Planning
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 351--352
-\OT1/cmr/m/n/10.95 bet-ter the
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 351--352
-\OT1/cmr/m/n/10.95 and gain
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 351--352
-\OT1/cmr/m/n/10.95 ex-pe-ri-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 351--352
-\OT1/cmr/m/n/10.95 ence from
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 351--352
-\OT1/cmr/m/n/10.95 pre-vi-ous
- []
-
-
-Overfull \hbox (8.42955pt too wide) in paragraph at lines 357--358
-[]|\OT1/cmr/m/n/10.95 Requirements
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 357--358
-\OT1/cmr/m/n/10.95 of the
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 357--358
-\OT1/cmr/m/n/10.95 project
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 361--362
-[]|\OT1/cmr/m/n/10.95 Make
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 361--362
-\OT1/cmr/m/n/10.95 fre-quent
+Package luatex.def Info: assets/tools/dsr/DSR.drawio.png  used on input line 35.
+(luatex.def)             Requested size: 227.62206pt x 250.32915pt.
+ [20] [21<./assets/tools/dsr/DSR.drawio.png>] [22] [23] [24]
+Underfull \hbox (badness 10000) in paragraph at lines 113--113
+[]|\TU/NewsGotT(0)/b/n/10.95 Mit-i-ga-tion
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 361--362
-\OT1/cmr/m/n/10.95 com-mu-
+Underfull \hbox (badness 10000) in paragraph at lines 121--122
+[]|\TU/NewsGotT(0)/m/it/10.95 Un-reach-able
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 361--362
-\OT1/cmr/m/n/10.95 ni-ca-tion
+Underfull \hbox (badness 10000) in paragraph at lines 125--126
+[]|\TU/NewsGotT(0)/m/it/10.95 Plan-ning
  []
 
 
-Overfull \hbox (5.17499pt too wide) in paragraph at lines 361--362
-\OT1/cmr/m/n/10.95 holder;Check
+Underfull \hbox (badness 10000) in paragraph at lines 125--126
+\TU/NewsGotT(0)/m/it/10.95 bet-ter the
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 361--362
-\OT1/cmr/m/n/10.95 well the
+Underfull \hbox (badness 10000) in paragraph at lines 125--126
+\TU/NewsGotT(0)/m/it/10.95 next events
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 361--362
-\OT1/cmr/m/n/10.95 lim-i-ta-tions
+Underfull \hbox (badness 10000) in paragraph at lines 125--126
+\TU/NewsGotT(0)/m/it/10.95 and gain
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 367--368
-[]|\OT1/cmr/m/n/10.95 Lack of
+Underfull \hbox (badness 10000) in paragraph at lines 125--126
+\TU/NewsGotT(0)/m/it/10.95 ex-pe-ri-ence
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 371--372
-[]|\OT1/cmr/m/n/10.95 Implement
+Underfull \hbox (badness 10000) in paragraph at lines 131--132
+[]|\TU/NewsGotT(0)/m/it/10.95 Re-quire-ments
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 371--372
-\OT1/cmr/m/n/10.95 only what
+Underfull \hbox (badness 10000) in paragraph at lines 135--136
+\TU/NewsGotT(0)/m/it/10.95 com-mu-
  []
 
 
-Underfull \hbox (badness 8019) in paragraph at lines 371--372
-\OT1/cmr/m/n/10.95 is ac-tu-ally
+Underfull \hbox (badness 10000) in paragraph at lines 135--136
+\TU/NewsGotT(0)/m/it/10.95 ni-ca-tion
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 381--382
-[]|\OT1/cmr/m/n/10.95 There are
+Underfull \hbox (badness 10000) in paragraph at lines 135--136
+\TU/NewsGotT(0)/m/it/10.95 with stake-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 381--382
-\OT1/cmr/m/n/10.95 no mit-
+Underfull \hbox (badness 10000) in paragraph at lines 135--136
+\TU/NewsGotT(0)/m/it/10.95 holder;Check
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 381--382
-\OT1/cmr/m/n/10.95 i-ga-tion
+Underfull \hbox (badness 10000) in paragraph at lines 145--146
+[]|\TU/NewsGotT(0)/m/it/10.95 Im-ple-ment
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 387--388
-[]|\OT1/cmr/m/n/10.95 Incorrect
+Underfull \hbox (badness 10000) in paragraph at lines 145--146
+\TU/NewsGotT(0)/m/it/10.95 only what
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 387--388
-\OT1/cmr/m/n/10.95 un-der-
+Underfull \hbox (badness 10000) in paragraph at lines 145--146
+\TU/NewsGotT(0)/m/it/10.95 is ac-tu-ally
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 391--392
-\OT1/cmr/m/n/10.95 time an-a-
+Underfull \hbox (badness 10000) in paragraph at lines 155--156
+[]|\TU/NewsGotT(0)/m/it/10.95 There are
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 391--392
-\OT1/cmr/m/n/10.95 lyz-ing the
+Underfull \hbox (badness 5711) in paragraph at lines 155--156
+\TU/NewsGotT(0)/m/it/10.95 no mit-i-ga-tion
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 391--392
-\OT1/cmr/m/n/10.95 sure that
+Underfull \hbox (badness 10000) in paragraph at lines 161--162
+[]|\TU/NewsGotT(0)/m/it/10.95 In-cor-rect
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 391--392
-\OT1/cmr/m/n/10.95 the ob-ject
+Underfull \hbox (badness 10000) in paragraph at lines 161--162
+\TU/NewsGotT(0)/m/it/10.95 un-der-stand-ing
  []
 
 
-Overfull \hbox (2.30228pt too wide) in alignment at lines 342--394
- [] [] [] [] [] [] [] 
+Underfull \hbox (badness 10000) in paragraph at lines 165--166
+[]|\TU/NewsGotT(0)/m/it/10.95 Spend more
  []
 
-[39{/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.en
-c}]
-Overfull \hbox (6.45354pt too wide) in paragraph at lines 401--401
-[]|\OT1/cmr/bx/n/10.95 Description| 
- []
-
-
-Overfull \hbox (1.04547pt too wide) in paragraph at lines 405--405
-[]|\OT1/cmr/bx/n/10.95 Mitigation
- []
-
-
-Overfull \hbox (2.30228pt too wide) in alignment at lines 398--408
- [] [] [] [] [] [] [] 
- []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 415--416
-[]|\OT1/cmr/m/n/10.95 Don't do
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 415--416
-\OT1/cmr/m/n/10.95 tasks in
+Underfull \hbox (badness 10000) in paragraph at lines 165--166
+\TU/NewsGotT(0)/m/it/10.95 the data;
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 415--416
-\OT1/cmr/m/n/10.95 au-to-mate
+Underfull \hbox (badness 10000) in paragraph at lines 165--166
+\TU/NewsGotT(0)/m/it/10.95 Make sure
  []
 
 
-Underfull \hbox (badness 3547) in paragraph at lines 415--416
-\OT1/cmr/m/n/10.95 mode; Fo-
+Underfull \hbox (badness 1253) in paragraph at lines 165--166
+\TU/NewsGotT(0)/m/it/10.95 that the data
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 421--422
-[]|\OT1/cmr/m/n/10.95 Security
+Underfull \hbox (badness 2269) in paragraph at lines 165--166
+\TU/NewsGotT(0)/m/it/10.95 the ob-ject of
  []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 421--422
-\OT1/cmr/m/n/10.95 im-pli-ca-
- []
-
 
-Underfull \hbox (badness 10000) in paragraph at lines 425--426
-[]|\OT1/cmr/m/n/10.95 Follow
+[25]
+Underfull \hbox (badness 10000) in paragraph at lines 179--179
+[]|\TU/NewsGotT(0)/b/n/10.95 Mit-i-ga-tion
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 425--426
-\OT1/cmr/m/n/10.95 stan-dards;
+Underfull \hbox (badness 10000) in paragraph at lines 189--190
+\TU/NewsGotT(0)/m/it/10.95 in au-to-mate
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 431--432
-[]|\OT1/cmr/m/n/10.95 Complexity
+Underfull \hbox (badness 1789) in paragraph at lines 189--190
+\TU/NewsGotT(0)/m/it/10.95 mode; Fo-cus
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 431--432
-\OT1/cmr/m/n/10.95 of the
+Underfull \hbox (badness 6575) in paragraph at lines 189--190
+\TU/NewsGotT(0)/m/it/10.95 more in the
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 435--436
-[]|\OT1/cmr/m/n/10.95 Document
+Underfull \hbox (badness 10000) in paragraph at lines 199--200
+[]|\TU/NewsGotT(0)/m/it/10.95 Fol-low stan-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 435--436
-\OT1/cmr/m/n/10.95 Ev-ery-thing;
+Underfull \hbox (badness 10000) in paragraph at lines 199--200
+\TU/NewsGotT(0)/m/it/10.95 learn more
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 435--436
-\OT1/cmr/m/n/10.95 Sim-plify
+Underfull \hbox (badness 10000) in paragraph at lines 199--200
+\TU/NewsGotT(0)/m/it/10.95 as the time
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 435--436
-\OT1/cmr/m/n/10.95 ev-ery-
+Underfull \hbox (badness 1466) in paragraph at lines 205--206
+[]|\TU/NewsGotT(0)/m/it/10.95 Com-plex-ity of
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 435--436
-\OT1/cmr/m/n/10.95 thing;Join
+Underfull \hbox (badness 10000) in paragraph at lines 209--210
+[]|\TU/NewsGotT(0)/m/it/10.95 Doc-u-ment
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 435--436
-\OT1/cmr/m/n/10.95 Com-mu-ni-
+Underfull \hbox (badness 10000) in paragraph at lines 209--210
+\TU/NewsGotT(0)/m/it/10.95 Ev-ery-thing;
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 441--442
-[]|\OT1/cmr/m/n/10.95 Unknown
+Underfull \hbox (badness 10000) in paragraph at lines 209--210
+\TU/NewsGotT(0)/m/it/10.95 Sim-plify ev-
  []
 
 
-Underfull \hbox (badness 5331) in paragraph at lines 445--446
-[]|\OT1/cmr/m/n/10.95 Join Com-
+Underfull \hbox (badness 10000) in paragraph at lines 209--210
+\TU/NewsGotT(0)/m/it/10.95 ery-thing;Join
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 445--446
-\OT1/cmr/m/n/10.95 mu-ni-
+Underfull \hbox (badness 10000) in paragraph at lines 215--216
+[]|\TU/NewsGotT(0)/m/it/10.95 Un-known
  []
 
 
-Overfull \hbox (1.31207pt too wide) in paragraph at lines 445--446
-\OT1/cmr/m/n/10.95 ties;Arrange
+Underfull \hbox (badness 2735) in paragraph at lines 219--220
+[]|\TU/NewsGotT(0)/m/it/10.95 Join Com-mu-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 445--446
-\OT1/cmr/m/n/10.95 mech-a-
+Underfull \hbox (badness 10000) in paragraph at lines 219--220
+\TU/NewsGotT(0)/m/it/10.95 ni-ties;Ar-range
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 455--456
-[]|\OT1/cmr/m/n/10.95 Make the
+Underfull \hbox (badness 10000) in paragraph at lines 219--220
+\TU/NewsGotT(0)/m/it/10.95 more de-bug
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 455--456
-\OT1/cmr/m/n/10.95 best so-lu-
+Underfull \hbox (badness 10000) in paragraph at lines 229--230
+[]|\TU/NewsGotT(0)/m/it/10.95 Make the
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 455--456
-\OT1/cmr/m/n/10.95 tion pos-
+Underfull \hbox (badness 10000) in paragraph at lines 229--230
+\TU/NewsGotT(0)/m/it/10.95 best so-lu-tion
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 455--456
-\OT1/cmr/m/n/10.95 si-ble;Make
+Underfull \hbox (badness 10000) in paragraph at lines 229--230
+\TU/NewsGotT(0)/m/it/10.95 pos-si-ble;Make
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 455--456
-\OT1/cmr/m/n/10.95 clear the
+Underfull \hbox (badness 10000) in paragraph at lines 229--230
+\TU/NewsGotT(0)/m/it/10.95 clear the
  []
 
 
-Overfull \hbox (2.30228pt too wide) in alignment at lines 408--461
- [] [] [] [] [] [] [] 
+Underfull \hbox (badness 10000) in paragraph at lines 229--230
+\TU/NewsGotT(0)/m/it/10.95 need of the
  []
 
-[40] [41] [42] [43]
-<assets/tools/hyperledger/hlf-minimal-setup.png, id=202, 811.03pt x 653.44125pt
->
+[26] [27]
+<assets/tools/hyperledger/hlf-minimal-setup.png, id=144, 811.03pt x 653.44125pt>
 File: assets/tools/hyperledger/hlf-minimal-setup.png Graphic file (type png)
 <use assets/tools/hyperledger/hlf-minimal-setup.png>
-Package pdftex.def Info: assets/tools/hyperledger/hlf-minimal-setup.png  used o
-n input line 493.
-(pdftex.def)             Requested size: 227.62206pt x 183.39104pt.
- [44 <./assets/tools/hyperledger/hlf-minimal-setup.png>]
-[45] [46] [47] [48] [49] [50] [51] [52] [53]
-<assets/tools/metallb/bgp-vs-l2.png, id=235, 783.92876pt x 390.45876pt>
+Package luatex.def Info: assets/tools/hyperledger/hlf-minimal-setup.png  used on input line 261.
+(luatex.def)             Requested size: 227.62206pt x 183.39104pt.
+ [28<./assets/tools/hyperledger/hlf-minimal-setup.png>] [29] [30] [31] [32] [33] [34] [35] [36]
+<assets/tools/metallb/bgp-vs-l2.png, id=174, 783.92876pt x 390.45876pt>
 File: assets/tools/metallb/bgp-vs-l2.png Graphic file (type png)
 <use assets/tools/metallb/bgp-vs-l2.png>
-Package pdftex.def Info: assets/tools/metallb/bgp-vs-l2.png  used on input line
- 596.
-(pdftex.def)             Requested size: 227.62206pt x 113.37312pt.
- [54 <./assets/tools/metallb/bgp-vs-l2.png>] [55] [56] [57]
-Underfull \hbox (badness 10000) in paragraph at lines 635--636
+Package luatex.def Info: assets/tools/metallb/bgp-vs-l2.png  used on input line 362.
+(luatex.def)             Requested size: 227.62206pt x 113.37312pt.
+ [37<./assets/tools/metallb/bgp-vs-l2.png>] [38] [39]
+Underfull \hbox (badness 10000) in paragraph at lines 401--402
 
  []
 
-[58]
-Overfull \hbox (7.57552pt too wide) in paragraph at lines 646--648
-\OT1/cmr/m/n/10.95 For show-ing data within the \OT1/cmr/bx/n/10.95 Bench-mark-
-ing \OT1/cmr/m/n/10.95 land-scape, there is the hon-ored men-tion of \OT1/cmr/b
-x/n/10.95 Grafana\OT1/cmr/m/n/10.95 .
- []
-
-[59] [60] [61] [62]) (./6-Use-cases.tex [63] [64]
-<assets/use-case-1/ipfs-behavior.drawio.png, id=271, 628.3475pt x 774.895pt>
+[40] [41] [42] [43]) (./6-Use-cases.tex [44] [45]
+<assets/use-case-1/ipfs-behavior.drawio.png, id=202, 628.3475pt x 774.895pt>
 File: assets/use-case-1/ipfs-behavior.drawio.png Graphic file (type png)
 <use assets/use-case-1/ipfs-behavior.drawio.png>
-Package pdftex.def Info: assets/use-case-1/ipfs-behavior.drawio.png  used on in
-put line 22.
-(pdftex.def)             Requested size: 227.62206pt x 280.7001pt.
- [65] [66 <./assets/use-case-1/ipfs-behavior.drawio.png>]
-<assets/use-case-1/explain-kademlia.png, id=279, 1199.48125pt x 453.695pt>
+Package luatex.def Info: assets/use-case-1/ipfs-behavior.drawio.png  used on input line 22.
+(luatex.def)             Requested size: 227.62206pt x 280.7001pt.
+ [46] [47<./assets/use-case-1/ipfs-behavior.drawio.png>]
+<assets/use-case-1/explain-kademlia.png, id=211, 1199.48125pt x 453.695pt>
 File: assets/use-case-1/explain-kademlia.png Graphic file (type png)
 <use assets/use-case-1/explain-kademlia.png>
-Package pdftex.def Info: assets/use-case-1/explain-kademlia.png  used on input 
-line 35.
-(pdftex.def)             Requested size: 227.62206pt x 86.09218pt.
-<assets/use-case-1/DHT.png, id=280, 691.58376pt x 900.36375pt>
+Package luatex.def Info: assets/use-case-1/explain-kademlia.png  used on input line 35.
+(luatex.def)             Requested size: 227.62206pt x 86.09218pt.
+<assets/use-case-1/DHT.png, id=212, 691.58376pt x 900.36375pt>
 File: assets/use-case-1/DHT.png Graphic file (type png)
 <use assets/use-case-1/DHT.png>
-Package pdftex.def Info: assets/use-case-1/DHT.png  used on input line 42.
-(pdftex.def)             Requested size: 227.62206pt x 296.33786pt.
-<assets/use-case-1/XOR1.png, id=281, 1138.2525pt x 451.6875pt>
+Package luatex.def Info: assets/use-case-1/DHT.png  used on input line 42.
+(luatex.def)             Requested size: 227.62206pt x 296.33786pt.
+<assets/use-case-1/XOR1.png, id=213, 1138.2525pt x 451.6875pt>
 File: assets/use-case-1/XOR1.png Graphic file (type png)
 <use assets/use-case-1/XOR1.png>
-Package pdftex.def Info: assets/use-case-1/XOR1.png  used on input line 49.
-(pdftex.def)             Requested size: 227.62206pt x 90.32211pt.
- [67 <./assets/use-case-1/explain-kademlia.png> <./assets/use-case-1/DHT.png>]
-<assets/use-case-1/XOR2.png, id=285, 1147.28625pt x 456.70625pt>
+Package luatex.def Info: assets/use-case-1/XOR1.png  used on input line 49.
+(luatex.def)             Requested size: 227.62206pt x 90.32211pt.
+ [48<./assets/use-case-1/explain-kademlia.png><./assets/use-case-1/DHT.png>]
+<assets/use-case-1/XOR2.png, id=217, 1147.28625pt x 456.70625pt>
 File: assets/use-case-1/XOR2.png Graphic file (type png)
 <use assets/use-case-1/XOR2.png>
-Package pdftex.def Info: assets/use-case-1/XOR2.png  used on input line 56.
-(pdftex.def)             Requested size: 227.62206pt x 90.60791pt.
-
-Overfull \hbox (18.75345pt too wide) in paragraph at lines 72--76
-\OT1/cmr/m/n/10.95 his own im-ple-men-ta-tion, but the way they are rep-re-sent
-ed is alike. \OT1/cmr/bx/n/10.95 Sfs \OT1/cmr/m/n/10.95 uses /sfs/<Location>:<H
-ostID>,
- []
-
-[68 <./assets/use-case-1/XOR1.png> <./assets/use-case-1/XOR2.png>]
-<assets/use-case-1/exampleNet+.png, id=289, 636.3775pt x 158.5925pt>
+Package luatex.def Info: assets/use-case-1/XOR2.png  used on input line 56.
+(luatex.def)             Requested size: 227.62206pt x 90.60791pt.
+ [49<./assets/use-case-1/XOR1.png><./assets/use-case-1/XOR2.png>]
+<assets/use-case-1/exampleNet+.png, id=221, 636.3775pt x 158.5925pt>
 File: assets/use-case-1/exampleNet+.png Graphic file (type png)
 <use assets/use-case-1/exampleNet+.png>
-Package pdftex.def Info: assets/use-case-1/exampleNet+.png  used on input line 
-89.
-(pdftex.def)             Requested size: 227.62206pt x 56.72542pt.
- [69 <./assets/use-case-1/exampleNet+.png>]
-<assets/use-case-1/blobs.png, id=293, 522.95375pt x 174.6525pt>
+Package luatex.def Info: assets/use-case-1/exampleNet+.png  used on input line 89.
+(luatex.def)             Requested size: 227.62206pt x 56.72542pt.
+ [50<./assets/use-case-1/exampleNet+.png>]
+<assets/use-case-1/blobs.png, id=225, 522.95375pt x 174.6525pt>
 File: assets/use-case-1/blobs.png Graphic file (type png)
 <use assets/use-case-1/blobs.png>
-Package pdftex.def Info: assets/use-case-1/blobs.png  used on input line 113.
-(pdftex.def)             Requested size: 227.62206pt x 76.02118pt.
-<assets/use-case-1/List.png, id=294, 945.5325pt x 536.0025pt>
+Package luatex.def Info: assets/use-case-1/blobs.png  used on input line 113.
+(luatex.def)             Requested size: 227.62206pt x 76.02118pt.
+<assets/use-case-1/List.png, id=226, 945.5325pt x 536.0025pt>
 File: assets/use-case-1/List.png Graphic file (type png)
 <use assets/use-case-1/List.png>
-Package pdftex.def Info: assets/use-case-1/List.png  used on input line 122.
-(pdftex.def)             Requested size: 227.62206pt x 129.0358pt.
- [70 <./assets/use-case-1/blobs.png>]
-<assets/use-case-1/Trees.png, id=299, 991.705pt x 530.98375pt>
+Package luatex.def Info: assets/use-case-1/List.png  used on input line 122.
+(luatex.def)             Requested size: 227.62206pt x 129.0358pt.
+<assets/use-case-1/Trees.png, id=227, 991.705pt x 530.98375pt>
 File: assets/use-case-1/Trees.png Graphic file (type png)
 <use assets/use-case-1/Trees.png>
-Package pdftex.def Info: assets/use-case-1/Trees.png  used on input line 132.
-(pdftex.def)             Requested size: 227.62206pt x 121.87251pt.
-<assets/use-case-1/commit.png, id=300, 806.01125pt x 296.10625pt>
+Package luatex.def Info: assets/use-case-1/Trees.png  used on input line 132.
+(luatex.def)             Requested size: 227.62206pt x 121.87251pt.
+ [51<./assets/use-case-1/blobs.png><./assets/use-case-1/List.png>]
+<assets/use-case-1/commit.png, id=231, 806.01125pt x 296.10625pt>
 File: assets/use-case-1/commit.png Graphic file (type png)
 <use assets/use-case-1/commit.png>
-Package pdftex.def Info: assets/use-case-1/commit.png  used on input line 142.
-(pdftex.def)             Requested size: 227.62206pt x 83.61853pt.
- [71 <./assets/use-case-1/List.png> <./assets/use-case-1/Trees.png> <./assets/u
-se-case-1/commit.png>]
-<assets/use-case-1/ipfshow.png, id=304, 2617.78pt x 1445.4pt>
+Package luatex.def Info: assets/use-case-1/commit.png  used on input line 142.
+(luatex.def)             Requested size: 227.62206pt x 83.61853pt.
+<assets/use-case-1/ipfshow.png, id=232, 2617.78pt x 1445.4pt>
 File: assets/use-case-1/ipfshow.png Graphic file (type png)
 <use assets/use-case-1/ipfshow.png>
-Package pdftex.def Info: assets/use-case-1/ipfshow.png  used on input line 155.
-
-(pdftex.def)             Requested size: 227.62206pt x 125.66939pt.
-<assets/use-case-1/Layer.png, id=305, 442.65375pt x 547.04375pt>
+Package luatex.def Info: assets/use-case-1/ipfshow.png  used on input line 155.
+(luatex.def)             Requested size: 227.62206pt x 125.66939pt.
+ [52<./assets/use-case-1/Trees.png><./assets/use-case-1/commit.png>]
+<assets/use-case-1/Layer.png, id=236, 442.65375pt x 547.04375pt>
 File: assets/use-case-1/Layer.png Graphic file (type png)
 <use assets/use-case-1/Layer.png>
-Package pdftex.def Info: assets/use-case-1/Layer.png  used on input line 167.
-(pdftex.def)             Requested size: 227.62206pt x 281.30914pt.
- [72 <./assets/use-case-1/ipfshow.png>]
-<assets/use-case-1/Master.png, id=309, 978.65625pt x 665.48625pt>
+Package luatex.def Info: assets/use-case-1/Layer.png  used on input line 167.
+(luatex.def)             Requested size: 227.62206pt x 281.30914pt.
+ [53<./assets/use-case-1/ipfshow.png>]
+<assets/use-case-1/Master.png, id=240, 978.65625pt x 665.48625pt>
 File: assets/use-case-1/Master.png Graphic file (type png)
 <use assets/use-case-1/Master.png>
-Package pdftex.def Info: assets/use-case-1/Master.png  used on input line 176.
-(pdftex.def)             Requested size: 227.62206pt x 154.78488pt.
- [73 <./assets/use-case-1/Layer.png>]
-<assets/use-case-1/Slave.png, id=313, 980.66376pt x 663.47874pt>
+Package luatex.def Info: assets/use-case-1/Master.png  used on input line 176.
+(luatex.def)             Requested size: 227.62206pt x 154.78488pt.
+ [54<./assets/use-case-1/Layer.png>]
+<assets/use-case-1/Slave.png, id=244, 980.66376pt x 663.47874pt>
 File: assets/use-case-1/Slave.png Graphic file (type png)
 <use assets/use-case-1/Slave.png>
-Package pdftex.def Info: assets/use-case-1/Slave.png  used on input line 183.
-(pdftex.def)             Requested size: 227.62206pt x 153.99399pt.
-<assets/use-case-1/global-vision.drawio.png, id=314, 1668.2325pt x 1162.3425pt>
-
+Package luatex.def Info: assets/use-case-1/Slave.png  used on input line 183.
+(luatex.def)             Requested size: 227.62206pt x 153.99399pt.
+<assets/use-case-1/global-vision.drawio.png, id=245, 1668.2325pt x 1162.3425pt>
 File: assets/use-case-1/global-vision.drawio.png Graphic file (type png)
 <use assets/use-case-1/global-vision.drawio.png>
-Package pdftex.def Info: assets/use-case-1/global-vision.drawio.png  used on in
-put line 190.
-(pdftex.def)             Requested size: 227.62206pt x 158.59438pt.
-<assets/use-case-1/hyper-ledger-view.drawio.png, id=315, 1858.945pt x 1176.395p
-t>
+Package luatex.def Info: assets/use-case-1/global-vision.drawio.png  used on input line 190.
+(luatex.def)             Requested size: 227.62206pt x 158.59438pt.
+<assets/use-case-1/hyper-ledger-view.drawio.png, id=246, 1858.945pt x 1176.395pt>
 File: assets/use-case-1/hyper-ledger-view.drawio.png Graphic file (type png)
 <use assets/use-case-1/hyper-ledger-view.drawio.png>
-Package pdftex.def Info: assets/use-case-1/hyper-ledger-view.drawio.png  used o
-n input line 197.
-(pdftex.def)             Requested size: 227.62206pt x 144.03336pt.
- [74 <./assets/use-case-1/Master.png> <./assets/use-case-1/Slave.png> <./assets
-/use-case-1/global-vision.drawio.png>]
-<assets/use-case-1/workflow.png, id=320, 480.79625pt x 324.21124pt>
+Package luatex.def Info: assets/use-case-1/hyper-ledger-view.drawio.png  used on input line 197.
+(luatex.def)             Requested size: 227.62206pt x 144.03336pt.
+ [55<./assets/use-case-1/Master.png><./assets/use-case-1/Slave.png><./assets/use-case-1/global-vision.drawio.png>]
+<assets/use-case-1/workflow.png, id=251, 480.79625pt x 324.21124pt>
 File: assets/use-case-1/workflow.png Graphic file (type png)
 <use assets/use-case-1/workflow.png>
-Package pdftex.def Info: assets/use-case-1/workflow.png  used on input line 204
-.
-(pdftex.def)             Requested size: 227.62206pt x 153.49239pt.
- [75 <./assets/use-case-1/hyper-ledger-view.drawio.png> <./assets/use-case-1/wo
-rkflow.png>]
-Overfull \hbox (6.45354pt too wide) in paragraph at lines 246--246
-[]|\OT1/cmr/bx/n/10.95 Description| 
- []
-
-
-Overfull \hbox (1.04547pt too wide) in paragraph at lines 250--250
-[]|\OT1/cmr/bx/n/10.95 Mitigation
- []
-
-
-Overfull \hbox (21.19087pt too wide) in alignment at lines 242--253
- [] [] [] [] [] [] [] 
- []
-
-
-Overfull \hbox (2.1333pt too wide) in paragraph at lines 258--259
-[]|\OT1/cmr/m/n/10.95 Unreachable
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 262--263
-\OT1/cmr/m/n/10.95 for fu-ture
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 262--263
-\OT1/cmr/m/n/10.95 events
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 262--263
-\OT1/cmr/m/n/10.95 and learn
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 262--263
-\OT1/cmr/m/n/10.95 from past
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 268--269
-[]|\OT1/cmr/m/n/10.95 Changing
- []
-
-
-Underfull \hbox (badness 4846) in paragraph at lines 268--269
-\OT1/cmr/m/n/10.95 project re-
- []
-
-
-Overfull \hbox (9.09874pt too wide) in paragraph at lines 272--273
-[]|\OT1/cmr/m/n/10.95 Communicate
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 272--273
-\OT1/cmr/m/n/10.95 fre-quently
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 272--273
-\OT1/cmr/m/n/10.95 hold-ers;
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 272--273
-\OT1/cmr/m/n/10.95 Ver-ify
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 272--273
-\OT1/cmr/m/n/10.95 project
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 272--273
-\OT1/cmr/m/n/10.95 lim-i-ta-tions
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 278--279
-[]|\OT1/cmr/m/n/10.95 Lack of
- []
-
-
-Underfull \hbox (badness 2875) in paragraph at lines 282--283
-[]|\OT1/cmr/m/n/10.95 Focus only
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 282--283
-\OT1/cmr/m/n/10.95 im-ple-men-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 288--289
-[]|\OT1/cmr/m/n/10.95 Insufficient
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 292--293
-[]|\OT1/cmr/m/n/10.95 No mit-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 292--293
-\OT1/cmr/m/n/10.95 i-ga-tion
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 292--293
-\OT1/cmr/m/n/10.95 mea-sures
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 298--299
-[]|\OT1/cmr/m/n/10.95 Unintended
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 302--303
-[]|\OT1/cmr/m/n/10.95 Perform
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 302--303
-\OT1/cmr/m/n/10.95 it-er-a-tive
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 302--303
-\OT1/cmr/m/n/10.95 test-ing;
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 302--303
-\OT1/cmr/m/n/10.95 Re-search
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 302--303
-\OT1/cmr/m/n/10.95 known
- []
-
-
-Underfull \hbox (badness 2689) in paragraph at lines 308--309
-[]|\OT1/cmr/m/n/10.95 Human er-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 312--313
-[]|\OT1/cmr/m/n/10.95 Avoid
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 312--313
-\OT1/cmr/m/n/10.95 work-ing
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 312--313
-\OT1/cmr/m/n/10.95 in "auto-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 312--313
-\OT1/cmr/m/n/10.95 pilot"
- []
-
-
-Underfull \hbox (badness 1194) in paragraph at lines 312--313
-\OT1/cmr/m/n/10.95 mode; Pay
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 312--313
-\OT1/cmr/m/n/10.95 closer at-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 312--313
-\OT1/cmr/m/n/10.95 ten-tion to
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 318--319
-[]|\OT1/cmr/m/n/10.95 Project
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 322--323
-[]|\OT1/cmr/m/n/10.95 Document
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 322--323
-\OT1/cmr/m/n/10.95 thor-oughly;
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 322--323
-\OT1/cmr/m/n/10.95 Sim-plify
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 322--323
-\OT1/cmr/m/n/10.95 pro-cesses;
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 322--323
-\OT1/cmr/m/n/10.95 En-gage
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 322--323
-\OT1/cmr/m/n/10.95 with com-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 328--329
-[]|\OT1/cmr/m/n/10.95 Unknown
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 328--329
-\OT1/cmr/m/n/10.95 va-lid-ity of
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 328--329
-\OT1/cmr/m/n/10.95 an IPFS
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 328--329
-\OT1/cmr/m/n/10.95 pri-vate
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 332--333
-[]|\OT1/cmr/m/n/10.95 Develop
- []
-
-
-Underfull \hbox (badness 1033) in paragraph at lines 332--333
-\OT1/cmr/m/n/10.95 and bench-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 332--333
-\OT1/cmr/m/n/10.95 mark
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 332--333
-\OT1/cmr/m/n/10.95 an IPFS
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 332--333
-\OT1/cmr/m/n/10.95 pri-vate
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 338--339
-[]|\OT1/cmr/m/n/10.95 Unknown
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 338--339
-\OT1/cmr/m/n/10.95 va-lid-ity of
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 338--339
-\OT1/cmr/m/n/10.95 an HLF
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 342--343
-[]|\OT1/cmr/m/n/10.95 Develop
- []
-
-
-Underfull \hbox (badness 1033) in paragraph at lines 342--343
-\OT1/cmr/m/n/10.95 and bench-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 342--343
-\OT1/cmr/m/n/10.95 mark
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 342--343
-\OT1/cmr/m/n/10.95 an HLF
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 342--343
-\OT1/cmr/m/n/10.95 pri-vate
- []
-
-
-Overfull \hbox (21.19087pt too wide) in alignment at lines 253--348
- [] [] [] [] [] [] [] 
- []
-
-[76]
-<assets/use-case-1/swot.png, id=330, 770.88pt x 578.16pt>
+Package luatex.def Info: assets/use-case-1/workflow.png  used on input line 204.
+(luatex.def)             Requested size: 227.62206pt x 153.49239pt.
+ [56<./assets/use-case-1/hyper-ledger-view.drawio.png><./assets/use-case-1/workflow.png>]
+<assets/use-case-1/swot.png, id=258, 770.88pt x 578.16pt>
 File: assets/use-case-1/swot.png Graphic file (type png)
 <use assets/use-case-1/swot.png>
-Package pdftex.def Info: assets/use-case-1/swot.png  used on input line 356.
-(pdftex.def)             Requested size: 227.62206pt x 170.71451pt.
- [77] [78 <./assets/use-case-1/swot.png>] [79] [80]
-Overfull \hbox (12.30592pt too wide) in paragraph at lines 412--413
-\OT1/cmr/bx/n/10.95 tured\OT1/cmr/m/n/10.95 ,\OT1/cmr/bx/n/10.95 identity\OT1/c
-mr/m/n/10.95 ,\OT1/cmr/bx/n/10.95 MSP's\OT1/cmr/m/n/10.95 ,\OT1/cmr/bx/n/10.95 
-policies\OT1/cmr/m/n/10.95 ,\OT1/cmr/bx/n/10.95 peers\OT1/cmr/m/n/10.95 ,\OT1/c
-mr/bx/n/10.95 ledgers\OT1/cmr/m/n/10.95 ,\OT1/cmr/bx/n/10.95 ordering ser-vice\
-OT1/cmr/m/n/10.95 ,\OT1/cmr/bx/n/10.95 smart con-tracts and chain-
+Package luatex.def Info: assets/use-case-1/swot.png  used on input line 244.
+(luatex.def)             Requested size: 227.62206pt x 170.71451pt.
+ [57<./assets/use-case-1/swot.png>] [58] [59]
+Overfull \hbox (48.53253pt too wide) in paragraph at lines 300--301
+\TU/NewsGotT(0)/m/it/10.95 the \TU/NewsGotT(0)/b/n/10.95 hy-per-ledger fab-ric model\TU/NewsGotT(0)/m/it/10.95 ,\TU/NewsGotT(0)/b/n/10.95 how fab-ric net-works are struc-tured\TU/NewsGotT(0)/m/it/10.95 ,\TU/NewsGotT(0)/b/n/10.95 identity\TU/NewsGotT(0)/m/it/10.95 ,\TU/NewsGotT(0)/b/n/10.95 MSP’s\TU/NewsGotT(0)/m/it/10.95 ,\TU/NewsGotT(0)/b/n/10.95 policies\TU/NewsGotT(0)/m/it/10.95 ,\TU/NewsGotT(0)/b/n/10.95 peers\TU/NewsGotT(0)/m/it/10.95 ,\TU/NewsGotT(0)/b/n/10.95 ledgers\TU/NewsGotT(0)/m/it/10.95 ,\TU/NewsGotT(0)/b/n/10.95 ordering
  []
 
-[81]
-<assets/use-case-2/notes-cas.png, id=347, 1897.0875pt x 760.8425pt>
+
+Overfull \hbox (34.55705pt too wide) in paragraph at lines 302--303
+\TU/NewsGotT(0)/m/it/10.95 con-cepts that are present that form the blockchain net-work, like the con-cepts of \TU/NewsGotT(0)/b/n/10.95 as-set\TU/NewsGotT(0)/m/it/10.95 ,\TU/NewsGotT(0)/b/n/10.95 chaincode\TU/NewsGotT(0)/m/it/10.95 ,\TU/NewsGotT(0)/b/n/10.95 ledger\TU/NewsGotT(0)/m/it/10.95 ,\TU/NewsGotT(0)/b/n/10.95 privacy\TU/NewsGotT(0)/m/it/10.95 ,\TU/NewsGotT(0)/b/n/10.95 security
+ []
+
+[60]
+<assets/use-case-2/notes-cas.png, id=272, 1897.0875pt x 760.8425pt>
 File: assets/use-case-2/notes-cas.png Graphic file (type png)
 <use assets/use-case-2/notes-cas.png>
-Package pdftex.def Info: assets/use-case-2/notes-cas.png  used on input line 44
-4.
-(pdftex.def)             Requested size: 227.62206pt x 91.28554pt.
- [82]
-<assets/use-case-2/notes-orderer.png, id=352, 1896.08376pt x 687.56876pt>
+Package luatex.def Info: assets/use-case-2/notes-cas.png  used on input line 332.
+(luatex.def)             Requested size: 227.62206pt x 91.28554pt.
+<assets/use-case-2/notes-orderer.png, id=273, 1896.08376pt x 687.56876pt>
 File: assets/use-case-2/notes-orderer.png Graphic file (type png)
 <use assets/use-case-2/notes-orderer.png>
-Package pdftex.def Info: assets/use-case-2/notes-orderer.png  used on input lin
-e 453.
-(pdftex.def)             Requested size: 227.62206pt x 82.53616pt.
-<assets/use-case-2/notes-couch.png, id=353, 1884.03876pt x 571.13374pt>
+Package luatex.def Info: assets/use-case-2/notes-orderer.png  used on input line 341.
+(luatex.def)             Requested size: 227.62206pt x 82.53616pt.
+ [61<./assets/use-case-2/notes-cas.png><./assets/use-case-2/notes-orderer.png>]
+<assets/use-case-2/notes-couch.png, id=277, 1884.03876pt x 571.13374pt>
 File: assets/use-case-2/notes-couch.png Graphic file (type png)
 <use assets/use-case-2/notes-couch.png>
-Package pdftex.def Info: assets/use-case-2/notes-couch.png  used on input line 
-462.
-(pdftex.def)             Requested size: 227.62206pt x 68.99496pt.
-<assets/use-case-2/notes-peers.png, id=354, 1882.03125pt x 600.2425pt>
+Package luatex.def Info: assets/use-case-2/notes-couch.png  used on input line 350.
+(luatex.def)             Requested size: 227.62206pt x 68.99496pt.
+<assets/use-case-2/notes-peers.png, id=278, 1882.03125pt x 600.2425pt>
 File: assets/use-case-2/notes-peers.png Graphic file (type png)
 <use assets/use-case-2/notes-peers.png>
-Package pdftex.def Info: assets/use-case-2/notes-peers.png  used on input line 
-471.
-(pdftex.def)             Requested size: 227.62206pt x 72.59384pt.
- [83 <./assets/use-case-2/notes-cas.png> <./assets/use-case-2/notes-orderer.png
-> <./assets/use-case-2/notes-couch.png>]
-<assets/use-case-2/notes-channel.png, id=358, 1892.06876pt x 595.22375pt>
+Package luatex.def Info: assets/use-case-2/notes-peers.png  used on input line 359.
+(luatex.def)             Requested size: 227.62206pt x 72.59384pt.
+<assets/use-case-2/notes-channel.png, id=279, 1892.06876pt x 595.22375pt>
 File: assets/use-case-2/notes-channel.png Graphic file (type png)
 <use assets/use-case-2/notes-channel.png>
-Package pdftex.def Info: assets/use-case-2/notes-channel.png  used on input lin
-e 480.
-(pdftex.def)             Requested size: 227.62206pt x 71.60541pt.
-<assets/use-case-2/notes-channel-and-chaincode.png, id=359, 1895.08pt x 505.89p
-t>
+Package luatex.def Info: assets/use-case-2/notes-channel.png  used on input line 368.
+(luatex.def)             Requested size: 227.62206pt x 71.60541pt.
+<assets/use-case-2/notes-channel-and-chaincode.png, id=280, 1895.08pt x 505.89pt>
 File: assets/use-case-2/notes-channel-and-chaincode.png Graphic file (type png)
-
 <use assets/use-case-2/notes-channel-and-chaincode.png>
-Package pdftex.def Info: assets/use-case-2/notes-channel-and-chaincode.png  use
-d on input line 489.
-(pdftex.def)             Requested size: 227.62206pt x 60.75821pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 496--497
+Package luatex.def Info: assets/use-case-2/notes-channel-and-chaincode.png  used on input line 377.
+(luatex.def)             Requested size: 227.62206pt x 60.75821pt.
+ [62<./assets/use-case-2/notes-couch.png><./assets/use-case-2/notes-peers.png><./assets/use-case-2/notes-channel.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 384--385
 
  []
 
-<assets/use-case-2/default-first-netwrk.drawio.png, id=360, 1441.385pt x 452.69
-125pt>
+<assets/use-case-2/default-first-netwrk.drawio.png, id=284, 1441.385pt x 452.69125pt>
 File: assets/use-case-2/default-first-netwrk.drawio.png Graphic file (type png)
-
 <use assets/use-case-2/default-first-netwrk.drawio.png>
-Package pdftex.def Info: assets/use-case-2/default-first-netwrk.drawio.png  use
-d on input line 502.
-(pdftex.def)             Requested size: 227.62206pt x 71.48575pt.
-[84 <./assets/use-case-2/notes-peers.png> <./assets/use-case-2/notes-channel.pn
-g> <./assets/use-case-2/notes-channel-and-chaincode.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 509--510
+Package luatex.def Info: assets/use-case-2/default-first-netwrk.drawio.png  used on input line 390.
+(luatex.def)             Requested size: 227.62206pt x 71.48575pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 397--398
 
  []
 
-<assets/use-case-2/default-first-hospital.drawio.png, id=364, 944.52875pt x 452
-.69125pt>
-File: assets/use-case-2/default-first-hospital.drawio.png Graphic file (type pn
-g)
+<assets/use-case-2/default-first-hospital.drawio.png, id=285, 944.52875pt x 452.69125pt>
+File: assets/use-case-2/default-first-hospital.drawio.png Graphic file (type png)
 <use assets/use-case-2/default-first-hospital.drawio.png>
-Package pdftex.def Info: assets/use-case-2/default-first-hospital.drawio.png  u
-sed on input line 514.
-(pdftex.def)             Requested size: 227.62206pt x 109.0902pt.
-<assets/use-case-2/robust-network-creation.png, id=365, 1399.2275pt x 945.5325p
-t>
+Package luatex.def Info: assets/use-case-2/default-first-hospital.drawio.png  used on input line 402.
+(luatex.def)             Requested size: 227.62206pt x 109.0902pt.
+[63<./assets/use-case-2/notes-channel-and-chaincode.png><./assets/use-case-2/default-first-netwrk.drawio.png>]
+<assets/use-case-2/robust-network-creation.png, id=290, 1399.2275pt x 945.5325pt>
 File: assets/use-case-2/robust-network-creation.png Graphic file (type png)
 <use assets/use-case-2/robust-network-creation.png>
-Package pdftex.def Info: assets/use-case-2/robust-network-creation.png  used on
- input line 523.
-(pdftex.def)             Requested size: 227.62206pt x 153.81313pt.
-[85 <./assets/use-case-2/default-first-netwrk.drawio.png> <./assets/use-case-2/
-default-first-hospital.drawio.png>]
-<assets/use-case-2/first-benchmarking.png, id=372, 1905.1175pt x 956.57375pt>
+Package luatex.def Info: assets/use-case-2/robust-network-creation.png  used on input line 411.
+(luatex.def)             Requested size: 227.62206pt x 153.81313pt.
+ [64<./assets/use-case-2/default-first-hospital.drawio.png><./assets/use-case-2/robust-network-creation.png>]
+<assets/use-case-2/first-benchmarking.png, id=295, 1905.1175pt x 956.57375pt>
 File: assets/use-case-2/first-benchmarking.png Graphic file (type png)
 <use assets/use-case-2/first-benchmarking.png>
-Package pdftex.def Info: assets/use-case-2/first-benchmarking.png  used on inpu
-t line 546.
-(pdftex.def)             Requested size: 227.62206pt x 114.28763pt.
- [86 <./assets/use-case-2/robust-network-creation.png>]
-<assets/use-case-2/first-benchmarking2.png, id=376, 1622.06pt x 295.1025pt>
+Package luatex.def Info: assets/use-case-2/first-benchmarking.png  used on input line 434.
+(luatex.def)             Requested size: 227.62206pt x 114.28763pt.
+<assets/use-case-2/first-benchmarking2.png, id=296, 1622.06pt x 295.1025pt>
 File: assets/use-case-2/first-benchmarking2.png Graphic file (type png)
 <use assets/use-case-2/first-benchmarking2.png>
-Package pdftex.def Info: assets/use-case-2/first-benchmarking2.png  used on inp
-ut line 553.
-(pdftex.def)             Requested size: 227.62206pt x 41.40862pt.
-<assets/use-case-2/first-benchmarking-hospital.png, id=377, 746.79pt x 765.8612
-5pt>
+Package luatex.def Info: assets/use-case-2/first-benchmarking2.png  used on input line 441.
+(luatex.def)             Requested size: 227.62206pt x 41.40862pt.
+<assets/use-case-2/first-benchmarking-hospital.png, id=297, 746.79pt x 765.86125pt>
 File: assets/use-case-2/first-benchmarking-hospital.png Graphic file (type png)
-
 <use assets/use-case-2/first-benchmarking-hospital.png>
-Package pdftex.def Info: assets/use-case-2/first-benchmarking-hospital.png  use
-d on input line 562.
-(pdftex.def)             Requested size: 227.62206pt x 233.42958pt.
-<assets/use-case-2/first-benchmarking-hospital2.png, id=378, 1208.515pt x 304.1
-3625pt>
-File: assets/use-case-2/first-benchmarking-hospital2.png Graphic file (type png
-)
+Package luatex.def Info: assets/use-case-2/first-benchmarking-hospital.png  used on input line 450.
+(luatex.def)             Requested size: 227.62206pt x 233.42958pt.
+ [65<./assets/use-case-2/first-benchmarking.png><./assets/use-case-2/first-benchmarking2.png>]
+<assets/use-case-2/first-benchmarking-hospital2.png, id=301, 1208.515pt x 304.13625pt>
+File: assets/use-case-2/first-benchmarking-hospital2.png Graphic file (type png)
 <use assets/use-case-2/first-benchmarking-hospital2.png>
-Package pdftex.def Info: assets/use-case-2/first-benchmarking-hospital2.png  us
-ed on input line 569.
-(pdftex.def)             Requested size: 227.62206pt x 57.28064pt.
- [87 <./assets/use-case-2/first-benchmarking.png> <./assets/use-case-2/first-be
-nchmarking2.png> <./assets/use-case-2/first-benchmarking-hospital.png>]
-<assets/use-case-2/first-benchmarking-hospital3.png, id=382, 587.19376pt x 562.
-1pt>
-File: assets/use-case-2/first-benchmarking-hospital3.png Graphic file (type png
-)
+Package luatex.def Info: assets/use-case-2/first-benchmarking-hospital2.png  used on input line 457.
+(luatex.def)             Requested size: 227.62206pt x 57.28064pt.
+<assets/use-case-2/first-benchmarking-hospital3.png, id=302, 587.19376pt x 562.1pt>
+File: assets/use-case-2/first-benchmarking-hospital3.png Graphic file (type png)
 <use assets/use-case-2/first-benchmarking-hospital3.png>
-Package pdftex.def Info: assets/use-case-2/first-benchmarking-hospital3.png  us
-ed on input line 576.
-(pdftex.def)             Requested size: 227.62206pt x 217.88869pt.
-<assets/use-case-2/kubernetes-study.png, id=383, 931.48pt x 948.54375pt>
+Package luatex.def Info: assets/use-case-2/first-benchmarking-hospital3.png  used on input line 464.
+(luatex.def)             Requested size: 227.62206pt x 217.88869pt.
+ [66<./assets/use-case-2/first-benchmarking-hospital.png><./assets/use-case-2/first-benchmarking-hospital2.png><./assets/use-case-2/first-benchmarking-hospital3.png>]
+<assets/use-case-2/kubernetes-study.png, id=308, 931.48pt x 948.54375pt>
 File: assets/use-case-2/kubernetes-study.png Graphic file (type png)
 <use assets/use-case-2/kubernetes-study.png>
-Package pdftex.def Info: assets/use-case-2/kubernetes-study.png  used on input 
-line 591.
-(pdftex.def)             Requested size: 227.62206pt x 231.78012pt.
- [88 <./assets/use-case-2/first-benchmarking-hospital2.png> <./assets/use-case-
-2/first-benchmarking-hospital3.png>]
-<assets/use-case-2/kubernetes-study2.png, id=389, 1502.61375pt x 895.345pt>
+Package luatex.def Info: assets/use-case-2/kubernetes-study.png  used on input line 479.
+(luatex.def)             Requested size: 227.62206pt x 231.78012pt.
+<assets/use-case-2/kubernetes-study2.png, id=309, 1502.61375pt x 895.345pt>
 File: assets/use-case-2/kubernetes-study2.png Graphic file (type png)
 <use assets/use-case-2/kubernetes-study2.png>
-Package pdftex.def Info: assets/use-case-2/kubernetes-study2.png  used on input
- line 598.
-(pdftex.def)             Requested size: 227.62206pt x 135.62115pt.
-<assets/use-case-2/hlf-kuber-premise-network.png, id=390, 951.555pt x 492.84125
-pt>
+Package luatex.def Info: assets/use-case-2/kubernetes-study2.png  used on input line 486.
+(luatex.def)             Requested size: 227.62206pt x 135.62115pt.
+ [67<./assets/use-case-2/kubernetes-study.png><./assets/use-case-2/kubernetes-study2.png>]
+<assets/use-case-2/hlf-kuber-premise-network.png, id=313, 951.555pt x 492.84125pt>
 File: assets/use-case-2/hlf-kuber-premise-network.png Graphic file (type png)
 <use assets/use-case-2/hlf-kuber-premise-network.png>
-Package pdftex.def Info: assets/use-case-2/hlf-kuber-premise-network.png  used 
-on input line 608.
-(pdftex.def)             Requested size: 227.62206pt x 117.89326pt.
- [89 <./assets/use-case-2/kubernetes-study.png> <./assets/use-case-2/kubernetes
--study2.png>]
-<assets/use-case-2/hlf-kuber-premise-network2.png, id=394, 1616.0375pt x 943.52
-5pt>
+Package luatex.def Info: assets/use-case-2/hlf-kuber-premise-network.png  used on input line 496.
+(luatex.def)             Requested size: 227.62206pt x 117.89326pt.
+<assets/use-case-2/hlf-kuber-premise-network2.png, id=314, 1616.0375pt x 943.525pt>
 File: assets/use-case-2/hlf-kuber-premise-network2.png Graphic file (type png)
 <use assets/use-case-2/hlf-kuber-premise-network2.png>
-Package pdftex.def Info: assets/use-case-2/hlf-kuber-premise-network2.png  used
- on input line 615.
-(pdftex.def)             Requested size: 227.62206pt x 132.88443pt.
- [90 <./assets/use-case-2/hlf-kuber-premise-network.png> <./assets/use-case-2/h
-lf-kuber-premise-network2.png>]
-<assets/use-case-2/automation-diagram.drawio.png, id=399, 2521.42pt x 1004.7537
-5pt>
+Package luatex.def Info: assets/use-case-2/hlf-kuber-premise-network2.png  used on input line 503.
+(luatex.def)             Requested size: 227.62206pt x 132.88443pt.
+ [68<./assets/use-case-2/hlf-kuber-premise-network.png><./assets/use-case-2/hlf-kuber-premise-network2.png>]
+<assets/use-case-2/automation-diagram.drawio.png, id=319, 2521.42pt x 1004.75375pt>
 File: assets/use-case-2/automation-diagram.drawio.png Graphic file (type png)
 <use assets/use-case-2/automation-diagram.drawio.png>
-Package pdftex.def Info: assets/use-case-2/automation-diagram.drawio.png  used 
-on input line 631.
-(pdftex.def)             Requested size: 227.62206pt x 90.69989pt.
-<assets/use-case-2/automation-creation.png, id=400, 1526.70375pt x 861.2175pt>
+Package luatex.def Info: assets/use-case-2/automation-diagram.drawio.png  used on input line 519.
+(luatex.def)             Requested size: 227.62206pt x 90.69989pt.
+<assets/use-case-2/automation-creation.png, id=320, 1526.70375pt x 861.2175pt>
 File: assets/use-case-2/automation-creation.png Graphic file (type png)
 <use assets/use-case-2/automation-creation.png>
-Package pdftex.def Info: assets/use-case-2/automation-creation.png  used on inp
-ut line 638.
-(pdftex.def)             Requested size: 227.62206pt x 128.40172pt.
-<assets/use-case-2/orderer-admin-manager.png, id=401, 1694.33pt x 806.01125pt>
+Package luatex.def Info: assets/use-case-2/automation-creation.png  used on input line 526.
+(luatex.def)             Requested size: 227.62206pt x 128.40172pt.
+<assets/use-case-2/orderer-admin-manager.png, id=321, 1694.33pt x 806.01125pt>
 File: assets/use-case-2/orderer-admin-manager.png Graphic file (type png)
 <use assets/use-case-2/orderer-admin-manager.png>
-Package pdftex.def Info: assets/use-case-2/orderer-admin-manager.png  used on i
-nput line 645.
-(pdftex.def)             Requested size: 227.62206pt x 108.27797pt.
-<assets/use-case-2/peer-manager-prototype-page.png, id=402, 1694.33pt x 806.011
-25pt>
+Package luatex.def Info: assets/use-case-2/orderer-admin-manager.png  used on input line 533.
+(luatex.def)             Requested size: 227.62206pt x 108.27797pt.
+<assets/use-case-2/peer-manager-prototype-page.png, id=322, 1694.33pt x 806.01125pt>
 File: assets/use-case-2/peer-manager-prototype-page.png Graphic file (type png)
-
 <use assets/use-case-2/peer-manager-prototype-page.png>
-Package pdftex.def Info: assets/use-case-2/peer-manager-prototype-page.png  use
-d on input line 652.
-(pdftex.def)             Requested size: 227.62206pt x 108.27797pt.
-<assets/use-case-2/kubernetes-network.drawio.png, id=403, 1376.14125pt x 834.11
-626pt>
+Package luatex.def Info: assets/use-case-2/peer-manager-prototype-page.png  used on input line 540.
+(luatex.def)             Requested size: 227.62206pt x 108.27797pt.
+ [69<./assets/use-case-2/automation-diagram.drawio.png><./assets/use-case-2/automation-creation.png><./assets/use-case-2/orderer-admin-manager.png>]
+<assets/use-case-2/kubernetes-network.drawio.png, id=328, 1376.14125pt x 834.11626pt>
 File: assets/use-case-2/kubernetes-network.drawio.png Graphic file (type png)
 <use assets/use-case-2/kubernetes-network.drawio.png>
-Package pdftex.def Info: assets/use-case-2/kubernetes-network.drawio.png  used 
-on input line 661.
-(pdftex.def)             Requested size: 227.62206pt x 137.96689pt.
- [91 <./assets/use-case-2/automation-diagram.drawio.png> <./assets/use-case-2/a
-utomation-creation.png> <./assets/use-case-2/orderer-admin-manager.png> <./asse
-ts/use-case-2/peer-manager-prototype-page.png>]
+Package luatex.def Info: assets/use-case-2/kubernetes-network.drawio.png  used on input line 549.
+(luatex.def)             Requested size: 227.62206pt x 137.96689pt.
 File: assets/use-case-2/default-first-netwrk.drawio.png Graphic file (type png)
-
 <use assets/use-case-2/default-first-netwrk.drawio.png>
-Package pdftex.def Info: assets/use-case-2/default-first-netwrk.drawio.png  use
-d on input line 673.
-(pdftex.def)             Requested size: 227.62206pt x 71.48575pt.
-<assets/use-case-2/scenario1.png, id=410, 1751.54375pt x 736.7525pt>
+Package luatex.def Info: assets/use-case-2/default-first-netwrk.drawio.png  used on input line 561.
+(luatex.def)             Requested size: 227.62206pt x 71.48575pt.
+ [70<./assets/use-case-2/peer-manager-prototype-page.png><./assets/use-case-2/kubernetes-network.drawio.png>]
+<assets/use-case-2/scenario1.png, id=334, 1751.54375pt x 736.7525pt>
 File: assets/use-case-2/scenario1.png Graphic file (type png)
 <use assets/use-case-2/scenario1.png>
-Package pdftex.def Info: assets/use-case-2/scenario1.png  used on input line 68
-2.
-(pdftex.def)             Requested size: 227.62206pt x 95.7362pt.
- [92 <./assets/use-case-2/kubernetes-network.drawio.png>]
-<assets/use-case-2/scenario2.png, id=415, 2053.6725pt x 585.18625pt>
+Package luatex.def Info: assets/use-case-2/scenario1.png  used on input line 570.
+(luatex.def)             Requested size: 227.62206pt x 95.7362pt.
+<assets/use-case-2/scenario2.png, id=335, 2053.6725pt x 585.18625pt>
 File: assets/use-case-2/scenario2.png Graphic file (type png)
 <use assets/use-case-2/scenario2.png>
-Package pdftex.def Info: assets/use-case-2/scenario2.png  used on input line 69
-1.
-(pdftex.def)             Requested size: 227.62206pt x 64.85286pt.
-<assets/use-case-2/scenario3.png, id=416, 1998.46625pt x 512.91624pt>
+Package luatex.def Info: assets/use-case-2/scenario2.png  used on input line 579.
+(luatex.def)             Requested size: 227.62206pt x 64.85286pt.
+<assets/use-case-2/scenario3.png, id=336, 1998.46625pt x 512.91624pt>
 File: assets/use-case-2/scenario3.png Graphic file (type png)
 <use assets/use-case-2/scenario3.png>
-Package pdftex.def Info: assets/use-case-2/scenario3.png  used on input line 70
-0.
-(pdftex.def)             Requested size: 227.62206pt x 58.4167pt.
-<assets/use-case-2/scenario4.png, id=417, 1998.46625pt x 934.49126pt>
+Package luatex.def Info: assets/use-case-2/scenario3.png  used on input line 588.
+(luatex.def)             Requested size: 227.62206pt x 58.4167pt.
+<assets/use-case-2/scenario4.png, id=337, 1998.46625pt x 934.49126pt>
 File: assets/use-case-2/scenario4.png Graphic file (type png)
 <use assets/use-case-2/scenario4.png>
-Package pdftex.def Info: assets/use-case-2/scenario4.png  used on input line 70
-9.
-(pdftex.def)             Requested size: 227.62206pt x 106.43044pt.
- [93 <./assets/use-case-2/scenario1.png> <./assets/use-case-2/scenario2.png> <.
-/assets/use-case-2/scenario3.png> <./assets/use-case-2/scenario4.png>]
-<assets/use-case-2/scenario5.png, id=425, 2139.995pt x 935.495pt>
+Package luatex.def Info: assets/use-case-2/scenario4.png  used on input line 597.
+(luatex.def)             Requested size: 227.62206pt x 106.43044pt.
+ [71<./assets/use-case-2/scenario1.png><./assets/use-case-2/scenario2.png><./assets/use-case-2/scenario3.png>]
+<assets/use-case-2/scenario5.png, id=344, 2139.995pt x 935.495pt>
 File: assets/use-case-2/scenario5.png Graphic file (type png)
 <use assets/use-case-2/scenario5.png>
-Package pdftex.def Info: assets/use-case-2/scenario5.png  used on input line 71
-8.
-(pdftex.def)             Requested size: 227.62206pt x 99.49316pt.
- [94 <./assets/use-case-2/scenario5.png>]
-<assets/use-case-2/docker.png, id=432, 1420.30624pt x 708.6475pt>
+Package luatex.def Info: assets/use-case-2/scenario5.png  used on input line 606.
+(luatex.def)             Requested size: 227.62206pt x 99.49316pt.
+ [72<./assets/use-case-2/scenario4.png><./assets/use-case-2/scenario5.png>]
+<assets/use-case-2/docker.png, id=350, 1420.30624pt x 708.6475pt>
 File: assets/use-case-2/docker.png Graphic file (type png)
 <use assets/use-case-2/docker.png>
-Package pdftex.def Info: assets/use-case-2/docker.png  used on input line 735.
-(pdftex.def)             Requested size: 227.62206pt x 113.56973pt.
-<assets/use-case-2/k8.png, id=433, 1326.9575pt x 758.835pt>
+Package luatex.def Info: assets/use-case-2/docker.png  used on input line 623.
+(luatex.def)             Requested size: 227.62206pt x 113.56973pt.
+<assets/use-case-2/k8.png, id=351, 1326.9575pt x 758.835pt>
 File: assets/use-case-2/k8.png Graphic file (type png)
 <use assets/use-case-2/k8.png>
-Package pdftex.def Info: assets/use-case-2/k8.png  used on input line 745.
-(pdftex.def)             Requested size: 227.62206pt x 130.15813pt.
-<assets/use-case-2/k8-lb.png, id=434, 1329.96875pt x 756.8275pt>
+Package luatex.def Info: assets/use-case-2/k8.png  used on input line 633.
+(luatex.def)             Requested size: 227.62206pt x 130.15813pt.
+<assets/use-case-2/k8-lb.png, id=352, 1329.96875pt x 756.8275pt>
 File: assets/use-case-2/k8-lb.png Graphic file (type png)
 <use assets/use-case-2/k8-lb.png>
-Package pdftex.def Info: assets/use-case-2/k8-lb.png  used on input line 755.
-(pdftex.def)             Requested size: 227.62206pt x 129.52509pt.
- [95 <./assets/use-case-2/docker.png> <./assets/use-case-2/k8.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 761--762
+Package luatex.def Info: assets/use-case-2/k8-lb.png  used on input line 643.
+(luatex.def)             Requested size: 227.62206pt x 129.52509pt.
+ [73<./assets/use-case-2/docker.png><./assets/use-case-2/k8.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 649--650
 
  []
 
-<assets/use-case-2/docker-evaluation.png, id=438, 1606.0pt x 773.89125pt>
+<assets/use-case-2/docker-evaluation.png, id=356, 1606.0pt x 773.89125pt>
 File: assets/use-case-2/docker-evaluation.png Graphic file (type png)
 <use assets/use-case-2/docker-evaluation.png>
-Package pdftex.def Info: assets/use-case-2/docker-evaluation.png  used on input
- line 771.
-(pdftex.def)             Requested size: 227.62206pt x 109.6784pt.
-<assets/use-case-2/evaluation-of-k8-and-k8-with-lb.png, id=439, 1606.0pt x 771.
-88374pt>
-File: assets/use-case-2/evaluation-of-k8-and-k8-with-lb.png Graphic file (type 
-png)
+Package luatex.def Info: assets/use-case-2/docker-evaluation.png  used on input line 659.
+(luatex.def)             Requested size: 227.62206pt x 109.6784pt.
+<assets/use-case-2/evaluation-of-k8-and-k8-with-lb.png, id=357, 1606.0pt x 771.88374pt>
+File: assets/use-case-2/evaluation-of-k8-and-k8-with-lb.png Graphic file (type png)
 <use assets/use-case-2/evaluation-of-k8-and-k8-with-lb.png>
-Package pdftex.def Info: assets/use-case-2/evaluation-of-k8-and-k8-with-lb.png 
- used on input line 780.
-(pdftex.def)             Requested size: 227.62206pt x 109.39389pt.
-[96 <./assets/use-case-2/k8-lb.png> <./assets/use-case-2/docker-evaluation.png>
-] [97 <./assets/use-case-2/evaluation-of-k8-and-k8-with-lb.png>]
-<assets/use-case-2/block-explorer-dashboard.png, id=446, 1606.0pt x 825.0825pt>
-
+Package luatex.def Info: assets/use-case-2/evaluation-of-k8-and-k8-with-lb.png  used on input line 668.
+(luatex.def)             Requested size: 227.62206pt x 109.39389pt.
+[74<./assets/use-case-2/k8-lb.png><./assets/use-case-2/docker-evaluation.png>] [75<./assets/use-case-2/evaluation-of-k8-and-k8-with-lb.png>]
+<assets/use-case-2/block-explorer-dashboard.png, id=364, 1606.0pt x 825.0825pt>
 File: assets/use-case-2/block-explorer-dashboard.png Graphic file (type png)
 <use assets/use-case-2/block-explorer-dashboard.png>
-Package pdftex.def Info: assets/use-case-2/block-explorer-dashboard.png  used o
-n input line 816.
-(pdftex.def)             Requested size: 227.62206pt x 116.9334pt.
-<assets/use-case-2/block-explorer-network.png, id=447, 1606.0pt x 821.0675pt>
+Package luatex.def Info: assets/use-case-2/block-explorer-dashboard.png  used on input line 704.
+(luatex.def)             Requested size: 227.62206pt x 116.9334pt.
+<assets/use-case-2/block-explorer-network.png, id=365, 1606.0pt x 821.0675pt>
 File: assets/use-case-2/block-explorer-network.png Graphic file (type png)
 <use assets/use-case-2/block-explorer-network.png>
-Package pdftex.def Info: assets/use-case-2/block-explorer-network.png  used on 
-input line 825.
-(pdftex.def)             Requested size: 227.62206pt x 116.36438pt.
- [98 <./assets/use-case-2/block-explorer-dashboard.png>]
-<assets/use-case-2/block-explorer-blocks.png, id=451, 1606.0pt x 835.12pt>
+Package luatex.def Info: assets/use-case-2/block-explorer-network.png  used on input line 713.
+(luatex.def)             Requested size: 227.62206pt x 116.36438pt.
+ [76<./assets/use-case-2/block-explorer-dashboard.png><./assets/use-case-2/block-explorer-network.png>]
+<assets/use-case-2/block-explorer-blocks.png, id=370, 1606.0pt x 835.12pt>
 File: assets/use-case-2/block-explorer-blocks.png Graphic file (type png)
 <use assets/use-case-2/block-explorer-blocks.png>
-Package pdftex.def Info: assets/use-case-2/block-explorer-blocks.png  used on i
-nput line 834.
-(pdftex.def)             Requested size: 227.62206pt x 118.35594pt.
-<assets/use-case-2/block-explorer-transactions.png, id=452, 1606.0pt x 841.1425
-pt>
+Package luatex.def Info: assets/use-case-2/block-explorer-blocks.png  used on input line 722.
+(luatex.def)             Requested size: 227.62206pt x 118.35594pt.
+<assets/use-case-2/block-explorer-transactions.png, id=371, 1606.0pt x 841.1425pt>
 File: assets/use-case-2/block-explorer-transactions.png Graphic file (type png)
-
 <use assets/use-case-2/block-explorer-transactions.png>
-Package pdftex.def Info: assets/use-case-2/block-explorer-transactions.png  use
-d on input line 843.
-(pdftex.def)             Requested size: 227.62206pt x 119.20947pt.
- [99 <./assets/use-case-2/block-explorer-network.png> <./assets/use-case-2/bloc
-k-explorer-blocks.png> <./assets/use-case-2/block-explorer-transactions.png>]
-<assets/use-case-2/block-explorer-chaincode.png, id=456, 1606.0pt x 823.075pt>
+Package luatex.def Info: assets/use-case-2/block-explorer-transactions.png  used on input line 731.
+(luatex.def)             Requested size: 227.62206pt x 119.20947pt.
+<assets/use-case-2/block-explorer-chaincode.png, id=372, 1606.0pt x 823.075pt>
 File: assets/use-case-2/block-explorer-chaincode.png Graphic file (type png)
 <use assets/use-case-2/block-explorer-chaincode.png>
-Package pdftex.def Info: assets/use-case-2/block-explorer-chaincode.png  used o
-n input line 852.
-(pdftex.def)             Requested size: 227.62206pt x 116.64888pt.
-<assets/use-case-2/block-explorer-channels.png, id=457, 1606.0pt x 830.10126pt>
-
+Package luatex.def Info: assets/use-case-2/block-explorer-chaincode.png  used on input line 740.
+(luatex.def)             Requested size: 227.62206pt x 116.64888pt.
+ [77<./assets/use-case-2/block-explorer-blocks.png><./assets/use-case-2/block-explorer-transactions.png>]
+<assets/use-case-2/block-explorer-channels.png, id=376, 1606.0pt x 830.10126pt>
 File: assets/use-case-2/block-explorer-channels.png Graphic file (type png)
 <use assets/use-case-2/block-explorer-channels.png>
-Package pdftex.def Info: assets/use-case-2/block-explorer-channels.png  used on
- input line 861.
-(pdftex.def)             Requested size: 227.62206pt x 117.64467pt.
-<assets/use-case-2/general-network-dashboard.png, id=458, 1606.0pt x 857.2025pt
->
+Package luatex.def Info: assets/use-case-2/block-explorer-channels.png  used on input line 749.
+(luatex.def)             Requested size: 227.62206pt x 117.64467pt.
+<assets/use-case-2/general-network-dashboard.png, id=377, 1606.0pt x 857.2025pt>
 File: assets/use-case-2/general-network-dashboard.png Graphic file (type png)
 <use assets/use-case-2/general-network-dashboard.png>
-Package pdftex.def Info: assets/use-case-2/general-network-dashboard.png  used 
-on input line 873.
-(pdftex.def)             Requested size: 227.62206pt x 121.48555pt.
- [100 <./assets/use-case-2/block-explorer-chaincode.png> <./assets/use-case-2/b
-lock-explorer-channels.png>]
-<assets/use-case-2/general-network-resources.png, id=463, 1606.0pt x 820.06375p
-t>
+Package luatex.def Info: assets/use-case-2/general-network-dashboard.png  used on input line 761.
+(luatex.def)             Requested size: 227.62206pt x 121.48555pt.
+<assets/use-case-2/general-network-resources.png, id=378, 1606.0pt x 820.06375pt>
 File: assets/use-case-2/general-network-resources.png Graphic file (type png)
 <use assets/use-case-2/general-network-resources.png>
-Package pdftex.def Info: assets/use-case-2/general-network-resources.png  used 
-on input line 882.
-(pdftex.def)             Requested size: 227.62206pt x 116.22212pt.
-<assets/use-case-2/network-visualization.png, id=464, 1606.0pt x 828.09375pt>
+Package luatex.def Info: assets/use-case-2/general-network-resources.png  used on input line 770.
+(luatex.def)             Requested size: 227.62206pt x 116.22212pt.
+ [78<./assets/use-case-2/block-explorer-chaincode.png><./assets/use-case-2/block-explorer-channels.png><./assets/use-case-2/general-network-dashboard.png>]
+<assets/use-case-2/network-visualization.png, id=382, 1606.0pt x 828.09375pt>
 File: assets/use-case-2/network-visualization.png Graphic file (type png)
 <use assets/use-case-2/network-visualization.png>
-Package pdftex.def Info: assets/use-case-2/network-visualization.png  used on i
-nput line 891.
-(pdftex.def)             Requested size: 227.62206pt x 117.36017pt.
- [101 <./assets/use-case-2/general-network-dashboard.png> <./assets/use-case-2/
-general-network-resources.png> <./assets/use-case-2/network-visualization.png>]
-<assets/use-case-2/peer-config-upload-configs.png, id=468, 1606.0pt x 836.12375
-pt>
+Package luatex.def Info: assets/use-case-2/network-visualization.png  used on input line 779.
+(luatex.def)             Requested size: 227.62206pt x 117.36017pt.
+<assets/use-case-2/peer-config-upload-configs.png, id=383, 1606.0pt x 836.12375pt>
 File: assets/use-case-2/peer-config-upload-configs.png Graphic file (type png)
 <use assets/use-case-2/peer-config-upload-configs.png>
-Package pdftex.def Info: assets/use-case-2/peer-config-upload-configs.png  used
- on input line 903.
-(pdftex.def)             Requested size: 227.62206pt x 118.4982pt.
-<assets/use-case-2/peer-config-query-channels.png, id=469, 1606.0pt x 814.04124
-pt>
+Package luatex.def Info: assets/use-case-2/peer-config-upload-configs.png  used on input line 791.
+(luatex.def)             Requested size: 227.62206pt x 118.4982pt.
+ [79<./assets/use-case-2/general-network-resources.png><./assets/use-case-2/network-visualization.png><./assets/use-case-2/peer-config-upload-configs.png>]
+<assets/use-case-2/peer-config-query-channels.png, id=387, 1606.0pt x 814.04124pt>
 File: assets/use-case-2/peer-config-query-channels.png Graphic file (type png)
 <use assets/use-case-2/peer-config-query-channels.png>
-Package pdftex.def Info: assets/use-case-2/peer-config-query-channels.png  used
- on input line 912.
-(pdftex.def)             Requested size: 227.62206pt x 115.36859pt.
-<assets/use-case-2/peer-config-fetch-channel.png, id=470, 1606.0pt x 836.12375p
-t>
+Package luatex.def Info: assets/use-case-2/peer-config-query-channels.png  used on input line 800.
+(luatex.def)             Requested size: 227.62206pt x 115.36859pt.
+<assets/use-case-2/peer-config-fetch-channel.png, id=388, 1606.0pt x 836.12375pt>
 File: assets/use-case-2/peer-config-fetch-channel.png Graphic file (type png)
 <use assets/use-case-2/peer-config-fetch-channel.png>
-Package pdftex.def Info: assets/use-case-2/peer-config-fetch-channel.png  used 
-on input line 921.
-(pdftex.def)             Requested size: 227.62206pt x 118.4982pt.
-<assets/use-case-2/peer-config-join-channel.png, id=471, 1606.0pt x 820.06375pt
->
+Package luatex.def Info: assets/use-case-2/peer-config-fetch-channel.png  used on input line 809.
+(luatex.def)             Requested size: 227.62206pt x 118.4982pt.
+<assets/use-case-2/peer-config-join-channel.png, id=389, 1606.0pt x 820.06375pt>
 File: assets/use-case-2/peer-config-join-channel.png Graphic file (type png)
 <use assets/use-case-2/peer-config-join-channel.png>
-Package pdftex.def Info: assets/use-case-2/peer-config-join-channel.png  used o
-n input line 930.
-(pdftex.def)             Requested size: 227.62206pt x 116.22212pt.
- [102 <./assets/use-case-2/peer-config-upload-configs.png> <./assets/use-case-2
-/peer-config-query-channels.png> <./assets/use-case-2/peer-config-fetch-channel
-.png>]
-<assets/use-case-2/peer-config-install-chaincode.png, id=475, 1606.0pt x 831.10
-5pt>
-File: assets/use-case-2/peer-config-install-chaincode.png Graphic file (type pn
-g)
+Package luatex.def Info: assets/use-case-2/peer-config-join-channel.png  used on input line 818.
+(luatex.def)             Requested size: 227.62206pt x 116.22212pt.
+<assets/use-case-2/peer-config-install-chaincode.png, id=390, 1606.0pt x 831.105pt>
+File: assets/use-case-2/peer-config-install-chaincode.png Graphic file (type png)
 <use assets/use-case-2/peer-config-install-chaincode.png>
-Package pdftex.def Info: assets/use-case-2/peer-config-install-chaincode.png  u
-sed on input line 939.
-(pdftex.def)             Requested size: 227.62206pt x 117.78693pt.
-<assets/use-case-2/peer-config-query-chaincode.png, id=476, 1606.0pt x 832.1087
-5pt>
+Package luatex.def Info: assets/use-case-2/peer-config-install-chaincode.png  used on input line 827.
+(luatex.def)             Requested size: 227.62206pt x 117.78693pt.
+ [80<./assets/use-case-2/peer-config-query-channels.png><./assets/use-case-2/peer-config-fetch-channel.png><./assets/use-case-2/peer-config-join-channel.png>]
+<assets/use-case-2/peer-config-query-chaincode.png, id=394, 1606.0pt x 832.10875pt>
 File: assets/use-case-2/peer-config-query-chaincode.png Graphic file (type png)
-
 <use assets/use-case-2/peer-config-query-chaincode.png>
-Package pdftex.def Info: assets/use-case-2/peer-config-query-chaincode.png  use
-d on input line 948.
-(pdftex.def)             Requested size: 227.62206pt x 117.92918pt.
-<assets/use-case-2/peer-config-approve-chaincode.png, id=477, 1606.0pt x 815.04
-5pt>
-File: assets/use-case-2/peer-config-approve-chaincode.png Graphic file (type pn
-g)
+Package luatex.def Info: assets/use-case-2/peer-config-query-chaincode.png  used on input line 836.
+(luatex.def)             Requested size: 227.62206pt x 117.92918pt.
+<assets/use-case-2/peer-config-approve-chaincode.png, id=395, 1606.0pt x 815.045pt>
+File: assets/use-case-2/peer-config-approve-chaincode.png Graphic file (type png)
 <use assets/use-case-2/peer-config-approve-chaincode.png>
-Package pdftex.def Info: assets/use-case-2/peer-config-approve-chaincode.png  u
-sed on input line 957.
-(pdftex.def)             Requested size: 227.62206pt x 115.51085pt.
-
-[103 <./assets/use-case-2/peer-config-join-channel.png> <./assets/use-case-2/pe
-er-config-install-chaincode.png> <./assets/use-case-2/peer-config-query-chainco
-de.png>]
-<assets/use-case-2/peer-config-query-chaincode-approvals.png, id=481, 1606.0pt 
-x 847.165pt>
-File: assets/use-case-2/peer-config-query-chaincode-approvals.png Graphic file 
-(type png)
+Package luatex.def Info: assets/use-case-2/peer-config-approve-chaincode.png  used on input line 845.
+(luatex.def)             Requested size: 227.62206pt x 115.51085pt.
+<assets/use-case-2/peer-config-query-chaincode-approvals.png, id=396, 1606.0pt x 847.165pt>
+File: assets/use-case-2/peer-config-query-chaincode-approvals.png Graphic file (type png)
 <use assets/use-case-2/peer-config-query-chaincode-approvals.png>
-Package pdftex.def Info: assets/use-case-2/peer-config-query-chaincode-approval
-s.png  used on input line 966.
-(pdftex.def)             Requested size: 227.62206pt x 120.063pt.
-<assets/use-case-2/peer-config-commit-chaincode.png, id=482, 1606.0pt x 838.131
-26pt>
-File: assets/use-case-2/peer-config-commit-chaincode.png Graphic file (type png
-)
+Package luatex.def Info: assets/use-case-2/peer-config-query-chaincode-approvals.png  used on input line 854.
+(luatex.def)             Requested size: 227.62206pt x 120.063pt.
+ [81<./assets/use-case-2/peer-config-install-chaincode.png><./assets/use-case-2/peer-config-query-chaincode.png><./assets/use-case-2/peer-config-approve-chaincode.png>]
+<assets/use-case-2/peer-config-commit-chaincode.png, id=400, 1606.0pt x 838.13126pt>
+File: assets/use-case-2/peer-config-commit-chaincode.png Graphic file (type png)
 <use assets/use-case-2/peer-config-commit-chaincode.png>
-Package pdftex.def Info: assets/use-case-2/peer-config-commit-chaincode.png  us
-ed on input line 975.
-(pdftex.def)             Requested size: 227.62206pt x 118.78271pt.
-<assets/use-case-2/peer-config-invoke-chaincode.png, id=483, 1606.0pt x 842.146
-26pt>
-File: assets/use-case-2/peer-config-invoke-chaincode.png Graphic file (type png
-)
+Package luatex.def Info: assets/use-case-2/peer-config-commit-chaincode.png  used on input line 863.
+(luatex.def)             Requested size: 227.62206pt x 118.78271pt.
+<assets/use-case-2/peer-config-invoke-chaincode.png, id=401, 1606.0pt x 842.14626pt>
+File: assets/use-case-2/peer-config-invoke-chaincode.png Graphic file (type png)
 <use assets/use-case-2/peer-config-invoke-chaincode.png>
-Package pdftex.def Info: assets/use-case-2/peer-config-invoke-chaincode.png  us
-ed on input line 984.
-(pdftex.def)             Requested size: 227.62206pt x 119.35173pt.
- [104 <./assets/use-case-2/peer-config-approve-chaincode.png> <./assets/use-cas
-e-2/peer-config-query-chaincode-approvals.png> <./assets/use-case-2/peer-config
--commit-chaincode.png>]
-<assets/use-case-2/peer-config-custom-commands.png, id=487, 1606.0pt x 840.1387
-5pt>
+Package luatex.def Info: assets/use-case-2/peer-config-invoke-chaincode.png  used on input line 872.
+(luatex.def)             Requested size: 227.62206pt x 119.35173pt.
+<assets/use-case-2/peer-config-custom-commands.png, id=402, 1606.0pt x 840.13875pt>
 File: assets/use-case-2/peer-config-custom-commands.png Graphic file (type png)
-
 <use assets/use-case-2/peer-config-custom-commands.png>
-Package pdftex.def Info: assets/use-case-2/peer-config-custom-commands.png  use
-d on input line 993.
-(pdftex.def)             Requested size: 227.62206pt x 119.06721pt.
-<assets/use-case-2/orderer-config-creating-channel.png, id=488, 1606.0pt x 808.
-01875pt>
-File: assets/use-case-2/orderer-config-creating-channel.png Graphic file (type 
-png)
+Package luatex.def Info: assets/use-case-2/peer-config-custom-commands.png  used on input line 881.
+(luatex.def)             Requested size: 227.62206pt x 119.06721pt.
+ [82<./assets/use-case-2/peer-config-query-chaincode-approvals.png><./assets/use-case-2/peer-config-commit-chaincode.png><./assets/use-case-2/peer-config-invoke-chaincode.png>]
+<assets/use-case-2/orderer-config-creating-channel.png, id=406, 1606.0pt x 808.01875pt>
+File: assets/use-case-2/orderer-config-creating-channel.png Graphic file (type png)
 <use assets/use-case-2/orderer-config-creating-channel.png>
-Package pdftex.def Info: assets/use-case-2/orderer-config-creating-channel.png 
- used on input line 1005.
-(pdftex.def)             Requested size: 227.62206pt x 114.51506pt.
-<assets/use-case-2/orderer-config-join-channel.png, id=489, 1606.0pt x 838.1312
-6pt>
+Package luatex.def Info: assets/use-case-2/orderer-config-creating-channel.png  used on input line 893.
+(luatex.def)             Requested size: 227.62206pt x 114.51506pt.
+<assets/use-case-2/orderer-config-join-channel.png, id=407, 1606.0pt x 838.13126pt>
 File: assets/use-case-2/orderer-config-join-channel.png Graphic file (type png)
-
 <use assets/use-case-2/orderer-config-join-channel.png>
-Package pdftex.def Info: assets/use-case-2/orderer-config-join-channel.png  use
-d on input line 1014.
-(pdftex.def)             Requested size: 227.62206pt x 118.78271pt.
- [105 <./assets/use-case-2/peer-config-invoke-chaincode.png> <./assets/use-case
--2/peer-config-custom-commands.png> <./assets/use-case-2/orderer-config-creatin
-g-channel.png>]
-<assets/use-case-2/orderer-config-query-channels.png, id=493, 1606.0pt x 837.12
-75pt>
-File: assets/use-case-2/orderer-config-query-channels.png Graphic file (type pn
-g)
+Package luatex.def Info: assets/use-case-2/orderer-config-join-channel.png  used on input line 902.
+(luatex.def)             Requested size: 227.62206pt x 118.78271pt.
+<assets/use-case-2/orderer-config-query-channels.png, id=408, 1606.0pt x 837.1275pt>
+File: assets/use-case-2/orderer-config-query-channels.png Graphic file (type png)
 <use assets/use-case-2/orderer-config-query-channels.png>
-Package pdftex.def Info: assets/use-case-2/orderer-config-query-channels.png  u
-sed on input line 1023.
-(pdftex.def)             Requested size: 227.62206pt x 118.64046pt.
-<assets/use-case-2/orderer-config-custom-commands.png, id=494, 1606.0pt x 827.0
-9pt>
-File: assets/use-case-2/orderer-config-custom-commands.png Graphic file (type p
-ng)
+Package luatex.def Info: assets/use-case-2/orderer-config-query-channels.png  used on input line 911.
+(luatex.def)             Requested size: 227.62206pt x 118.64046pt.
+ [83<./assets/use-case-2/peer-config-custom-commands.png><./assets/use-case-2/orderer-config-creating-channel.png><./assets/use-case-2/orderer-config-join-channel.png>]
+<assets/use-case-2/orderer-config-custom-commands.png, id=412, 1606.0pt x 827.09pt>
+File: assets/use-case-2/orderer-config-custom-commands.png Graphic file (type png)
 <use assets/use-case-2/orderer-config-custom-commands.png>
-Package pdftex.def Info: assets/use-case-2/orderer-config-custom-commands.png  
-used on input line 1032.
-(pdftex.def)             Requested size: 227.62206pt x 117.21791pt.
- [106 <./assets/use-case-2/orderer-config-join-channel.png> <./assets/use-case-
-2/orderer-config-query-channels.png> <./assets/use-case-2/orderer-config-custom
--commands.png>]
-<assets/use-case-2/final-arch.png, id=499, 1463.4675pt x 687.56876pt>
+Package luatex.def Info: assets/use-case-2/orderer-config-custom-commands.png  used on input line 920.
+(luatex.def)             Requested size: 227.62206pt x 117.21791pt.
+<assets/use-case-2/final-arch.png, id=413, 1463.4675pt x 687.56876pt>
 File: assets/use-case-2/final-arch.png Graphic file (type png)
 <use assets/use-case-2/final-arch.png>
-Package pdftex.def Info: assets/use-case-2/final-arch.png  used on input line 1
-046.
-(pdftex.def)             Requested size: 227.62206pt x 106.93925pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 1056--1057
-
- []
-
-[107 <./assets/use-case-2/final-arch.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 1110--1111
+Package luatex.def Info: assets/use-case-2/final-arch.png  used on input line 934.
+(luatex.def)             Requested size: 227.62206pt x 106.93925pt.
+ [84<./assets/use-case-2/orderer-config-query-channels.png><./assets/use-case-2/orderer-config-custom-commands.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 944--945
 
  []
 
-<assets/use-case-2/SWOT-use-case-2.png, id=503, 770.88pt x 578.16pt>
+
+Underfull \hbox (badness 10000) in paragraph at lines 998--999
+
+ []
+
+[85<./assets/use-case-2/final-arch.png>]
+<assets/use-case-2/SWOT-use-case-2.png, id=420, 770.88pt x 578.16pt>
 File: assets/use-case-2/SWOT-use-case-2.png Graphic file (type png)
 <use assets/use-case-2/SWOT-use-case-2.png>
-Package pdftex.def Info: assets/use-case-2/SWOT-use-case-2.png  used on input l
-ine 1116.
-(pdftex.def)             Requested size: 227.62206pt x 170.71451pt.
-[108 <./assets/use-case-2/SWOT-use-case-2.png (PNG copy)>]
-Underfull \hbox (badness 10000) in paragraph at lines 1131--1132
+Package luatex.def Info: assets/use-case-2/SWOT-use-case-2.png  used on input line 1004.
+(luatex.def)             Requested size: 227.62206pt x 170.71451pt.
+ [86<./assets/use-case-2/SWOT-use-case-2.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 1019--1020
 
  []
 
-[109] [110] [111]) (./7-Conclusions.tex [112]) (./8-References.tex [113]
-[114]
-Overfull \hbox (5.82982pt too wide) in paragraph at lines 4--4
-[][]\OT1/cmr/m/n/10.95 Lamport, L. (1998). The part-time par-lia-ment. \OT1/cmr
-/m/it/10.95 ACM Trans-ac-tions on Com-puter Sys-tems (TOCS)\OT1/cmr/m/n/10.95 ,
-
+[87] [88]) (./7-Conclusions.tex [89]
+Overfull \hbox (2.03558pt too wide) in paragraph at lines 9--10
+[]\TU/NewsGotT(0)/m/it/10.95 Fur-ther-more, this re-search con-tributes to on-go-ing dis-cus-sions around the trans-for-ma-tive po-ten-tial of blockchain
  []
 
-[115] [116]
-Overfull \hbox (1.89572pt too wide) in paragraph at lines 4--4
-\OT1/cmr/m/n/10.95 Asym-met-ric com-mu-ni-ca-tion with ip spoof-ing for censors
-hip-resistant web brows-ing. $https :
+) (./8-References.tex [90] [91] [92]
+Overfull \hbox (49.60872pt too wide) in paragraph at lines 4--4
+[][]\TU/NewsGotT(0)/m/it/10.95 Sakız, B., & Gencer, A. (2021). Blockchain be-yond cryp-tocur-rency: Non-fungible to-kens [Avail-able at: https://www.avekon.org/pa-
  []
 
-[117]
-Overfull \hbox (2.25847pt too wide) in paragraph at lines 4--4
-\OT1/cmr/m/n/10.95 tonomous in-network com-put-ing. \OT1/cmr/m/it/10.95 Pro-cee
-d-ings of the 9th ACM Con-fer-ence on Information-
- []
-
-[118] [119]
+[93] [94]
 
 Package biblatex Warning: No driver for 'internetdraft'.
 (biblatex)                Using fallback driver on input line 3.
 
-[120]) (./9-AppendixI-AbstractofSubmittedArticles.tex
+[95]) (./9-AppendixI-AbstractofSubmittedArticles.tex
 Underfull \hbox (badness 10000) in paragraph at lines 1--2
-
- []
-
-
-Overfull \hbox (136.48479pt too wide) in paragraph at lines 20--22
-[]\OT1/cmr/bx/n/10.95 Keywords\OT1/cmr/m/n/10.95 : Blockchain;Healthcare In-dus
--try;Data In-tegrity;Ipfs;Hyper Ledger Fab-ric;Kubernetes;Security;Permissioned
 
  []
 
@@ -2602,45 +2364,37 @@ Underfull \hbox (badness 10000) in paragraph at lines 23--24
 
  []
 
-[121]) (./main.aux)
+[96]) (./main.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-02-20>
  ***********
 
 
-LaTeX Warning: There were undefined references.
+LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
 
 LaTeX Warning: There were multiply-defined labels.
 
-
-Package biblatex Warning: Please (re)run Biber on the file:
-(biblatex)                main
-(biblatex)                and rerun LaTeX afterwards.
-
 Package logreq Info: Writing requests to 'main.run.xml'.
-\openout1 = `main.run.xml'.
 
- ) 
-Here is how much of TeX's memory you used:
- 18214 strings out of 474116
- 366734 string characters out of 5743682
- 1948187 words of memory out of 5000000
- 40331 multiletter control sequences out of 15000+600000
- 566600 words of font info for 65 fonts, out of 8000000 for 9000
- 1141 hyphenation exceptions out of 8191
- 66i,12n,81p,3582b,5052s stack positions out of 10000i,1000n,20000p,200000b,200000s
-</usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb
-></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb>
-</usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></
-usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></u
-sr/local/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfbx1095.pfb></usr
-/local/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfrm1095.pfb>
-Output written on main.pdf (136 pages, 9720384 bytes).
-PDF statistics:
- 581 PDF objects out of 1000 (max. 8388607)
- 321 compressed objects within 4 object streams
- 0 named destinations out of 1000 (max. 500000)
- 426 words of extra memory for PDF output out of 10000 (max. 10000000)
+\openout1 = main.run.xml
+)
+
+Here is how much of LuaTeX's memory you used:
+ 20768 strings out of 476447
+ 125161,1977958 words of node,token memory allocated
+ 657 words of node memory still in use:
+   7 hlist, 2 vlist, 2 rule, 1 local_par, 4 glue, 5 kern, 1 penalty, 3 glyph, 9 attribute, 74 glue_spec, 9 attribute_list, 1 write nodes
+   avail lists: 1:2,2:1515,3:747,4:192,5:359,6:146,7:11682,8:60,9:999,10:33,11:1012,12:2
+ 42195 multiletter control sequences out of 65536+600000
+ 51 fonts using 2783103 bytes
+ 79i,12n,89p,3633b,5048s stack positions out of 10000i,1000n,20000p,200000b,200000s
+</Users/pedromn35/Library/Fonts/n015003t.ttf></Users/pedromn35/Library/Fonts/n015006t.ttf>
+Output written on main.pdf (111 pages, 9605288 bytes).
+
+PDF statistics: 474 PDF objects out of 1000 (max. 8388607)
+ 246 compressed objects within 3 object streams
+ 0 named destinations out of 1000 (max. 131072)
+ 1 words of extra memory for PDF output out of 10000 (max. 100000000)
 

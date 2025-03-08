@@ -1,0 +1,587 @@
+@article{it-challenges-healthcare,
+  title={Organizational challenges and barriers to implementing IT governance in a hospital},
+  author={Lap{\~a}o, Lu{\'\i}s Velez},
+  journal={Electronic journal of information systems evaluation},
+  volume={14},
+  number={1},
+  pages={pp37--45},
+  year={2011}
+}
+
+@article{healthcare-data-fragmentation,
+  title={Addressing Fragmentation of Health Services through Data-Driven Knowledge Co-Production within a Boundary Organization},
+  author={Pine, Kathleen H and Hinrichs, Margaret and Love, Kailey and Shafer, Michael and Runger, George and Riley, William},
+  journal={The Journal of Community Informatics},
+  volume={18},
+  number={2},
+  pages={3--26},
+  year={2022}
+}
+
+@inproceedings{healthcare-data-breaches,
+  title={Healthcare data breaches: insights and implications},
+  author={Seh, Adil Hussain and Zarour, Mohammad and Alenezi, Mamdouh and Sarkar, Amal Krishna and Agrawal, Alka and Kumar, Rajeev and Ahmad Khan, Raees},
+  booktitle={Healthcare},
+  volume={8},
+  number={2},
+  pages={133},
+  year={2020},
+  organization={MDPI}
+}
+
+@misc{btc,
+	author       = {Satoshi Nakamoto},
+	title        = {Bitcoin: A Peer-to-Peer Electronic Cash System},
+	year         = {2008},
+	howpublished = {\url{https://bitcoin.org/bitcoin.pdf}},
+	note         = {Accessed: 2024-09-27}
+}
+
+
+@inproceedings{hyperledger,
+  title={Hyperledger fabric: a distributed operating system for permissioned blockchains},
+  author={Androulaki, Elli and Barger, Artem and Bortnikov, Vita and Cachin, Christian and Christidis, Konstantinos and De Caro, Angelo and Enyeart, David and Ferris, Christopher and Laventman, Gennady and Manevich, Yacov and others},
+  booktitle={Proceedings of the thirteenth EuroSys conference},
+  pages={1--15},
+  year={2018}
+}
+
+@article{hyperledger-hippa-and-gdpr,
+  title={The case of HyperLedger Fabric as a blockchain solution for healthcare applications},
+  author={Antwi, McSeth and Adnane, Asma and Ahmad, Farhan and Hussain, Rasheed and ur Rehman, Muhammad Habib and Kerrache, Chaker Abdelaziz},
+  journal={Blockchain: Research and Applications},
+  volume={2},
+  number={1},
+  pages={100012},
+  year={2021},
+  publisher={Elsevier}
+}
+
+@article{data-integrity-healthcare,
+  title={Key issues in healthcare data integrity: Analysis and recommendations},
+  author={Pandey, Abhishek Kumar and Khan, Asif Irshad and Abushark, Yoosef B and Alam, Md Mottahir and Agrawal, Alka and Kumar, Rajeev and Khan, Raees Ahmad},
+  journal={IEEE Access},
+  volume={8},
+  pages={40612--40628},
+  year={2020},
+  publisher={IEEE}
+}
+
+@article{multisectoral-healthcare,
+  title={Multisectoral interventions and health system performance: a systematic review},
+  author={Sutarsa, I Nyoman and Campbell, Lachlan and Ariawan, I Made Dwi and Kasim, Rosny and Marten, Robert and Rajan, Dheepa and Dykgraaf, Sally Hall},
+  journal={Bulletin of the World Health Organization},
+  volume={102},
+  number={7},
+  pages={521},
+  year={2024}
+}
+
+@article{kubernetes,
+  title={Kubernetes},
+  author={Kubernetes, T},
+  journal={Kubernetes. Retrieved May},
+  volume={24},
+  pages={2019},
+  year={2019}
+}
+
+@article{data-volume-increase-healthcare,
+  title={Volume and value of big healthcare data},
+  author={Dinov, Ivo D},
+  journal={Journal of medical statistics and informatics},
+  volume={4},
+  year={2016},
+  publisher={NIH Public Access}
+}
+
+@incollection{healthcare-privacy,
+  title={Healthcare privacy},
+  author={Motti, Vivian Genaro and Berkovsky, Shlomo},
+  booktitle={Modern Socio-Technical Perspectives on Privacy},
+  pages={203--231},
+  year={2022},
+  publisher={Springer International Publishing Cham}
+}
+
+@online{data-breaches-2021,
+  author    = {HIPAA Journal},
+  title     = {Largest Healthcare Data Breaches of 2021},
+  year      = {2022},
+  url       = {https://www.hipaajournal.com/largest-healthcare-data-breaches-of-2021/},
+  note      = {Accessed: 2025-02-02}
+}
+
+@article{legacy-healthcare,
+  title={The impact of legacy systems on digital transformation in European public administration: Lesson learned from a multi case analysis},
+  author={Irani, Zahir and Abril, Raul M and Weerakkody, Vishanth and Omar, Amizan and Sivarajah, Uthayasankar},
+  journal={Government Information Quarterly},
+  volume={40},
+  number={1},
+  pages={101784},
+  year={2023},
+  publisher={Elsevier}
+}
+
+@article{blockchain-in-finance,
+  title={Blockchain in finance},
+  author={Varma, Jayanth Rama},
+  journal={Vikalpa},
+  volume={44},
+  number={1},
+  pages={1--11},
+  year={2019},
+  publisher={SAGE Publications Sage India: New Delhi, India}
+}
+
+@article{blockchain-in-supply-chain,
+  title={Blockchain and supply chain management integration: a systematic review of the literature},
+  author={Queiroz, Maciel M and Telles, Renato and Bonilla, Silvia H},
+  journal={Supply chain management: An international journal},
+  volume={25},
+  number={2},
+  pages={241--254},
+  year={2020},
+  publisher={Emerald Publishing Limited}
+}
+
+@article{cryptocurrencies-phenomenom, 
+title={Anatomy Of Cryptocurrencies}, 
+journal={Uluslararası Sosyal Bilimler Akademi Dergisi}, 
+pages={412–427}, year={2023}, 
+DOI={10.47994/usbad.1385275}, 
+author={Kalaycı, İrfan}, 
+keywords={Cryptocracy, Cryptocurrencies, 
+Bitcoin, SWOT Analysis},
+number={13}, 
+publisher={Salim DURUKOĞLU}}
+
+@article{CDBC,
+	author = {Cindy Cintania Amarta and F. Latifah},
+	title = {The Influence of Understanding Financial Literacy and Community Readiness on the Use of Central Bank Digital Currency (CBDC)},
+	journal = {Jurnal Ekonomi Syariah Indonesia (JESI)},
+	volume = {13},
+	number = {1},
+	pages = {45-53},
+	year = {2023},
+	doi = {10.21927/jesi.2023.13(1).45-53},
+	url = {https://dx.doi.org/10.21927/jesi.2023.13(1).45-53},
+	month = {March}
+}
+
+@book{healthcare-and-blockchain,
+	title="Analyzing the Prospects of Blockchain in Healthcare Industry",
+	author="Millie Pant,Sunil Kumar Jauhar,and Atulya K. Nagar",
+	year="2022",
+	publisher="Hindawi"
+}
+
+@article{blockchain-in-healthcare,
+	author    = {A. Hasselgren and K. Kralevska and D. Gligoroski and S. A. Pedersen and A. Faxvaag},
+	title     = {Blockchain in healthcare and health sciences—A scoping review},
+	journal   = {International Journal of Medical Informatics},
+	volume    = {134},
+	pages     = {104040},
+	year      = {2020},
+	month     = {December},
+	doi       = {10.1016/j.ijmedinf.2019.104040}
+}
+
+@inproceedings{introduction-blockchain,
+	author    = {Z. Alhadhrami and S. Alghfeli and M. Alghfeli and J. A. Abedlla and K. Shuaib},
+	title     = {Introducing blockchains for healthcare},
+	booktitle = {2017 International Conference on Electrical and Computing Technologies and Applications (ICECTA)},
+	volume    = {2018-Janua},
+	pages     = {1--4},
+	year      = {2017},
+	doi       = {10.1109/ICECTA.2017.8252043}
+}
+
+@article{blockchain-security-issues-and-challenges,
+	author    = {I. C. Lin and T. C. Liao},
+	title     = {A survey of blockchain security issues and challenges},
+	journal   = {International Journal of Network Security},
+	volume    = {19},
+	number    = {5},
+	pages     = {653--659},
+	year      = {2017},
+	doi       = {10.6633/IJNS.201709.19(5).01}
+}
+
+
+@article{data-processing-view-blockchain,
+	author    = {T. T. A. Dinh and R. Liu and M. Zhang and G. Chen and B. C. Ooi and J. Wang},
+	title     = {Untangling Blockchain: A Data Processing View of Blockchain Systems},
+	journal   = {IEEE Transactions on Knowledge and Data Engineering},
+	volume    = {30},
+	number    = {7},
+	pages     = {1366--1385},
+	year      = {2018},
+	doi       = {10.1109/TKDE.2017.2781227}
+}
+
+
+@inproceedings{ICP,
+  title={Modelling of the internet computer protocol architecture: The next generation blockchain},
+  author={Li, AoXuan and Serena, Luca and Zichichi, Mirko and Tang, Su-Kit and D’Angelo, Gabriele and Ferretti, Stefano},
+  booktitle={International Congress on Blockchain and Applications},
+  pages={3--12},
+  year={2022},
+  organization={Springer}
+}
+
+@article{solana,
+  title={Solana: A new architecture for a high performance blockchain v0. 8.13},
+  author={Yakovenko, Anatoly},
+  journal={Whitepaper},
+  year={2018}
+}
+
+@inproceedings{tron-and-eth,
+  title={A qualitative and quantitative parametric estimation of the Ethereum and TRON blockchain networks},
+  author={Yadav, Jitendra Singh and Yadav, Narendra Singh and Sharma, Akhilesh Kumar},
+  booktitle={2021 9th International Conference on Reliability, Infocom Technologies and Optimization (Trends and Future Directions)(ICRITO)},
+  pages={1--5},
+  year={2021},
+  organization={IEEE}
+}
+
+@article{private-blockchain,
+  title={Private blockchain in industrial IoT},
+  author={Jo, Minho and Hu, Kai and Yu, Richard and Sun, Li and Conti, Mauro and Du, Qinghe},
+  journal={IEEE Network},
+  volume={34},
+  number={5},
+  pages={76--77},
+  year={2020},
+  publisher={IEEE}
+}
+
+@article{consortium-blockchain,
+  title={Consortium blockchains: Overview, applications and challenges},
+  author={Dib, Omar and Brousmiche, Kei-Leo and Durand, Antoine and Thea, Eric and Hamida, Elyes Ben},
+  journal={Int. J. Adv. Telecommun},
+  volume={11},
+  number={1},
+  pages={51--64},
+  year={2018}
+}
+
+@inproceedings{R3CEV,
+  title={The application of blockchain technology in financial markets},
+  author={Wu, Binghui and Duan, Tingting},
+  booktitle={Journal of Physics: Conference Series},
+  volume={1176},
+  number={4},
+  pages={042094},
+  year={2019},
+  organization={IOP Publishing}
+}
+
+@article{private-vs-public-vs-consortium,
+  title={A survey on security and privacy issues of blockchain technology.},
+  author={Joshi, Archana Prashanth and Han, Meng and Wang, Yan},
+  journal={Mathematical foundations of computing},
+  volume={1},
+  number={2},
+  year={2018}
+}
+
+@article{systematic-review-of-blockchain,
+	author = {M. Hölbl and M. Kompara and A. Kamišalić and L. N. Zlatolas},
+	title = {A systematic review of the use of blockchain in healthcare},
+	journal = {Symmetry},
+	volume = {10},
+	number = {10},
+	year = {2018},
+	pages = {470},
+	doi = {10.3390/sym10100470},
+}
+
+@inproceedings{healthcare-theft-data,
+  title={Data hemorrhages in the health-care sector},
+  author={Johnson, M Eric},
+  booktitle={Financial Cryptography and Data Security: 13th International Conference, FC 2009, Accra Beach, Barbados, February 23-26, 2009. Revised Selected Papers 13},
+  pages={71--89},
+  year={2009},
+  organization={Springer}
+}
+
+@article{blockchain-in-healthcare-2,
+	author = {M. Prokofieva and S. J. Miah},
+	title = {Blockchain in healthcare},
+	journal = {Australasian Journal of Information Systems},
+	volume = {23},
+	pages = {1--22},
+	year = {2019},
+	doi = {10.3127/ajis.v23i0.2203},
+}
+
+@article{blockchain-counterfeit,
+  title={Blockchain technology in pharmaceutical industry to prevent counterfeit drugs},
+  author={Haq, Ijazul and Esuka, Olivier Muselemu},
+  journal={International Journal of Computer Applications},
+  volume={180},
+  number={25},
+  pages={8--12},
+  year={2018}
+}
+
+@article{blockchain-patient-control,
+  title={Blockchain for giving patients control over their medical records},
+  author={Madine, Mohammad Moussa and Battah, Ammar Ayman and Yaqoob, Ibrar and Salah, Khaled and Jayaraman, Raja and Al-Hammadi, Yousof and Pesic, Sasa and Ellahham, Samer},
+  journal={IEEE Access},
+  volume={8},
+  pages={193102--193115},
+  year={2020},
+  publisher={IEEE}
+}
+
+@online{IBM-reference,
+  author    = {IBM Institute for Business Value},
+  title     = {Healthcare rallies for blockchain: Keeping patients at the center},
+  year      = {2016},
+  url       = {https://cdn.meritalk.com/articles/ibm-fda-explore-blockchain-to-secure-health-data/},
+  note      = {Accessed: 2025-02-02}
+}
+
+@article{blockchain-distributed-ledger-biomedical,
+	author = {T. T. Kuo and H. E. Kim and L. Ohno-Machado},
+	title = {Blockchain distributed ledger technologies for biomedical and health care applications},
+	journal = {Journal of the American Medical Informatics Association},
+	volume = {24},
+	number = {6},
+	pages = {1211--1220},
+	year = {2017},
+	doi = {10.1093/jamia/ocx068},
+}
+
+@article{blockchain-research-challenges,
+	author = {T. McGhin and K. K. R. Choo and C. Z. Liu and D. He},
+	title = {Blockchain in healthcare applications: Research challenges and opportunities},
+	journal = {Journal of Network and Computer Applications},
+	volume = {135},
+	number = {February},
+	pages = {62--75},
+	year = {2019},
+	doi = {10.1016/j.jnca.2019.02.027},
+}
+
+@article{encryption-algorithms,
+  title={A review and comparative analysis of various encryption algorithms},
+  author={Bhanot, Rajdeep and Hans, Rahul},
+  journal={International Journal of Security and Its Applications},
+  volume={9},
+  number={4},
+  pages={289--306},
+  year={2015}
+}
+
+@incollection{privacy-healthcare,
+  title={Healthcare privacy},
+  author={Motti, Vivian Genaro and Berkovsky, Shlomo},
+  booktitle={Modern socio-technical perspectives on privacy},
+  pages={203--231},
+  year={2022},
+  publisher={Springer International Publishing Cham}
+}
+
+@inproceedings{blockchain-utilization-in-healthcare,
+	author = {T. Kumar and V. Ramani and I. Ahmad and A. Braeken and E. Harjula and M. Ylianttila},
+	title = {Blockchain utilization in healthcare: Key requirements and challenges},
+	booktitle = {2018 IEEE 20th International Conference on e-Health Networking, Applications and Services (HealthCom)},
+	pages = {1--7},
+	year = {2018},
+	doi = {10.1109/HealthCom.2018.8531136},
+}
+
+@article{implementation-requirements-blockchain,
+	abstract = {Blockchains are proposed for many application domains apart from financial transactions. While there are generic blockchains that can be molded for specific use cases, they often lack a lightweight and easy-to-customize implementation. In this paper, we introduce the core concepts of blockchain technology and investigate a real-world use case from the energy domain, where customers trade portions of their photovoltaic power plant via a blockchain. This does not only involve blockchain technology, but also requires user interaction. Therefore, a fully custom, private, and permissioned blockchain is implemented from scratch. We evaluate and motivate the need for blockchain technology within this use case, as well as the desired properties of the system. We then describe the implementation and the insights from our implementation in detail, serving as a guide for others and to show potential opportunities and pitfalls when implementing a blockchain from scratch.},
+	author = {Knirsch, Fabian and Unterweger, Andreas and Engel, Dominik},
+	date = {2019/03/11},
+	date-added = {2025-01-26 18:48:46 +0100},
+	date-modified = {2025-01-26 18:48:46 +0100},
+	doi = {10.1186/s13635-019-0085-3},
+	id = {Knirsch2019},
+	isbn = {2510-523X},
+	journal = {EURASIP Journal on Information Security},
+	number = {1},
+	pages = {2},
+	title = {Implementing a blockchain from scratch: why, how, and what we learned},
+	url = {https://doi.org/10.1186/s13635-019-0085-3},
+	volume = {2019},
+	year = {2019},
+	bdsk-url-1 = {https://doi.org/10.1186/s13635-019-0085-3}}
+
+@inproceedings{med-rec,
+	author = {A. Azaria and A. Ekblaw and T. Vieira and A. Lippman},
+	title = {MedRec: Using blockchain for medical data access and permission management},
+	booktitle = {2016 2nd International Conference on Open and Big Data (OBD)},
+	pages = {25--30},
+	year = {2016},
+}
+
+@article{blockchain-interop,
+  author = {Crosby, M. and Pattanayak, P. and Verma, S. and Kalyanaraman, V.},
+  title = {Blockchain technology: Beyond bitcoin},
+  journal = {Applied Innovation Review},
+  year = {2016},
+  volume = {2},
+  pages = {6-10},
+}
+
+@article{confidentiality-and-transparency,
+  title={Blockchain as supply chain technology: considering transparency and security},
+  author={Xu, Pei and Lee, Joonghee and Barth, James R and Richey, Robert Glenn},
+  journal={International Journal of Physical Distribution \& Logistics Management},
+  volume={51},
+  number={3},
+  pages={305--324},
+  year={2021},
+  publisher={Emerald Publishing Limited}
+}
+
+@misc{ethereum-scaling,
+  author = {Wood, G.},
+  title = {Ethereum: A secure decentralized generalised transaction ledger},
+  year = {2014},
+  note = {Ethereum Project Yellow Paper},
+  url = {https://ethereum.github.io/yellowpaper/paper.pdf},
+}
+
+@inproceedings{hyperledger-cost,
+  author = {Cachin, C.},
+  title = {Architecture of the Hyperledger blockchain fabric},
+  booktitle = {Proceedings of the 2016 ACM Workshop on Blockchain-enabled Networked Systems},
+  year = {2016},
+  pages = {1-6},
+  publisher = {ACM},
+  doi = {10.1145/2993653.2993657},
+}
+
+
+@article{blockchain-standards,
+  title={Blockchain standards for compliance and trust},
+  author={Anjum, Ashiq and Sporny, Manu and Sill, Alan},
+  journal={IEEE Cloud Computing},
+  volume={4},
+  number={4},
+  pages={84--90},
+  year={2017},
+  publisher={IEEE}
+}
+
+@article{cultural-resistance,
+  title={Blocking blockchain: Examining the social, cultural, and institutional factors causing innovation resistance to digital technology in seafood supply chains},
+  author={Thompson, Benjamin S and Rust, Sascha},
+  journal={Technology in Society},
+  volume={73},
+  pages={102235},
+  year={2023},
+  publisher={Elsevier}
+}
+
+
+@article{apps-block-healthcare,
+	author = {L. Bell and W. J. Buchanan and J. Cameron and O. Lo},
+	title = {Applications of Blockchain Within Healthcare},
+	journal = {Blockchain in Healthcare Today},
+	volume = {1},
+	pages = {1--7},
+	year = {2018},
+	doi = {10.30953/bhty.v1.8},
+}
+
+
+@article{block-apps-increased-transparency,
+	author = {P. E. Velmovitsky and F. M. Bublitz and L. X. Fadrique and P. P. Morita},
+	title = {Blockchain applications in health care and public health: Increased transparency},
+	journal = {JMIR Medical Informatics},
+	volume = {9},
+	number = {6},
+	year = {2021},
+	doi = {10.2196/20713},
+}
+
+@misc{health-verity,
+	title = {About Us - HealthVerity},
+	url = {https://healthverity.com/about-us/},
+	note = {Accessed: Jan. 25, 2024},
+}
+
+@misc{health-wizz,
+	title = {About - HealthWIzz},
+	howpublished = {Available at: \url{https://healthwizz.com/about/}},
+	note = {Accessed: Jan. 25, 2024},
+}
+
+
+@article{blockchain-pharmaceutical-cold-chain,
+	author = {S. M. Hosseini Bamakan and S. Ghasemzadeh Moghaddam and S. Dehghan Manshadi},
+	title = {Blockchain-enabled pharmaceutical cold chain: Applications, key challenges, and future trends},
+	journal = {Journal of Cleaner Production},
+	volume = {302},
+	pages = {127021},
+	year = {2021},
+	doi = {10.1016/j.jclepro.2021.127021},
+}
+
+
+@article{medicalchain,
+  title={Blockchain Application in Healthcare: The Example of Farmatrust, Medicalchain and E-Hcert},
+  author={Rojnic, Sven},
+  journal={Amsterdam LF},
+  volume={14},
+  pages={69},
+  year={2022},
+  publisher={HeinOnline}
+}
+
+@incollection{coral-health,
+  title={Blockchain Revolution: Using Distributed Ledger Technology to Transform Healthcare in WSN-IoT Environment},
+  author={Wadhwa, Shivani and Gupta, Divya and others},
+  booktitle={Emerging Technologies and the Application of WSN and IoT},
+  pages={112--128},
+  publisher={CRC Press}
+}
+
+@misc{poki-dok,
+  title={Transforming the US healthcare industry with blockchain technology},
+  author={De Martino, F Dario and Klein, Spencer D and O’Neil, Julie and Huang, Yiyang and Nisson, Lee and Race, Mary},
+  year={2019},
+  publisher={Lex Mundi Blockchain White Paper Series, viewed nd, from https://media2~…}
+}
+
+@misc{crunchbase,
+	title = {Shivom - Crunchbase Company Profile \& Funding},
+	url = {https://www.crunchbase.com/organization/project-shivom},
+	note = {Accessed: Jan. 25, 2024},
+}
+
+@article{blockchain-implementation-review-conceptual,
+	author = {A. Ghadge and M. Bourlakis and S. Kamble and S. Seuring},
+	title = {Blockchain implementation in pharmaceutical supply chains: A review and conceptual framework},
+	journal = {International Journal of Production Research},
+	volume = {61},
+	number = {19},
+	pages = {6633--6651},
+	year = {2023},
+	doi = {10.1080/00207543.2022.2125595},
+}
+
+@misc{chronicled,
+	title = {Chronicled},
+	url = {https://www.chronicled.com/},
+	note = {Accessed: Jan. 25, 2024},
+}
+
+@article{potential-blockchain-tech,
+	author = {H. I. Ozercan and A. M. Ileri and E. Ayday and C. Alkan},
+	title = {Realizing the potential of blockchain technologies in genomics},
+	journal = {Genome Research},
+	volume = {28},
+	number = {9},
+	pages = {1255--1263},
+	year = {2018},
+	doi = {10.1101/gr.207464.116},
+}

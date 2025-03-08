@@ -12,6 +12,8 @@
 \usepackage{longtable} % for a table with multiple pages
 \usepackage{microtype}
 \microtypesetup{expansion=false}  % Disable font expansion to avoid errors
+\usepackage{fontspec}
+\setmainfont{NewsGotT}
 
 
 % 1.5 space between lines
@@ -45,6 +47,8 @@
 \pagestyle{fancy}
 \fancyhf{}
 \rfoot{\thepage}
+
+\fontsize{12}{14}\selectfont % 12pt font with 14pt line spacing
 
 \setlength\parindent{24pt}
 \newcommand\tab[1][0.8cm]{\hspace*{#1}}

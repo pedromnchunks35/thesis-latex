@@ -2,221 +2,161 @@
 \contentsline {section}{Index}{1}{}%
 \contentsline {section}{\numberline {1}Introduction}{1}{}%
 \contentsline {subsection}{\numberline {1.1}Finality and Objectives}{4}{}%
-\contentsline {subsection}{\numberline {1.2}Document Structure}{6}{}%
+\contentsline {subsection}{\numberline {1.2}Document Structure}{5}{}%
 \contentsline {subsection}{\numberline {1.3}Answer Research Questions}{6}{}%
-\contentsline {subsection}{\numberline {1.4}Contribute}{7}{}%
-\contentsline {section}{\numberline {2}State of Art}{7}{}%
-\contentsline {subsection}{\numberline {2.1}Blockchain}{8}{}%
-\contentsline {subsection}{\numberline {2.2}Types of Blockchain}{8}{}%
-\contentsline {subsection}{\numberline {2.3}Blockchain and Healthcare Sector}{10}{}%
-\contentsline {subsubsection}{\numberline {2.3.1}Key Blockchain Benefits/Features When Applied to the Healthcare Sector}{11}{}%
-\contentsline {paragraph}{A. Authentication}{11}{}%
-\contentsline {paragraph}{B. Immutability}{11}{}%
-\contentsline {paragraph}{C. Provenance}{11}{}%
-\contentsline {paragraph}{D. Robustness/Availability}{12}{}%
-\contentsline {paragraph}{E. Security}{12}{}%
-\contentsline {paragraph}{F. Privacy}{12}{}%
-\contentsline {subsubsection}{\numberline {2.3.2}Implementation Requirements}{12}{}%
-\contentsline {paragraph}{A. Interoperability}{12}{}%
-\contentsline {paragraph}{B. Data Security}{13}{}%
-\contentsline {paragraph}{C. Data Integrity}{13}{}%
-\contentsline {paragraph}{D. Cost and Resources}{13}{}%
-\contentsline {paragraph}{E. Trust and Transparency}{14}{}%
-\contentsline {paragraph}{F. Complexity}{14}{}%
-\contentsline {subsubsection}{\numberline {2.3.3}Implementation Challenges/Issues}{14}{}%
-\contentsline {paragraph}{A. Security and Privacy}{14}{}%
-\contentsline {paragraph}{B. Interoperability}{14}{}%
-\contentsline {paragraph}{C. Data Sharing}{15}{}%
-\contentsline {paragraph}{D. Mobility}{15}{}%
-\contentsline {paragraph}{E. Transparency and Confidentiality}{16}{}%
-\contentsline {paragraph}{F. Speed and Scalability}{16}{}%
-\contentsline {paragraph}{G. High Development Costs}{16}{}%
-\contentsline {paragraph}{Standardisation}{16}{}%
-\contentsline {paragraph}{Cultural Resistance}{16}{}%
-\contentsline {subsubsection}{\numberline {2.3.4}Applications of Blockchain Technology in the Healthcare Sector}{17}{}%
-\contentsline {paragraph}{A. Electronic Medical Records}{17}{}%
-\contentsline {paragraph}{B. Clinical Data Sharing}{17}{}%
-\contentsline {paragraph}{C. Global Data Sharing}{18}{}%
-\contentsline {paragraph}{D. Medical History Maintenance}{18}{}%
-\contentsline {paragraph}{E. Health Data Access Control}{19}{}%
-\contentsline {paragraph}{F. Billing/Payments}{19}{}%
-\contentsline {paragraph}{G. Biomedical Research and Education}{20}{}%
-\contentsline {paragraph}{H. Pharmaceutical Supply Chain}{20}{}%
-\contentsline {paragraph}{I. Equipment tracking}{21}{}%
-\contentsline {paragraph}{J. Health Data Analysis}{21}{}%
-\contentsline {section}{\numberline {3}Approach}{22}{}%
-\contentsline {subsection}{\numberline {3.1}Design Science Research (DSR)}{22}{}%
-\contentsline {subsubsection}{\numberline {3.1.1}Goals of DSR}{22}{}%
-\contentsline {subsubsection}{\numberline {3.1.2}Artifacts in DSR}{23}{}%
-\contentsline {paragraph}{A. Constructs}{24}{}%
-\contentsline {paragraph}{B. Models}{24}{}%
-\contentsline {paragraph}{C. Methods}{24}{}%
-\contentsline {paragraph}{D. Instantiations}{24}{}%
-\contentsline {paragraph}{E. Frameworks}{24}{}%
-\contentsline {subsubsection}{\numberline {3.1.3}The DSR Process}{25}{}%
-\contentsline {subsubsection}{\numberline {3.1.4}Challenges in DSR}{26}{}%
-\contentsline {paragraph}{A. Balancing Rigor and Relevance}{27}{}%
-\contentsline {paragraph}{B. Problem Complexity}{27}{}%
-\contentsline {paragraph}{C. Artifact Evaluation}{27}{}%
-\contentsline {paragraph}{D. Iterative Nature of the Process}{27}{}%
-\contentsline {paragraph}{E. Generalization of Findings}{28}{}%
-\contentsline {paragraph}{F. Interdisciplinary Nature of DSR}{28}{}%
-\contentsline {paragraph}{G. Ethical and Social Considerations}{28}{}%
-\contentsline {paragraph}{I. Time and Resource Constraints}{28}{}%
-\contentsline {subsubsection}{\numberline {3.1.5}Usage during this project}{28}{}%
-\contentsline {subsection}{\numberline {3.2}SWOT analysis}{29}{}%
-\contentsline {subsubsection}{\numberline {3.2.1}Purpose of SWOT Analysis}{29}{}%
-\contentsline {paragraph}{A. Strategic Planning}{29}{}%
-\contentsline {paragraph}{B. Identifying Competitive Advantage}{29}{}%
-\contentsline {paragraph}{C. Addressing Weaknesses}{29}{}%
-\contentsline {paragraph}{D. Capitalizing on Opportunities}{29}{}%
-\contentsline {paragraph}{E. Mitigating Risks}{30}{}%
-\contentsline {paragraph}{F. Informed Decision-Making}{30}{}%
-\contentsline {subsubsection}{\numberline {3.2.2}Internal Factors: Strengths and Weaknesses}{30}{}%
-\contentsline {paragraph}{A. Strengths}{30}{}%
-\contentsline {paragraph}{B. Weaknesses}{31}{}%
-\contentsline {paragraph}{C. Both combined}{31}{}%
-\contentsline {subsubsection}{\numberline {3.2.3}External Factors: Opportunities and Threats}{31}{}%
-\contentsline {paragraph}{A. Opportunities}{31}{}%
-\contentsline {paragraph}{B. Threats}{32}{}%
-\contentsline {subsubsection}{\numberline {3.2.4}How to Conduct a SWOT Analysis}{32}{}%
-\contentsline {paragraph}{A. Define the Objective}{33}{}%
-\contentsline {paragraph}{B. Gather Relevant Data}{33}{}%
-\contentsline {paragraph}{C. Identify Strengths}{33}{}%
-\contentsline {paragraph}{D. Identify Weaknesses}{33}{}%
-\contentsline {paragraph}{E. Identify Opportunities}{34}{}%
-\contentsline {paragraph}{F. Identify Threats}{34}{}%
-\contentsline {paragraph}{G. Analyze the Results}{34}{}%
-\contentsline {paragraph}{H. Develop Strategic Actions}{34}{}%
-\contentsline {paragraph}{I. Review and Update Regularly}{34}{}%
-\contentsline {subsubsection}{\numberline {3.2.5}Applications of SWOT Analysis}{35}{}%
-\contentsline {subparagraph}{A. Business Strategy and Planning}{35}{}%
-\contentsline {paragraph}{B. Product Development and Innovation}{35}{}%
-\contentsline {paragraph}{C. Marketing and Brand Positioning}{35}{}%
-\contentsline {paragraph}{D. Competitive Analysis}{35}{}%
-\contentsline {paragraph}{E. Project Planning and Management}{35}{}%
-\contentsline {paragraph}{F. Risk Management}{36}{}%
-\contentsline {paragraph}{G. Personal Development and Career Planning}{36}{}%
-\contentsline {paragraph}{H. Nonprofit and Social Sector Strategy}{36}{}%
-\contentsline {subsubsection}{\numberline {3.2.6}6. Advantages of SWOT Analysis}{36}{}%
-\contentsline {paragraph}{A. Simplicity and Ease of Use}{37}{}%
-\contentsline {paragraph}{B. Comprehensive Overview }{37}{}%
-\contentsline {paragraph}{C. Encourages Strategic Thinking}{37}{}%
-\contentsline {paragraph}{D. Identifies Core Competencies and Areas for Improvement}{37}{}%
-\contentsline {paragraph}{E. Supports Informed Decision-Making}{37}{}%
-\contentsline {paragraph}{F. Flexible and Versatile}{37}{}%
-\contentsline {paragraph}{G. Fosters Collaboration and Team Input}{37}{}%
-\contentsline {paragraph}{H. Promotes Strategic Alignment}{38}{}%
-\contentsline {paragraph}{I. Risk Identification and Mitigation}{38}{}%
-\contentsline {paragraph}{J. Cost-Effective and Efficient}{38}{}%
-\contentsline {subsubsection}{\numberline {3.2.7}Limitations of SWOT Analysis}{38}{}%
-\contentsline {paragraph}{A. Lack of Prioritization}{38}{}%
-\contentsline {paragraph}{B. Subjectivity}{38}{}%
-\contentsline {paragraph}{C. Over-Simplification}{38}{}%
-\contentsline {paragraph}{D. Static Snapshot}{39}{}%
-\contentsline {paragraph}{E. No Quantitative Data}{39}{}%
-\contentsline {paragraph}{F. Limited Actionable Insights}{39}{}%
-\contentsline {subsection}{\numberline {3.3}Risk List}{39}{}%
-\contentsline {subsection}{\numberline {3.4}Relevant tools}{41}{}%
-\contentsline {subsubsection}{\numberline {3.4.1}Blockchain}{42}{}%
-\contentsline {paragraph}{3.5.1.1- Hyperledger Fabric}{42}{}%
-\contentsline {paragraph}{3.5.1.2- Ipfs}{48}{}%
-\contentsline {subsubsection}{\numberline {3.4.2}Microservices}{50}{}%
-\contentsline {paragraph}{3.5.2.1- Kubernetes}{51}{}%
-\contentsline {paragraph}{3.5.2.2- Docker}{52}{}%
-\contentsline {paragraph}{3.5.2.3-MetalLB}{53}{}%
-\contentsline {paragraph}{3.5.2.4- Istio}{54}{}%
-\contentsline {subsubsection}{\numberline {3.4.3}Analytics}{56}{}%
-\contentsline {paragraph}{3.5.3.1- Caliper}{56}{}%
-\contentsline {paragraph}{3.5.3.2- Prometheus}{58}{}%
-\contentsline {paragraph}{3.5.3.3- Cadvisor}{58}{}%
-\contentsline {paragraph}{3.5.3.4- Grafana}{59}{}%
-\contentsline {subsubsection}{\numberline {3.4.4}Web Development}{60}{}%
-\contentsline {paragraph}{3.5.4.1- React}{60}{}%
-\contentsline {paragraph}{3.5.4.2- Keycloak}{60}{}%
-\contentsline {paragraph}{3.5.4.3- Quarkus}{61}{}%
-\contentsline {paragraph}{3.5.4.4- Graphql}{62}{}%
-\contentsline {paragraph}{3.5.4.5- Rest}{62}{}%
-\contentsline {paragraph}{3.5.4.6- gRPC}{62}{}%
-\contentsline {section}{\numberline {4}Use cases}{63}{}%
-\contentsline {subsection}{\numberline {4.1}IPFS and Hyperledger Fabric: Integrity of Data in Healthcare}{63}{}%
-\contentsline {subsubsection}{\numberline {4.1.1}Objectives}{64}{}%
-\contentsline {subsubsection}{\numberline {4.1.2}Plan}{64}{}%
-\contentsline {paragraph}{1º Phase: Ipfs deep dive}{65}{}%
-\contentsline {paragraph}{2º Phase: Study of ipfs composition}{66}{}%
-\contentsline {subparagraph}{Kademlia DHTS}{66}{}%
-\contentsline {subparagraph}{BitTorrent}{68}{}%
-\contentsline {subparagraph}{Git}{68}{}%
-\contentsline {subparagraph}{SFS - Self Certified File System}{68}{}%
-\contentsline {subparagraph}{Identities}{69}{}%
-\contentsline {subparagraph}{Network}{69}{}%
-\contentsline {subparagraph}{Routing}{69}{}%
-\contentsline {subparagraph}{Blocks Exchange}{69}{}%
-\contentsline {subparagraph}{Naming}{70}{}%
-\contentsline {subparagraph}{Objects}{70}{}%
-\contentsline {subparagraph}{Files}{70}{}%
-\contentsline {paragraph}{3º Phase: Practical Implementation}{71}{}%
-\contentsline {paragraph}{4º Phase: Create a article regarding this project}{72}{}%
-\contentsline {paragraph}{5º Phase: Review the article regarding this project}{75}{}%
-\contentsline {paragraph}{6º Phase: Present the Article}{75}{}%
-\contentsline {subsection}{\numberline {4.2}Approach}{76}{}%
-\contentsline {subsection}{\numberline {4.3}Risk List}{76}{}%
-\contentsline {subsubsection}{\numberline {4.3.1}Discussion}{77}{}%
-\contentsline {subsubsection}{\numberline {4.3.2}Conclusion}{78}{}%
-\contentsline {subsubsection}{\numberline {4.3.3}Future Work}{78}{}%
-\contentsline {paragraph}{Creation of a private IPFS network}{78}{}%
-\contentsline {paragraph}{Benchmarking of the IPFS private network}{78}{}%
-\contentsline {paragraph}{Creation of a hyperledger fabric network that was IPFS as it's extension}{79}{}%
-\contentsline {paragraph}{Benchmarking of the network that implements both IPFS and hyperledger fabric}{79}{}%
-\contentsline {paragraph}{Creation of a web client}{79}{}%
-\contentsline {subsection}{\numberline {4.4}Hyperledger Fabric: Seeking standardization through designing for each type of organization}{79}{}%
-\contentsline {subsubsection}{\numberline {4.4.1}Objectives}{79}{}%
-\contentsline {subsubsection}{\numberline {4.4.2}Plan}{80}{}%
-\contentsline {paragraph}{1º Phase: Gather requirements}{80}{}%
-\contentsline {paragraph}{2º Phase: Study the methodology framework}{81}{}%
-\contentsline {paragraph}{3º Phase: Interim Report}{81}{}%
-\contentsline {paragraph}{4º Phase: Reading all of hyperledger fabric and it's components theory}{81}{}%
-\contentsline {paragraph}{5º Phase: Creating the first network}{84}{}%
-\contentsline {paragraph}{6º Phase: First installation in a hospital}{85}{}%
-\contentsline {paragraph}{7º Phase: Creating a more robust network}{85}{}%
-\contentsline {paragraph}{8º Phase: Prototype demonstration}{86}{}%
-\contentsline {paragraph}{9º Phase: Interim report delivery}{86}{}%
-\contentsline {paragraph}{10º Phase: Dissertation development}{86}{}%
-\contentsline {paragraph}{11º Phase: Studying Benchmarking}{86}{}%
-\contentsline {paragraph}{12º Phase: Making a benchmark locally}{86}{}%
-\contentsline {paragraph}{13º Phase: Benchmarking the first network}{87}{}%
-\contentsline {paragraph}{14º Phase: Studying Kubernetes}{88}{}%
-\contentsline {paragraph}{15º Phase: Implementing a blockchain network with kubernetes}{89}{}%
-\contentsline {paragraph}{16º Phase: Creating a more robust network for a kubernetes environment}{90}{}%
-\contentsline {paragraph}{17º Phase: Second installation in a hospital}{92}{}%
-\contentsline {paragraph}{18º Phase: Creation of multiple networks}{92}{}%
-\contentsline {paragraph}{19º Phase: Benchmarking the network}{94}{}%
-\contentsline {subparagraph}{Docker}{94}{}%
-\contentsline {subparagraph}{Kubernetes}{95}{}%
-\contentsline {subparagraph}{Kubernetes with load balancing}{95}{}%
-\contentsline {subparagraph}{Evaluation}{96}{}%
-\contentsline {paragraph}{20º Phase: Solutions comparison}{97}{}%
-\contentsline {paragraph}{21º Phase: Creation of extra services}{97}{}%
-\contentsline {paragraph}{22º Phase: Creation of a web client application}{98}{}%
-\contentsline {subparagraph}{Block explorer}{98}{}%
-\contentsline {subparagraph}{General Network}{100}{}%
-\contentsline {subparagraph}{Peer Config}{101}{}%
-\contentsline {subparagraph}{Orderer Config}{105}{}%
-\contentsline {subparagraph}{Final Architecture}{106}{}%
-\contentsline {subsubsection}{\numberline {4.4.3}Discussion}{107}{}%
-\contentsline {paragraph}{Architectures discussion}{107}{}%
-\contentsline {paragraph}{SWOT analysis}{108}{}%
-\contentsline {subsubsection}{\numberline {4.4.4}Conclusion}{108}{}%
-\contentsline {subsubsection}{\numberline {4.4.5}Future Work}{109}{}%
-\contentsline {paragraph}{Horizontal Scaling in a HyperLedger fabric network}{110}{}%
-\contentsline {paragraph}{Automating Network Component Generation}{110}{}%
-\contentsline {paragraph}{Creating Recovery Plans for HLF Components}{110}{}%
-\contentsline {paragraph}{Improving Documentation Practices}{111}{}%
-\contentsline {paragraph}{Improving the current UI}{111}{}%
-\contentsline {paragraph}{Developing Prototypes for Enhanced Security Protocols}{111}{}%
-\contentsline {paragraph}{Gathering Regulatory Information on Private Ledgers}{112}{}%
-\contentsline {section}{\numberline {5}Conclusions}{112}{}%
-\contentsline {section}{\numberline {6}References}{113}{}%
-\contentsline {section}{\numberline {7}Appendix I - Abstract of Submitted Articles}{121}{}%
-\contentsline {paragraph}{8.1- IPFS and Hyperledger Fabric: Integrity of Data in Healthcare}{121}{}%
-\contentsline {paragraph}{8.2- Scalable and Sustainable Blockchain: Architecting Infrastructure and Developing a Platform for Efficient Management and Exploration}{121}{}%
+\contentsline {subsection}{\numberline {1.4}Contribute}{6}{}%
+\contentsline {section}{\numberline {2}State of Art}{6}{}%
+\contentsline {subsection}{\numberline {2.1}Blockchain}{7}{}%
+\contentsline {subsection}{\numberline {2.2}Types of Blockchain}{7}{}%
+\contentsline {subsection}{\numberline {2.3}Blockchain and Healthcare Sector}{9}{}%
+\contentsline {subsubsection}{\numberline {2.3.1}Key Blockchain Benefits/Features When Applied to the Healthcare Sector}{9}{}%
+\contentsline {paragraph}{A. Authentication}{9}{}%
+\contentsline {paragraph}{B. Immutability}{10}{}%
+\contentsline {paragraph}{C. Provenance}{10}{}%
+\contentsline {paragraph}{D. Robustness/Availability}{10}{}%
+\contentsline {paragraph}{E. Security}{10}{}%
+\contentsline {paragraph}{F. Privacy}{10}{}%
+\contentsline {subsubsection}{\numberline {2.3.2}Implementation Requirements}{11}{}%
+\contentsline {paragraph}{A. Interoperability}{11}{}%
+\contentsline {paragraph}{B. Data Security}{11}{}%
+\contentsline {paragraph}{C. Data Integrity}{11}{}%
+\contentsline {paragraph}{D. Cost and Resources}{12}{}%
+\contentsline {paragraph}{E. Trust and Transparency}{12}{}%
+\contentsline {paragraph}{F. Complexity}{12}{}%
+\contentsline {subsubsection}{\numberline {2.3.3}Implementation Challenges/Issues}{12}{}%
+\contentsline {paragraph}{A. Security and Privacy}{12}{}%
+\contentsline {paragraph}{B. Interoperability}{13}{}%
+\contentsline {paragraph}{C. Data Sharing}{13}{}%
+\contentsline {paragraph}{D. Mobility}{13}{}%
+\contentsline {paragraph}{E. Transparency and Confidentiality}{14}{}%
+\contentsline {paragraph}{F. Speed and Scalability}{14}{}%
+\contentsline {paragraph}{G. High Development Costs}{14}{}%
+\contentsline {paragraph}{Standardisation}{14}{}%
+\contentsline {paragraph}{Cultural Resistance}{14}{}%
+\contentsline {subsubsection}{\numberline {2.3.4}Applications of Blockchain Technology in the Healthcare Sector}{15}{}%
+\contentsline {paragraph}{A. Electronic Medical Records}{15}{}%
+\contentsline {paragraph}{B. Clinical Data Sharing}{15}{}%
+\contentsline {paragraph}{C. Global Data Sharing}{16}{}%
+\contentsline {paragraph}{D. Medical History Maintenance}{16}{}%
+\contentsline {paragraph}{E. Health Data Access Control}{16}{}%
+\contentsline {paragraph}{F. Billing/Payments}{17}{}%
+\contentsline {paragraph}{G. Biomedical Research and Education}{17}{}%
+\contentsline {paragraph}{H. Pharmaceutical Supply Chain}{18}{}%
+\contentsline {paragraph}{I. Equipment tracking}{18}{}%
+\contentsline {paragraph}{J. Health Data Analysis}{18}{}%
+\contentsline {section}{\numberline {3}Approach}{19}{}%
+\contentsline {subsection}{\numberline {3.1}Design Science Research (DSR)}{19}{}%
+\contentsline {subsubsection}{\numberline {3.1.1}Goals of DSR}{19}{}%
+\contentsline {subsubsection}{\numberline {3.1.2}The DSR Process}{21}{}%
+\contentsline {subsubsection}{\numberline {3.1.3}Usage during this project}{22}{}%
+\contentsline {subsection}{\numberline {3.2}SWOT analysis}{22}{}%
+\contentsline {subsubsection}{\numberline {3.2.1}Internal Factors: Strengths and Weaknesses}{23}{}%
+\contentsline {paragraph}{A. Strengths}{23}{}%
+\contentsline {paragraph}{B. Weaknesses}{23}{}%
+\contentsline {paragraph}{C. Both combined}{24}{}%
+\contentsline {subsubsection}{\numberline {3.2.2}External Factors: Opportunities and Threats}{24}{}%
+\contentsline {paragraph}{A. Opportunities}{24}{}%
+\contentsline {paragraph}{B. Threats}{24}{}%
+\contentsline {subsection}{\numberline {3.3}Risk List}{25}{}%
+\contentsline {subsection}{\numberline {3.4}Relevant tools}{27}{}%
+\contentsline {subsubsection}{\numberline {3.4.1}Blockchain}{27}{}%
+\contentsline {paragraph}{3.5.1.1- Hyperledger Fabric}{28}{}%
+\contentsline {paragraph}{3.5.1.2- Ipfs}{32}{}%
+\contentsline {subsubsection}{\numberline {3.4.2}Microservices}{34}{}%
+\contentsline {paragraph}{3.5.2.1- Kubernetes}{34}{}%
+\contentsline {paragraph}{3.5.2.2- Docker}{35}{}%
+\contentsline {paragraph}{3.5.2.3-MetalLB}{36}{}%
+\contentsline {paragraph}{3.5.2.4- Istio}{37}{}%
+\contentsline {subsubsection}{\numberline {3.4.3}Analytics}{38}{}%
+\contentsline {paragraph}{3.5.3.1- Caliper}{39}{}%
+\contentsline {paragraph}{3.5.3.2- Prometheus}{40}{}%
+\contentsline {paragraph}{3.5.3.3- Cadvisor}{40}{}%
+\contentsline {paragraph}{3.5.3.4- Grafana}{41}{}%
+\contentsline {subsubsection}{\numberline {3.4.4}Web Development}{42}{}%
+\contentsline {paragraph}{3.5.4.1- React}{42}{}%
+\contentsline {paragraph}{3.5.4.2- Keycloak}{42}{}%
+\contentsline {paragraph}{3.5.4.3- Quarkus}{43}{}%
+\contentsline {paragraph}{3.5.4.4- Graphql}{43}{}%
+\contentsline {paragraph}{3.5.4.5- Rest}{44}{}%
+\contentsline {paragraph}{3.5.4.6- gRPC}{44}{}%
+\contentsline {section}{\numberline {4}Use cases}{45}{}%
+\contentsline {subsection}{\numberline {4.1}IPFS and Hyperledger Fabric: Integrity of Data in Healthcare}{45}{}%
+\contentsline {subsubsection}{\numberline {4.1.1}Objectives}{45}{}%
+\contentsline {subsubsection}{\numberline {4.1.2}Plan}{46}{}%
+\contentsline {paragraph}{1º Phase: Ipfs deep dive}{46}{}%
+\contentsline {paragraph}{2º Phase: Study of ipfs composition}{47}{}%
+\contentsline {subparagraph}{Kademlia DHTS}{47}{}%
+\contentsline {subparagraph}{BitTorrent}{49}{}%
+\contentsline {subparagraph}{Git}{49}{}%
+\contentsline {subparagraph}{SFS - Self Certified File System}{49}{}%
+\contentsline {subparagraph}{Identities}{49}{}%
+\contentsline {subparagraph}{Network}{50}{}%
+\contentsline {subparagraph}{Routing}{50}{}%
+\contentsline {subparagraph}{Blocks Exchange}{50}{}%
+\contentsline {subparagraph}{Naming}{50}{}%
+\contentsline {subparagraph}{Objects}{51}{}%
+\contentsline {subparagraph}{Files}{51}{}%
+\contentsline {paragraph}{3º Phase: Practical Implementation}{52}{}%
+\contentsline {paragraph}{4º Phase: Create a article regarding this project}{53}{}%
+\contentsline {paragraph}{5º Phase: Review the article regarding this project}{56}{}%
+\contentsline {paragraph}{6º Phase: Present the Article}{56}{}%
+\contentsline {subsection}{\numberline {4.2}Approach}{57}{}%
+\contentsline {subsubsection}{\numberline {4.2.1}Discussion}{57}{}%
+\contentsline {subsubsection}{\numberline {4.2.2}Conclusion}{57}{}%
+\contentsline {subsubsection}{\numberline {4.2.3}Future Work}{57}{}%
+\contentsline {paragraph}{Creation of a private IPFS network}{58}{}%
+\contentsline {paragraph}{Benchmarking of the IPFS private network}{58}{}%
+\contentsline {paragraph}{Creation of a hyperledger fabric network that was IPFS as it's extension}{58}{}%
+\contentsline {paragraph}{Benchmarking of the network that implements both IPFS and hyperledger fabric}{58}{}%
+\contentsline {paragraph}{Creation of a web client}{58}{}%
+\contentsline {subsection}{\numberline {4.3}Hyperledger Fabric: Seeking standardization through designing for each type of organization}{58}{}%
+\contentsline {subsubsection}{\numberline {4.3.1}Objectives}{58}{}%
+\contentsline {subsubsection}{\numberline {4.3.2}Plan}{59}{}%
+\contentsline {paragraph}{1º Phase: Gather requirements}{59}{}%
+\contentsline {paragraph}{2º Phase: Study the methodology framework}{59}{}%
+\contentsline {paragraph}{3º Phase: Interim Report}{60}{}%
+\contentsline {paragraph}{4º Phase: Reading all of hyperledger fabric and it's components theory}{60}{}%
+\contentsline {paragraph}{5º Phase: Creating the first network}{63}{}%
+\contentsline {paragraph}{6º Phase: First installation in a hospital}{63}{}%
+\contentsline {paragraph}{7º Phase: Creating a more robust network}{64}{}%
+\contentsline {paragraph}{8º Phase: Prototype demonstration}{64}{}%
+\contentsline {paragraph}{9º Phase: Interim report delivery}{64}{}%
+\contentsline {paragraph}{10º Phase: Dissertation development}{65}{}%
+\contentsline {paragraph}{11º Phase: Studying Benchmarking}{65}{}%
+\contentsline {paragraph}{12º Phase: Making a benchmark locally}{65}{}%
+\contentsline {paragraph}{13º Phase: Benchmarking the first network}{65}{}%
+\contentsline {paragraph}{14º Phase: Studying Kubernetes}{66}{}%
+\contentsline {paragraph}{15º Phase: Implementing a blockchain network with kubernetes}{68}{}%
+\contentsline {paragraph}{16º Phase: Creating a more robust network for a kubernetes environment}{68}{}%
+\contentsline {paragraph}{17º Phase: Second installation in a hospital}{70}{}%
+\contentsline {paragraph}{18º Phase: Creation of multiple networks}{70}{}%
+\contentsline {paragraph}{19º Phase: Benchmarking the network}{72}{}%
+\contentsline {subparagraph}{Docker}{73}{}%
+\contentsline {subparagraph}{Kubernetes}{73}{}%
+\contentsline {subparagraph}{Kubernetes with load balancing}{73}{}%
+\contentsline {subparagraph}{Evaluation}{74}{}%
+\contentsline {paragraph}{20º Phase: Solutions comparison}{75}{}%
+\contentsline {paragraph}{21º Phase: Creation of extra services}{75}{}%
+\contentsline {paragraph}{22º Phase: Creation of a web client application}{76}{}%
+\contentsline {subparagraph}{Block explorer}{76}{}%
+\contentsline {subparagraph}{General Network}{78}{}%
+\contentsline {subparagraph}{Peer Config}{79}{}%
+\contentsline {subparagraph}{Orderer Config}{83}{}%
+\contentsline {subparagraph}{Final Architecture}{84}{}%
+\contentsline {subsubsection}{\numberline {4.3.3}Discussion}{85}{}%
+\contentsline {paragraph}{Architectures discussion}{85}{}%
+\contentsline {paragraph}{SWOT analysis}{86}{}%
+\contentsline {subsubsection}{\numberline {4.3.4}Conclusion}{86}{}%
+\contentsline {subsubsection}{\numberline {4.3.5}Future Work}{87}{}%
+\contentsline {paragraph}{Horizontal Scaling in a HyperLedger fabric network}{87}{}%
+\contentsline {paragraph}{Automating Network Component Generation}{87}{}%
+\contentsline {paragraph}{Creating Recovery Plans for HLF Components}{88}{}%
+\contentsline {paragraph}{Improving Documentation Practices}{88}{}%
+\contentsline {paragraph}{Improving the current UI}{88}{}%
+\contentsline {paragraph}{Developing Prototypes for Enhanced Security Protocols}{88}{}%
+\contentsline {paragraph}{Gathering Regulatory Information on Private Ledgers}{89}{}%
+\contentsline {section}{\numberline {5}Conclusions}{89}{}%
+\contentsline {section}{\numberline {6}References}{90}{}%
+\contentsline {section}{\numberline {7}Appendix I - Abstract of Submitted Articles}{96}{}%
+\contentsline {paragraph}{8.1- IPFS and Hyperledger Fabric: Integrity of Data in Healthcare}{96}{}%
+\contentsline {paragraph}{8.2- Scalable and Sustainable Blockchain: Architecting Infrastructure and Developing a Platform for Efficient Management and Exploration}{96}{}%
