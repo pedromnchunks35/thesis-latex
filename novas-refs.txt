@@ -585,3 +585,420 @@ publisher={Salim DURUKOĞLU}}
 	year = {2018},
 	doi = {10.1101/gr.207464.116},
 }
+
+@article{dsr-book,
+  title={Introduction to design science research},
+  author={Vom Brocke, Jan and Hevner, Alan and Maedche, Alexander},
+  journal={Design science research. Cases},
+  pages={1--13},
+  year={2020},
+  publisher={Springer}
+}
+
+@article{swot,
+  title={SWOT analysis: A theoretical review},
+  author={Gurl, Emet},
+  year={2017}
+}
+
+@INPROCEEDINGS{two-tier-permission-blockchains,
+	author={Cash, Michael and Bassiouni, Mostafa},
+	booktitle={2018 IEEE International Conference on Smart Cloud (SmartCloud)}, 
+	title={Two-Tier Permission-ed and Permission-Less Blockchain for Secure Data Sharing}, 
+	year={2018},
+	volume={},
+	number={},
+	pages={138-144},
+	keywords={Peer-to-peer computing;Internet of Things;Cloud computing;Industries;Bitcoin;Blockchain, permission-ed, permission-less, Ethereum, Proof-of-Work, Proof-of-Authority},
+	doi={10.1109/SmartCloud.2018.00031}}
+
+  @article{permissioned-vs-permissionless-tradeoffs,
+	author    = {Yannis Bakos and Hanna Halaburda},
+	title     = {Tradeoffs in Permissioned vs Permissionless Blockchains: Trust and Performance},
+	journal   = {SSRN Electronic Journal},
+	year      = {2021},
+	month     = {Feb},
+	doi       = {10.2139/SSRN.3789425},
+	url       = {https://dx.doi.org/10.2139/SSRN.3789425}
+}
+
+@misc{rfc5280,
+	author       = {David Cooper and Stefan Santesson and Stephen Farrell and Sharon Boeyen and Russell Housley and Tim Polk},
+	title        = {{Internet X.509 Public Key Infrastructure Certificate and Certificate Revocation List (CRL) Profile}},
+	howpublished = {Request for Comments 5280},
+	year         = {2008},
+	month        = {May},
+	publisher    = {Internet Engineering Task Force (IETF)},
+	doi          = {10.17487/RFC5280},
+	url          = {https://datatracker.ietf.org/doc/html/rfc5280}
+}
+
+
+@techreport{microservices-common-vulnerabilities,
+	author    = {R. Chandramouli},
+	title     = {Security Strategies for Microservices-Based Application Systems},
+	institution = {National Institute of Standards and Technology (NIST)},
+	year      = {2019},
+	doi       = {10.6028/NIST.SP.800-204},
+	url       = {https://dx.doi.org/10.6028/NIST.SP.800-204},
+	month     = {Mar},
+}
+
+@book{couchdb,
+	author    = {Joe Lennon},
+	title     = {Beginning CouchDB},
+	year      = {2009},
+	publisher = {Apress},
+	doi       = {10.1007/978-1-4302-7236-6},
+	isbn      = {978-1-4302-7237-3},
+	url       = {https://link.springer.com/chapter/10.1007/978-1-4302-7236-6_1}
+}
+
+@inproceedings{private-collections,
+	author    = {Author(s)},
+	title     = {Supporting Private Data on Hyperledger Fabric with Secure Multiparty Computation},
+	booktitle = {Proceedings of the IEEE International Conference on Blockchain and Distributed Systems Security},
+	year      = {2020},
+	doi       = {10.1109/XXXXXXX},
+	url       = {https://ieeexplore.ieee.org/document/8700297}
+}
+
+@Inbook{finances-use-case,
+	author="Bettio, Martina
+	and Bruse, Fabian
+	and Franke, Achim
+	and Jakoby, Thorsten
+	and Sch{\"a}rf, Daniel",
+	editor="Liermann, Volker
+	and Stegmann, Claus",
+	title="Hyperledger Fabric as a Blockchain Framework in the Financial Industry",
+	bookTitle="The Impact of Digital Transformation and FinTech on the Finance Professional",
+	year="2019",
+	publisher="Springer International Publishing",
+	address="Cham",
+	pages="29--44",
+	abstract="BlockchainBlockchain technology has recently received a lot of media attention. However, the discussion is often restricted to concepts and not about the technology itself or how to implement it. In this article, we would like to sum up the benefits of blockchain for the financial industry and introduce possible technologies. After providing a brief overview of the various HyperledgerHyperledgerframeworks frameworks and tools, we will introduce Hyperledger FabricFabric. We will be explaining the components of this open-source framework in detail and illustrating a sample transaction process. Special emphasis will be on privacy methods and how they can be implemented using Hyperledger Fabric.",
+	isbn="978-3-030-23719-6",
+	doi="10.1007/978-3-030-23719-6_3",
+	url="https://doi.org/10.1007/978-3-030-23719-6_3"
+}
+
+@INPROCEEDINGS{healthcare-use-case,
+	author={Kumar S., Naveen and Dakshayini, M.},
+	booktitle={2020 International Conference on Mainstreaming Block Chain Implementation (ICOMBI)}, 
+	title={Secure Sharing of Health Data Using Hyperledger Fabric Based on Blockchain Technology}, 
+	year={2020},
+	volume={},
+	number={},
+	pages={1-5},
+	keywords={Fabrics;Organizations;Containers;Medical services;Peer-to-peer computing;Contracts;Blockchain;Hyper ledger;distributed ledger;smart contracts;data privacy},
+	doi={10.23919/ICOMBI48604.2020.9203442}}
+
+@incollection{supply-chain-use-case,
+	author    = {Liang Cai and Qi Li and Xiao Liang},
+	title     = {Hyperledger Fabric Application Case Studies in Detail},
+	booktitle = {Advanced Blockchain Technology},
+	year      = {2022},
+	publisher = {Springer, Singapore},
+	doi       = {10.1007/978-981-19-3596-1_9},
+	url       = {https://link.springer.com/chapter/10.1007/978-981-19-3596-1_9}
+}
+
+@article{public-sector-use-case,
+	title = {Blockchain governance in the public sector: A conceptual framework for public management},
+	journal = {Government Information Quarterly},
+	volume = {39},
+	number = {1},
+	pages = {101625},
+	year = {2022},
+	issn = {0740-624X},
+	doi = {https://doi.org/10.1016/j.giq.2021.101625},
+	url = {https://www.sciencedirect.com/science/article/pii/S0740624X21000617},
+	author = {Evrim Tan and Stanislav Mahula and Joep Crompvoets},
+	keywords = {Blockchain, Distributed ledger technology, Governance, Public management, DAO},
+	abstract = {A key challenge behind the adoption of blockchain in the public sector is understanding the dynamics of blockchain governance. Based on a systematic literature review, this article analyzes different approaches to blockchain governance across disciplines and develops a comprehensive conceptual framework for the study of blockchain governance decisions in the public sector. The framework clusters nine types of governance decisions (infrastructure architecture, application architecture, interoperability, decision-making mechanism, incentive mechanism, consensus mechanism, organization of governance, accountability of governance, and control of governance) into three levels of analysis (micro, meso, and macro-levels). Drawing on public management theories and concepts, the article elucidates the implications of various governance choices in each level of governance and provides a primer for researchers and policy practitioners on the design of blockchain-based systems in the public sector.}
+}
+
+@article{insurance-use-case,
+	title = {An advanced blockchain-based hyperledger fabric solution for tracing fraudulent claims in the healthcare industry},
+	journal = {Decision Analytics Journal},
+	volume = {10},
+	pages = {100411},
+	year = {2024},
+	issn = {2772-6622},
+	doi = {https://doi.org/10.1016/j.dajour.2024.100411},
+	url = {https://www.sciencedirect.com/science/article/pii/S2772662224000158},
+	author = {Sanjay Kumar Jena and Brajesh Kumar and Barunaditya Mohanty and Ayush Singhal and Ram Chandra Barik},
+	keywords = {Healthcare insurance, Blockchain, Machine learning, Chaincode, Hyperledger},
+	abstract = {Blockchain and Machine Learning (ML) are state-of-the-art technologies in the digital era. Developing countries have witnessed great digital transformation, and one of the key challenges during this development phase has been to create a platform that integrates the health and vitals of citizens confidentially. The healthcare insurance industry is one sector that has experienced a significant number of instances of fraudulent claims and mismanagement of patient data. These issues often arise due to inadequate technological integration and an over-reliance on manual processes and human intervention. The insurance industry relies on multiple processes between end users to initiate, maintain, and close diverse policies. The proposed model initially recommends a suitable insurance policy for newly admitted patients, but in the case of existing patients, the objectives are to speed up transaction processing and payment settlement securely using a private blockchain. Collectively, these two technologies possess the potential to revolutionize the future. This study aims to incorporate blockchain and ML techniques like Support Vector Machine (SVM) and Random Forest Regression, which can differentiate between fraudulent and legal medical records to recommend personalized policies, streamline claim processing, and ensure the security of sensitive patient information and vital insurance records. The key aim is to create a more patient-centric environment with data transparency. This integrated framework results in a secure, adaptable, and efficient ecosystem that outperforms traditional methods, paving the way for the future of healthcare and insurance services.}
+}
+
+@article{ipfs,
+	title={IPFS - Content Addressed, Versioned, P2P File System},
+	author={Benet, Juan},
+	journal={arXiv preprint arXiv:1407.3561},
+	year={2014},
+	note={\url{https://arxiv.org/abs/1407.3561}}
+}
+
+@article{ipfs-overview,
+  title={Ipfs-content addressed, versioned, p2p file system},
+  author={Benet, Juan},
+  journal={arXiv preprint arXiv:1407.3561},
+  year={2014}
+}
+
+@article{kubernetes,
+  title={Kubernetes},
+  author={Kubernetes, T},
+  journal={Kubernetes. Retrieved May},
+  volume={24},
+  pages={2019},
+  year={2019}
+}
+
+@article{docker,
+  title={Docker},
+  author={Docker, Inc},
+  journal={l{\i}nea].[Junio de 2017]. Disponible en: https://www. docker. com/what-docker},
+  year={2020}
+}
+
+@article{onpremice-cloud,
+	title={Cost Evaluation on Building and Operating Cloud Platform},
+	author={Chang, Yue-Shan and Lee, Yi-Kang and Juang, T. and Yen, Jing-Shyang},
+	journal={Journal of Grid and High Performance Computing (JGHPC)},
+	volume={5},
+	number={2},
+	pages={18--33},
+	year={2013},
+	doi={10.4018/jghpc.2013040103},
+	url={https://dx.doi.org/10.4018/jghpc.2013040103}
+}
+
+@book{istio,
+  title={Istio: Up and running: Using a service mesh to connect, secure, control, and observe},
+  author={Calcote, Lee and Butcher, Zack},
+  year={2019},
+  publisher={O'Reilly Media}
+}
+
+@mastersthesis{lb,
+  title={Orchestration Mechanism Impact on Virtual Network Function Throughput},
+  author={Li, Jiaqi and others},
+  year={2019}
+}
+
+@inproceedings{service-mesh-enhance-communications,
+	author = {Kanai, Kenji and Tsuda, Toshitaka and Nakazato, Hidenori and Katto, Jiro},
+	title = {Information-centric service mesh for autonomous in-network computing},
+	year = {2022},
+	isbn = {9781450392570},
+	publisher = {Association for Computing Machinery},
+	address = {New York, NY, USA},
+	url = {https://doi.org/10.1145/3517212.3559481},
+	doi = {10.1145/3517212.3559481},
+	abstract = {In this paper, we introduce an information-centric service mesh for autonomous in-network computing. The information-centric service mesh offers service-centric networking, not connectivity-based networking provided by the current container orchestration, like Kubernetes (K8s). We implement the information-centric service mesh by adopting an ambassador container style and using Cefore and Cefpyco which is the CCNx software implementation developed by NICT in Japan. For the proof-of-concept test, we demonstrate the end-to-end delay of more complex service chain models (up to 17 nodes) on our K8s cluster.},
+	booktitle = {Proceedings of the 9th ACM Conference on Information-Centric Networking},
+	pages = {159–161},
+	numpages = {3},
+	keywords = {ICN, autonomous network, service function chaining},
+	location = {Osaka, Japan},
+	series = {ICN '22}
+}
+
+@article{service-mesh-flat-proxy,
+	title     = {FlatProxy: A DPU-centric Service Mesh Architecture for Hyperscale Cloud-native Application},
+	author    = {Ming Li and Wenyan Lu and Hanyue Lin and Jingya Wu and Yu Zhang and Guihai Yan},
+	journal   = {arXiv preprint},
+	year      = {2023},
+	doi       = {10.48550/arXiv.2312.01297},
+	url       = {https://dx.doi.org/10.48550/arXiv.2312.01297}
+}
+
+@book{service-mesh-monitoring,
+	title     = {Getting Started with Istio Service Mesh: Manage Microservices in Kubernetes},
+	author    = {Rahul Sharma and Avinash Singh},
+	publisher = {Apress},
+	year      = {2019},
+	doi       = {10.1007/978-1-4842-5458-5},
+	url       = {https://dx.doi.org/10.1007/978-1-4842-5458-5}
+}
+
+@inproceedings{service-mesh-traffic,
+	author = {Zhu, Xiangfeng and She, Guozhen and Xue, Bowen and Zhang, Yu and Zhang, Yongsu and Zou, Xuan Kelvin and Duan, XiongChun and He, Peng and Krishnamurthy, Arvind and Lentz, Matthew and Zhuo, Danyang and Mahajan, Ratul},
+	title = {Dissecting Overheads of Service Mesh Sidecars},
+	year = {2023},
+	isbn = {9798400703874},
+	publisher = {Association for Computing Machinery},
+	address = {New York, NY, USA},
+	url = {https://doi.org/10.1145/3620678.3624652},
+	doi = {10.1145/3620678.3624652},
+	abstract = {Service meshes play a central role in the modern application ecosystem by providing an easy and flexible way to connect microservices of a distributed application. However, because of how they interpose on application traffic, they can substantially increase application latency and its resource consumption. We develop a tool called MeshInsight to help developers quantify the overhead of service meshes in deployment scenarios of interest and make informed trade-offs about their functionality vs. overhead. Using MeshInsight, we confirm that service meshes can have high overhead---up to 269\% higher latency and up to 163\% more virtual CPU cores for our benchmark applications---but the severity is intimately tied to how they are configured and the application workload. IPC (inter-process communication) and socket writes dominate when the service mesh operates as a TCP proxy, but protocol parsing dominates when it operates as an HTTP proxy. MeshInsight also enables us to study the end-to-end impact of optimizations to service meshes. We show that not all seemingly-promising optimizations lead to a notable overhead reduction in realistic settings.},
+	booktitle = {Proceedings of the 2023 ACM Symposium on Cloud Computing},
+	pages = {142–157},
+	numpages = {16},
+	keywords = {Cloud computing, Microservices, Service Mesh},
+	location = {Santa Cruz, CA, USA},
+	series = {SoCC '23}
+}
+
+
+@INPROCEEDINGS{service-mesh-security,
+	author={Hussain, Fatima and Li, Weiyue and Noye, Brett and Sharieh, Salah and Ferworn, Alexander},
+	booktitle={2019 IEEE 10th Annual Information Technology, Electronics and Mobile Communication Conference (IEMCON)}, 
+	title={Intelligent Service Mesh Framework for API Security and Management}, 
+	year={2019},
+	volume={},
+	number={},
+	pages={0735-0742},
+	keywords={Authentication;Access control;Monitoring;Load management;Routing;Tools;API Security;Service Mesh;Machine Learning enabled Security},
+	doi={10.1109/IEMCON.2019.8936216}}
+
+@inproceedings{caliper,
+  title={Performance evaluation of ethereum private and testnet networks using hyperledger caliper},
+  author={Choi, Wonseok and Hong, James Won-Ki},
+  booktitle={2021 22nd Asia-Pacific Network Operations and Management Symposium (APNOMS)},
+  pages={325--329},
+  year={2021},
+  organization={IEEE}
+}
+
+@manual{HyperledgerCaliper,
+	title = {Hyperledger Caliper Benchmarking Tool},
+	author = {{Hyperledger Foundation}},
+	organization = {Hyperledger Foundation},
+	year = {2023},
+	note = {Available at: \url{https://github.com/hyperledger/caliper}},
+	abstract = {Hyperledger Caliper is a performance benchmarking tool for blockchain networks, supporting various blockchain platforms like Hyperledger Fabric, Sawtooth, and Ethereum. It allows users to measure metrics such as throughput, latency, and success rate.}
+}
+
+@manual{HyperledgerBesu,
+	title = {Hyperledger Besu Documentation},
+	author = {{Hyperledger Foundation}},
+	organization = {Hyperledger Foundation},
+	year = {2023},
+	note = {Available at: \url{https://besu.hyperledger.org/}},
+	abstract = {Hyperledger Besu is an open-source Ethereum client designed to work with both public and private permissioned networks. It offers various features like consensus mechanisms, privacy, and developer APIs.}
+}
+
+@manual{FISCOBCOS,
+	title = {FISCO BCOS Documentation},
+	author = {{FISCO BCOS Project Team}},
+	year = {2023},
+	note = {Available at: \url{https://fisco-bcos-documentation.readthedocs.io/}},
+	abstract = {FISCO BCOS is a consortium blockchain platform designed for financial applications. It provides capabilities like smart contract support, zero-knowledge proofs, and secure multi-party computation.}
+}
+
+@book{prometheus,
+  title={Monitoring with Prometheus},
+  author={Turnbull, James},
+  year={2018},
+  publisher={Turnbull Press}
+}
+
+@incollection{cadvisor,
+  title={cadvisor},
+  author={Tolaram, Nanik},
+  booktitle={Software Development with Go: Cloud-Native Programming using Golang with Linux and Docker},
+  pages={347--376},
+  year={2022},
+  publisher={Springer}
+}
+
+@book{react,
+  title={Introduction to React},
+  author={Gackenheimer, Cory},
+  year={2015},
+  publisher={Apress}
+}
+
+@book{keycloak,
+  title={Keycloak-identity and access management for modern applications: harness the power of Keycloak, OpenID Connect, and OAuth 2.0 protocols to secure applications},
+  author={Thorgersen, Stian and Silva, Pedro Igor},
+  year={2021},
+  publisher={Packt Publishing Ltd}
+}
+
+@book{quarkus,
+	author    = {Koleoso, Tayo},
+	title     = {Beginning Quarkus Framework: Build Cloud-Native Enterprise Java Applications and Microservices},
+	year      = {2020},
+	publisher = {Apress},
+	address   = {Berkeley, CA},
+	doi       = {10.1007/978-1-4842-6032-6},
+	url       = {https://doi.org/10.1007/978-1-4842-6032-6},
+	isbn      = {978-1-4842-6031-9},
+	abstract  = {This book covers an introduction to the Quarkus framework and its integration with Java EE, reactive programming, and Dockerization for cloud-native development. It provides a comprehensive guide for developers to create microservices using Quarkus and deploy them on cloud environments.}
+}
+
+@book{quarkus2,
+	author    = {Lamouchi, Nebrass},
+	title     = {Pro Java Microservices with Quarkus and Kubernetes: A Hands-on Guide},
+	year      = {2021},
+	publisher = {Apress},
+	address   = {Berkeley, CA},
+	doi       = {10.1007/978-1-4842-7170-4},
+	url       = {https://doi.org/10.1007/978-1-4842-7170-4},
+	isbn      = {978-1-4842-7169-8},
+	abstract  = {This book offers a practical, hands-on guide to building microservices using the Quarkus framework and deploying them to Kubernetes. It includes topics like containerization, cloud-native application patterns, and advanced deployment scenarios.}
+}
+
+@article{graphql,
+	author    = {Hartig, Olaf and Pérez, Jorge},
+	title     = {Semantics and Complexity of GraphQL},
+	journal   = {Proceedings of the World Wide Web Conference (WWW)},
+	year      = {2018},
+	pages     = {1155-1164},
+	doi       = {10.1145/3178876.3186014},
+	url       = {https://doi.org/10.1145/3178876.3186014},
+	abstract  = {This paper provides a formal analysis of the semantics of GraphQL and its complexity. It outlines various challenges and considerations when designing GraphQL APIs and their underlying data structures.},
+	keywords  = {GraphQL, Semantics, Query Language}
+}
+
+@incollection{graphql2,
+	author    = {Katamreddy, Siva Prasad Reddy and Upadhyayula, Sai Subramanyam},
+	title     = {GraphQL with Spring Boot},
+	booktitle = {Beginning Spring Boot 3},
+	year      = {2023},
+	pages     = {325-339},
+	publisher = {Apress},
+	address   = {Berkeley, CA},
+	doi       = {10.1007/978-1-4842-8792-7_15},
+	url       = {https://doi.org/10.1007/978-1-4842-8792-7_15},
+	abstract  = {This chapter covers the integration of GraphQL with Spring Boot, providing an in-depth tutorial on setting up GraphQL APIs, implementing schemas, and optimizing query performance.},
+	keywords  = {GraphQL, Spring Boot, API Development}
+}
+
+@article{graphql3,
+	author    = {Kim, Y. W. and Consens, M. P. and Hartig, O.},
+	title     = {An Empirical Analysis of GraphQL API Schemas in Open Code Repositories and Package Registries},
+	journal   = {Proceedings of the 13th Alberto Mendelzon International Workshop on Foundations of Data Management (AMW)},
+	year      = {2019},
+	url       = {https://doi.org/10.5281/zenodo.3352419},
+	abstract  = {This paper analyzes the structure and usage patterns of GraphQL schemas found in public code repositories, identifying trends and common practices in GraphQL API design.},
+	keywords  = {GraphQL, API Schemas, Empirical Analysis}
+}
+
+@book{rest,
+	author    = {Giretti, Anthony},
+	title     = {Coding Clean, Reliable, and Safe REST APIs with ASP.NET Core 8: Develop Robust Minimal APIs with .NET 8},
+	year      = {2023},
+	publisher = {Apress},
+	address   = {Berkeley, CA},
+	doi       = {10.1007/978-1-4842-9979-1},
+	url       = {https://doi.org/10.1007/978-1-4842-9979-1},
+	isbn      = {978-1-4842-9978-4},
+	abstract  = {This book teaches the principles of developing REST APIs using ASP.NET Core 8, covering topics like security, performance optimization, clean coding practices, and observability. It also addresses creating robust APIs with minimal APIs, integrating SQL Server, and implementing authentication and authorization techniques.},
+	keywords  = {REST APIs, ASP.NET Core, API Development, Security, .NET 8}
+}
+
+@inproceedings{dht,
+	title={Chord: A Scalable Peer-to-Peer Lookup Protocol for Internet Applications},
+	author={Stoica, Ion and Morris, Robert and Karger, David and Kaashoek, M. Frans and Balakrishnan, Hari},
+	booktitle={Proceedings of the 2001 conference on Applications, technologies, architectures, and protocols for computer communications},
+	pages={149-160},
+	year={2001},
+	organization={ACM},
+	note={\url{https://dl.acm.org/doi/10.1145/383059.383071}}
+}

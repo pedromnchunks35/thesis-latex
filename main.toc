@@ -62,101 +62,80 @@
 \contentsline {subsubsection}{\numberline {3.4.1}Blockchain}{27}{}%
 \contentsline {paragraph}{3.5.1.1- Hyperledger Fabric}{28}{}%
 \contentsline {paragraph}{3.5.1.2- Ipfs}{32}{}%
-\contentsline {subsubsection}{\numberline {3.4.2}Microservices}{34}{}%
-\contentsline {paragraph}{3.5.2.1- Kubernetes}{34}{}%
-\contentsline {paragraph}{3.5.2.2- Docker}{35}{}%
-\contentsline {paragraph}{3.5.2.3-MetalLB}{36}{}%
-\contentsline {paragraph}{3.5.2.4- Istio}{37}{}%
-\contentsline {subsubsection}{\numberline {3.4.3}Analytics}{38}{}%
-\contentsline {paragraph}{3.5.3.1- Caliper}{39}{}%
-\contentsline {paragraph}{3.5.3.2- Prometheus}{40}{}%
-\contentsline {paragraph}{3.5.3.3- Cadvisor}{40}{}%
-\contentsline {paragraph}{3.5.3.4- Grafana}{41}{}%
-\contentsline {subsubsection}{\numberline {3.4.4}Web Development}{42}{}%
-\contentsline {paragraph}{3.5.4.1- React}{42}{}%
-\contentsline {paragraph}{3.5.4.2- Keycloak}{42}{}%
-\contentsline {paragraph}{3.5.4.3- Quarkus}{43}{}%
-\contentsline {paragraph}{3.5.4.4- Graphql}{43}{}%
-\contentsline {paragraph}{3.5.4.5- Rest}{44}{}%
-\contentsline {paragraph}{3.5.4.6- gRPC}{44}{}%
-\contentsline {section}{\numberline {4}Use cases}{45}{}%
-\contentsline {subsection}{\numberline {4.1}IPFS and Hyperledger Fabric: Integrity of Data in Healthcare}{45}{}%
-\contentsline {subsubsection}{\numberline {4.1.1}Objectives}{45}{}%
-\contentsline {subsubsection}{\numberline {4.1.2}Plan}{46}{}%
-\contentsline {paragraph}{1º Phase: Ipfs deep dive}{46}{}%
-\contentsline {paragraph}{2º Phase: Study of ipfs composition}{47}{}%
-\contentsline {subparagraph}{Kademlia DHTS}{47}{}%
-\contentsline {subparagraph}{BitTorrent}{49}{}%
-\contentsline {subparagraph}{Git}{49}{}%
-\contentsline {subparagraph}{SFS - Self Certified File System}{49}{}%
-\contentsline {subparagraph}{Identities}{49}{}%
-\contentsline {subparagraph}{Network}{50}{}%
-\contentsline {subparagraph}{Routing}{50}{}%
-\contentsline {subparagraph}{Blocks Exchange}{50}{}%
-\contentsline {subparagraph}{Naming}{50}{}%
-\contentsline {subparagraph}{Objects}{51}{}%
-\contentsline {subparagraph}{Files}{51}{}%
-\contentsline {paragraph}{3º Phase: Practical Implementation}{52}{}%
-\contentsline {paragraph}{4º Phase: Create a article regarding this project}{53}{}%
-\contentsline {paragraph}{5º Phase: Review the article regarding this project}{56}{}%
-\contentsline {paragraph}{6º Phase: Present the Article}{56}{}%
-\contentsline {subsection}{\numberline {4.2}Approach}{57}{}%
-\contentsline {subsubsection}{\numberline {4.2.1}Discussion}{57}{}%
-\contentsline {subsubsection}{\numberline {4.2.2}Conclusion}{57}{}%
-\contentsline {subsubsection}{\numberline {4.2.3}Future Work}{57}{}%
-\contentsline {paragraph}{Creation of a private IPFS network}{58}{}%
-\contentsline {paragraph}{Benchmarking of the IPFS private network}{58}{}%
-\contentsline {paragraph}{Creation of a hyperledger fabric network that was IPFS as it's extension}{58}{}%
-\contentsline {paragraph}{Benchmarking of the network that implements both IPFS and hyperledger fabric}{58}{}%
-\contentsline {paragraph}{Creation of a web client}{58}{}%
-\contentsline {subsection}{\numberline {4.3}Hyperledger Fabric: Seeking standardization through designing for each type of organization}{58}{}%
-\contentsline {subsubsection}{\numberline {4.3.1}Objectives}{58}{}%
-\contentsline {subsubsection}{\numberline {4.3.2}Plan}{59}{}%
-\contentsline {paragraph}{1º Phase: Gather requirements}{59}{}%
-\contentsline {paragraph}{2º Phase: Study the methodology framework}{59}{}%
-\contentsline {paragraph}{3º Phase: Interim Report}{60}{}%
-\contentsline {paragraph}{4º Phase: Reading all of hyperledger fabric and it's components theory}{60}{}%
-\contentsline {paragraph}{5º Phase: Creating the first network}{63}{}%
-\contentsline {paragraph}{6º Phase: First installation in a hospital}{63}{}%
-\contentsline {paragraph}{7º Phase: Creating a more robust network}{64}{}%
-\contentsline {paragraph}{8º Phase: Prototype demonstration}{64}{}%
-\contentsline {paragraph}{9º Phase: Interim report delivery}{64}{}%
-\contentsline {paragraph}{10º Phase: Dissertation development}{65}{}%
-\contentsline {paragraph}{11º Phase: Studying Benchmarking}{65}{}%
-\contentsline {paragraph}{12º Phase: Making a benchmark locally}{65}{}%
-\contentsline {paragraph}{13º Phase: Benchmarking the first network}{65}{}%
-\contentsline {paragraph}{14º Phase: Studying Kubernetes}{66}{}%
-\contentsline {paragraph}{15º Phase: Implementing a blockchain network with kubernetes}{68}{}%
-\contentsline {paragraph}{16º Phase: Creating a more robust network for a kubernetes environment}{68}{}%
-\contentsline {paragraph}{17º Phase: Second installation in a hospital}{70}{}%
-\contentsline {paragraph}{18º Phase: Creation of multiple networks}{70}{}%
-\contentsline {paragraph}{19º Phase: Benchmarking the network}{72}{}%
-\contentsline {subparagraph}{Docker}{73}{}%
-\contentsline {subparagraph}{Kubernetes}{73}{}%
-\contentsline {subparagraph}{Kubernetes with load balancing}{73}{}%
-\contentsline {subparagraph}{Evaluation}{74}{}%
-\contentsline {paragraph}{20º Phase: Solutions comparison}{75}{}%
-\contentsline {paragraph}{21º Phase: Creation of extra services}{75}{}%
-\contentsline {paragraph}{22º Phase: Creation of a web client application}{76}{}%
-\contentsline {subparagraph}{Block explorer}{76}{}%
-\contentsline {subparagraph}{General Network}{78}{}%
-\contentsline {subparagraph}{Peer Config}{79}{}%
-\contentsline {subparagraph}{Orderer Config}{83}{}%
-\contentsline {subparagraph}{Final Architecture}{84}{}%
-\contentsline {subsubsection}{\numberline {4.3.3}Discussion}{85}{}%
-\contentsline {paragraph}{Architectures discussion}{85}{}%
-\contentsline {paragraph}{SWOT analysis}{86}{}%
-\contentsline {subsubsection}{\numberline {4.3.4}Conclusion}{86}{}%
-\contentsline {subsubsection}{\numberline {4.3.5}Future Work}{87}{}%
-\contentsline {paragraph}{Horizontal Scaling in a HyperLedger fabric network}{87}{}%
-\contentsline {paragraph}{Automating Network Component Generation}{87}{}%
-\contentsline {paragraph}{Creating Recovery Plans for HLF Components}{88}{}%
-\contentsline {paragraph}{Improving Documentation Practices}{88}{}%
-\contentsline {paragraph}{Improving the current UI}{88}{}%
-\contentsline {paragraph}{Developing Prototypes for Enhanced Security Protocols}{88}{}%
-\contentsline {paragraph}{Gathering Regulatory Information on Private Ledgers}{89}{}%
-\contentsline {section}{\numberline {5}Conclusions}{89}{}%
-\contentsline {section}{\numberline {6}References}{90}{}%
-\contentsline {section}{\numberline {7}Appendix I - Abstract of Submitted Articles}{96}{}%
-\contentsline {paragraph}{8.1- IPFS and Hyperledger Fabric: Integrity of Data in Healthcare}{96}{}%
-\contentsline {paragraph}{8.2- Scalable and Sustainable Blockchain: Architecting Infrastructure and Developing a Platform for Efficient Management and Exploration}{96}{}%
+\contentsline {subsubsection}{\numberline {3.4.2}Microservices}{32}{}%
+\contentsline {paragraph}{3.5.2.1- Kubernetes}{32}{}%
+\contentsline {paragraph}{3.5.2.2- Docker}{33}{}%
+\contentsline {paragraph}{3.5.2.3-MetalLB}{33}{}%
+\contentsline {paragraph}{3.5.2.4- Istio}{33}{}%
+\contentsline {subsubsection}{\numberline {3.4.3}Analytics}{34}{}%
+\contentsline {paragraph}{3.5.3.1- Caliper}{35}{}%
+\contentsline {paragraph}{3.5.3.2- Prometheus}{35}{}%
+\contentsline {paragraph}{3.5.3.3- Cadvisor}{35}{}%
+\contentsline {paragraph}{3.5.3.4- Grafana}{36}{}%
+\contentsline {subsubsection}{\numberline {3.4.4}Web Development}{36}{}%
+\contentsline {paragraph}{3.5.4.1- React}{36}{}%
+\contentsline {paragraph}{3.5.4.2- Keycloak}{37}{}%
+\contentsline {paragraph}{3.5.4.3- Quarkus}{37}{}%
+\contentsline {paragraph}{3.5.4.4- Graphql}{37}{}%
+\contentsline {paragraph}{3.5.4.5- Rest}{38}{}%
+\contentsline {paragraph}{3.5.4.6- gRPC}{38}{}%
+\contentsline {section}{\numberline {4}Use cases}{38}{}%
+\contentsline {subsection}{\numberline {4.1}IPFS and Hyperledger Fabric: Integrity of Data in Healthcare}{38}{}%
+\contentsline {subsubsection}{\numberline {4.1.1}Objectives}{39}{}%
+\contentsline {subsubsection}{\numberline {4.1.2}Inception}{39}{}%
+\contentsline {subsection}{\numberline {4.2}Approach}{40}{}%
+\contentsline {subsubsection}{\numberline {4.2.1}Discussion}{40}{}%
+\contentsline {subsubsection}{\numberline {4.2.2}Conclusion}{41}{}%
+\contentsline {subsubsection}{\numberline {4.2.3}Future Work}{41}{}%
+\contentsline {paragraph}{Creation of a private IPFS network}{41}{}%
+\contentsline {paragraph}{Benchmarking of the IPFS private network}{41}{}%
+\contentsline {paragraph}{Creation of a hyperledger fabric network that was IPFS as it's extension}{41}{}%
+\contentsline {paragraph}{Benchmarking of the network that implements both IPFS and hyperledger fabric}{41}{}%
+\contentsline {paragraph}{Creation of a web client}{41}{}%
+\contentsline {subsection}{\numberline {4.3}Hyperledger Fabric: Seeking standardization through designing for each type of organization}{42}{}%
+\contentsline {subsubsection}{\numberline {4.3.1}Objectives}{42}{}%
+\contentsline {subsubsection}{\numberline {4.3.2}Inception}{42}{}%
+\contentsline {paragraph}{5º Phase: Creating the first network}{44}{}%
+\contentsline {paragraph}{6º Phase: First installation in a hospital}{44}{}%
+\contentsline {paragraph}{7º Phase: Creating a more robust network}{45}{}%
+\contentsline {paragraph}{8º Phase: Prototype demonstration}{46}{}%
+\contentsline {paragraph}{9º Phase: Interim report delivery}{46}{}%
+\contentsline {paragraph}{10º Phase: Dissertation development}{46}{}%
+\contentsline {paragraph}{11º Phase: Studying Benchmarking}{46}{}%
+\contentsline {paragraph}{12º Phase: Making a benchmark locally}{46}{}%
+\contentsline {paragraph}{13º Phase: Benchmarking the first network}{46}{}%
+\contentsline {paragraph}{14º Phase: Studying Kubernetes}{48}{}%
+\contentsline {paragraph}{15º Phase: Implementing a blockchain network with kubernetes}{49}{}%
+\contentsline {paragraph}{16º Phase: Creating a more robust network for a kubernetes environment}{50}{}%
+\contentsline {paragraph}{17º Phase: Second installation in a hospital}{51}{}%
+\contentsline {paragraph}{18º Phase: Creation of multiple networks}{51}{}%
+\contentsline {paragraph}{19º Phase: Benchmarking the network}{53}{}%
+\contentsline {subparagraph}{Docker}{54}{}%
+\contentsline {subparagraph}{Kubernetes}{54}{}%
+\contentsline {subparagraph}{Kubernetes with load balancing}{54}{}%
+\contentsline {subparagraph}{Evaluation}{55}{}%
+\contentsline {paragraph}{20º Phase: Solutions comparison}{56}{}%
+\contentsline {paragraph}{21º Phase: Creation of extra services}{56}{}%
+\contentsline {paragraph}{22º Phase: Creation of a web client application}{57}{}%
+\contentsline {subparagraph}{Block explorer}{57}{}%
+\contentsline {subparagraph}{General Network}{59}{}%
+\contentsline {subparagraph}{Peer Config}{60}{}%
+\contentsline {subparagraph}{Orderer Config}{64}{}%
+\contentsline {subparagraph}{Final Architecture}{65}{}%
+\contentsline {subsubsection}{\numberline {4.3.3}Discussion}{66}{}%
+\contentsline {paragraph}{Architectures discussion}{66}{}%
+\contentsline {paragraph}{SWOT analysis}{67}{}%
+\contentsline {subsubsection}{\numberline {4.3.4}Conclusion}{67}{}%
+\contentsline {subsubsection}{\numberline {4.3.5}Future Work}{68}{}%
+\contentsline {paragraph}{Horizontal Scaling in a HyperLedger fabric network}{68}{}%
+\contentsline {paragraph}{Automating Network Component Generation}{68}{}%
+\contentsline {paragraph}{Creating Recovery Plans for HLF Components}{69}{}%
+\contentsline {paragraph}{Improving Documentation Practices}{69}{}%
+\contentsline {paragraph}{Improving the current UI}{69}{}%
+\contentsline {paragraph}{Developing Prototypes for Enhanced Security Protocols}{69}{}%
+\contentsline {paragraph}{Gathering Regulatory Information on Private Ledgers}{70}{}%
+\contentsline {section}{\numberline {5}Conclusions}{70}{}%
+\contentsline {section}{\numberline {6}References}{71}{}%
+\contentsline {section}{\numberline {7}Appendix I - Abstract of Submitted Articles}{76}{}%
+\contentsline {paragraph}{8.1- IPFS and Hyperledger Fabric: Integrity of Data in Healthcare}{76}{}%
+\contentsline {paragraph}{8.2- Scalable and Sustainable Blockchain: Architecting Infrastructure and Developing a Platform for Efficient Management and Exploration}{76}{}%
