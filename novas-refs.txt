@@ -1,3 +1,68 @@
+
+@article{hippa-gdpr,
+  title={Existential challenges for healthcare data protection in the United States},
+  author={Terry, Nicolas},
+  journal={Ethics, Medicine and Public Health},
+  volume={3},
+  number={1},
+  pages={19--27},
+  year={2017},
+  publisher={Elsevier}
+}
+
+@incollection{grpc,
+	author    = {Giretti, Anthony},
+	title     = {Understanding the gRPC Specification},
+	booktitle = {Beginning gRPC with ASP.NET Core 6: Build Applications using ASP.NET Core Razor Pages, Angular, and Best Practices in .NET 6},
+	year      = {2022},
+	pages     = {85-102},
+	publisher = {Apress},
+	address   = {Berkeley, CA},
+	doi       = {10.1007/978-1-4842-8008-9_3},
+	url       = {https://doi.org/10.1007/978-1-4842-8008-9_3},
+	abstract  = {This chapter explores the gRPC specification, its language-agnostic nature, and how it can be integrated with various technology stacks like ASP.NET Core, Java, PHP, and Node.js. It also highlights how gRPC differs from traditional Web APIs and SOAP services, making it ideal for high-performance scenarios.},
+	keywords  = {gRPC, ASP.NET Core, API Development, .NET 6, Distributed Systems}
+}
+
+@book{grpc2,
+	author    = {Giretti, Anthony},
+	title     = {Beginning gRPC with ASP.NET Core 6: Build Applications using ASP.NET Core Razor Pages, Angular, and Best Practices in .NET 6},
+	year      = {2022},
+	publisher = {Apress},
+	address   = {Berkeley, CA},
+	doi       = {10.1007/978-1-4842-8008-9},
+	isbn      = {978-1-4842-8007-2},
+	abstract  = {This book provides a practical guide for developers looking to integrate gRPC with ASP.NET Core 6. It covers topics such as creating gRPC services and clients, managing API versioning, implementing gRPC-web, and securing applications with OpenID Connect. The book also demonstrates how to migrate from WCF to gRPC, providing best practices for building high-performance, scalable APIs.},
+	keywords  = {gRPC, ASP.NET Core, API Development, Angular, .NET 6, WCF Migration}
+}
+
+@inproceedings{permissioned-blockchains,
+	author = {Abdallah, Mahmoud M.},
+	title = {Hands-on Permissioned Blockchain Platforms},
+	year = {2022},
+	isbn = {9781450396639},
+	publisher = {Association for Computing Machinery},
+	address = {New York, NY, USA},
+	url = {https://doi.org/10.1145/3531056.3542760},
+	doi = {10.1145/3531056.3542760},
+	abstract = {Enterprise organizations spends a lot of time and money on establishing trust when shared date is presented to others and might rely on third parties. Blockchain technology helps organizations to solve this problem without the need for third parties. Blockchain depends on cryptography, distributed ledgers and consensus protocols to establish the trust between participating entities. Permissioned Blockchain offers features that suits the enterprise environment like accountability where all actions are traceable and privacy where the details of the actions are visible to authorized parties only. Permissioned Blockchain platforms are the toolkits that helps in building new applications that implement new business models or enhance old workflows based on Blockchain technology. By the end of this tutorial, attendees will be able to setup development environment and build quick proof of concept projects based on two open source permissioned Blockchain platforms (namely Hyperledger Fabric and Corda).},
+	booktitle = {Proceedings of the Federated Africa and Middle East Conference on Software Engineering},
+	pages = {86},
+	numpages = {1},
+	keywords = {Blockchain, Corda, Hyperledger Fabric, Permissioned Blockchain},
+	location = {Cairo-Kampala, Egypt},
+	series = {FAMECSE '22}
+}
+
+@inproceedings{chainmob,
+  title={Chainmob: Mobility analytics on blockchain},
+  author={Nasrulin, Bulat and Muzammal, Muhammad and Qu, Qiang},
+  booktitle={2018 19th IEEE International Conference on Mobile Data Management (MDM)},
+  pages={292--293},
+  year={2018},
+  organization={IEEE}
+}
+
 @article{it-challenges-healthcare,
   title={Organizational challenges and barriers to implementing IT governance in a hospital},
   author={Lap{\~a}o, Lu{\'\i}s Velez},
@@ -145,15 +210,15 @@
   publisher={Emerald Publishing Limited}
 }
 
-@article{cryptocurrencies-phenomenom, 
-title={Anatomy Of Cryptocurrencies}, 
-journal={Uluslararası Sosyal Bilimler Akademi Dergisi}, 
-pages={412–427}, year={2023}, 
-DOI={10.47994/usbad.1385275}, 
-author={Kalaycı, İrfan}, 
-keywords={Cryptocracy, Cryptocurrencies, 
+@article{cryptocurrencies-phenomenom,
+title={Anatomy Of Cryptocurrencies},
+journal={Uluslararası Sosyal Bilimler Akademi Dergisi},
+pages={412–427}, year={2023},
+DOI={10.47994/usbad.1385275},
+author={Kalaycı, İrfan},
+keywords={Cryptocracy, Cryptocurrencies,
 Bitcoin, SWOT Analysis},
-number={13}, 
+number={13},
 publisher={Salim DURUKOĞLU}}
 
 @article{CDBC,
@@ -603,8 +668,8 @@ publisher={Salim DURUKOĞLU}}
 
 @INPROCEEDINGS{two-tier-permission-blockchains,
 	author={Cash, Michael and Bassiouni, Mostafa},
-	booktitle={2018 IEEE International Conference on Smart Cloud (SmartCloud)}, 
-	title={Two-Tier Permission-ed and Permission-Less Blockchain for Secure Data Sharing}, 
+	booktitle={2018 IEEE International Conference on Smart Cloud (SmartCloud)},
+	title={Two-Tier Permission-ed and Permission-Less Blockchain for Secure Data Sharing},
 	year={2018},
 	volume={},
 	number={},
@@ -685,8 +750,8 @@ publisher={Salim DURUKOĞLU}}
 
 @INPROCEEDINGS{healthcare-use-case,
 	author={Kumar S., Naveen and Dakshayini, M.},
-	booktitle={2020 International Conference on Mainstreaming Block Chain Implementation (ICOMBI)}, 
-	title={Secure Sharing of Health Data Using Hyperledger Fabric Based on Blockchain Technology}, 
+	booktitle={2020 International Conference on Mainstreaming Block Chain Implementation (ICOMBI)},
+	title={Secure Sharing of Health Data Using Hyperledger Fabric Based on Blockchain Technology},
 	year={2020},
 	volume={},
 	number={},
@@ -846,8 +911,8 @@ publisher={Salim DURUKOĞLU}}
 
 @INPROCEEDINGS{service-mesh-security,
 	author={Hussain, Fatima and Li, Weiyue and Noye, Brett and Sharieh, Salah and Ferworn, Alexander},
-	booktitle={2019 IEEE 10th Annual Information Technology, Electronics and Mobile Communication Conference (IEMCON)}, 
-	title={Intelligent Service Mesh Framework for API Security and Management}, 
+	booktitle={2019 IEEE 10th Annual Information Technology, Electronics and Mobile Communication Conference (IEMCON)},
+	title={Intelligent Service Mesh Framework for API Security and Management},
 	year={2019},
 	volume={},
 	number={},
@@ -895,6 +960,16 @@ publisher={Salim DURUKOĞLU}}
   author={Turnbull, James},
   year={2018},
   publisher={Turnbull Press}
+}
+
+
+@incollection{grafana,
+  title={Grafana},
+  author={Chakraborty, Mainak and Kundan, Ajit Pratap},
+  booktitle={Monitoring cloud-native applications: Lead agile operations confidently using open source software},
+  pages={187--240},
+  year={2021},
+  publisher={Springer}
 }
 
 @incollection{cadvisor,

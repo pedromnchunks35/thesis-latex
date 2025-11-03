@@ -7,3 +7,5 @@ bibtex main
 
 pdflatex main.tex
 
+# With xelatex
+latexmk -xelatex main.tex

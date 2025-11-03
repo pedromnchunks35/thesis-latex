@@ -16,6 +16,7 @@
 \setmainfont{NewsGotT}
 
 
+
 % 1.5 space between lines
 \onehalfspacing
 
@@ -24,7 +25,8 @@
  
 
 \usepackage{float}  % Import the float package
-\usepackage[backend=biber, sorting=none,style=apa,citestyle=numeric]{biblatex}
+\usepackage[backend=biber,style=apa,sortcites=true,uniquename=false,uniquelist=false]{biblatex}
+\DeclareLanguageMapping{english}{english-apa}
 \addbibresource{library.bib}
 
 \microtypesetup{protrusion=false}

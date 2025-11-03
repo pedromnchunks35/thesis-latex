@@ -1,283 +1,231 @@
-The healthcare industry is in the landscape of 
-a radical modification, dragged by advances in technology, 
-expectations from patients and a highly complex regulatory environment. 
-From digital health solutions to electronic medical records, telemedicine, 
-and connected devices, the proliferation of data is happening in healthcare at rates never seen previously. 
-This explosion of data opens up new opportunities and creates challenges. 
-While on one hand, access to huge volumes of patient information has the potential to transform diagnosis, 
-treatment and preventive care - all to improve patient treatment - this could be problematic because the 
-increasing complexity of healthcare systems coupled with rising concerns on data privacy and security creates 
-considerable barriers to benefits realization \cite{it-challenges-healthcare}.
+\subsection{Context and Motivation}
+The healthcare industry is suffering a deep transformation, conducted by technology progression where patient expectations and an emerging regulatory environment
+are concerns creating both opportunities and headaches.
+From telemedicine, connected medical devices to unthinkable volumes of data, challenges become visible.
+From one side facing those, potential numerous outcomes can surge such: Revolutionizing diagnosis, treatment and outcome prevention.
+On another perspective, besides that amount of complexity there is also the rising concerns regarding data privacy and security. \cite{it-challenges-healthcare}
 
-The healthcare organization, therefore, finds itself between two poles of extremes: 
-driving innovation through data on one hand, and on the other hand, ethical and legal imperatives 
-of maintaining patient privacy. This gets even more imperative as most healthcare systems across 
-the world are fragmented in nature, encompassing a broad range of stakeholders that include hospitals, 
-laboratories, insurance companies, regulatory bodies, and pharmaceutical firms among others, all of whom will 
-have to share closely guarded information. Ensuring that the data remains accurate, secure, and accessible only 
-to authorized parties stands as one of the most formidable issues associated with healthcare today \cite{healthcare-data-fragmentation}.
+Organizations struggle when faced with 2 sides of the coin: innovate through data and not abstain ethical and legal responsibilities
+to protect patient privacy.
+The path for this becomes even narrower if the fragmented nature of healthcare systems is considered.
+Characteristic that include a vast array of stakeholders - hospitals, laboratories, insurance companies, regulatory bodies and pharmaceutical firms - where
+each of them must share sensitive information.
+Making sure the output of the exchange remains accurate, secure and accessible only to authorized parties stands as the most fragile topic in the modern healthcare landscape. \cite{healthcare-data-fragmentation}
 
-Traditional medical data management systems are prone to inefficiencies and vulnerabilities. 
-Centralized databases remain at the mercy of even basic cyber-attacks, data breaches and manipulation from 
-internal sources. Moreover, many old health management systems face operational difficulties, 
-such as non-interoperability, which complicates the free flow of information between different agencies. 
-The above limitations signify the urgent requirement for more secure, flexible, and trustworthy systems for 
-managing healthcare data.
+Inefficiencies and vulnerabilities are very present in traditional medical data management systems.
+Unfortunate situations - centralized database cyberattacks, data breaches and insider manipulation - can occur, due to legacy systems that lack interoperability,
+different procedures to share information between heterogeneous parties and human error.
+These setbacks underscore the need for more secure, flexible,user-friendly and trustworthy mechanisms for such systems. \cite{legacy-healthcare}
 
-But working amongst all these critical challenges, 
-the blockchain technologies have inspired confidence. 
-What was ostensibly conceived as the underpinning technology for cryptocurrencies 
-like \textbf{Bitcoin} \cite{btc}, blockchain itself-in core concepts of decentralization, 
-transparency, immutability  and cryptographic security-has kindled interests in industries way beyond finance. 
-Particularly in healthcare, blockchain holds real promise to offer an indestructibly secure way of recording 
-transactions and managing data where trust and security are paramount. Blockchain can provide a decentralized 
-solution that removes some of the associated risks of using centralized databases by distributing the data 
-across a network of nodes, none of which has unilateral control over the entire system \cite{healthcare-data-breaches}.
+On top of that, the volume of data is rising exponentially.
+The cause of such includes new digital solutions - including electronic medical records, telemedicine, connected devices and real time monitoring - bringing with them
+concerns over their vulnerability to cyberattacks, data breaches, insider threats and integrity.
+The outcome is expected: more data means more ground for casualties but likewise, also instigates for more innovation, creating opportunities to
+enhance the services, where data integrity remains as the most crucial characteristic to maintain. \cite{data-volume-increase-healthcare}
 
-Within the sphere of blockchain frameworks, \textbf{Hyperledger Fabric}
-shows up and shines as it is considered one of the most convenient for the healthcare sector.
-\textbf{Hlf} is described as an open-source project covered by \textbf{IBM} 
-and performs as a permissioned blockchain framework for enterprise usage.
-Unlike public Blockchains, which allow everyone to participate, \textbf{Hyperledger Fabric} is designed 
-for participation in environments where participants are known and trusted. This is an important permissioned
-model necessary for healthcare, where regulatory compliance-like \textbf{GDPR} and \textbf{HIPAA}, along with 
-patient privacy is a non-negotiable requirement. Another very important aspect of the framework is the modular 
-architecture, which provides great flexibility because an organization can adapt the system to suit their needs 
-in any area of concern such as record keeping, tracing drugs, or settling claims \cite{hyperledger} \cite{hyperledger-hippa-and-gdpr}.
+Notably, healthcare has become one of the primary targets for threats such - ransomware, phishing, data breaches, ddos (distributed denial of service)
+and third party attacks - resulting in severe financial and reputational damage.
+Only in 2021, over 40 million health care record breaches were reported in the United States, highly because of the previously mentioned problems: fragmentation,
+lack of collaboration and limited interoperability which increase the risk exposure. \cite{data-breaches-2021} \cite{healthcare-privacy}
 
-The thesis is aimed at discussing the application of \textbf{Hyperledger Fabric} as a 
-transformative technology to approach the most important challenges faced by healthcare systems. 
-The key focal area in this research is how \textbf{Hyperledger Fabric} can be mobilized to advance the qualities 
-of data integrity, trust, flexibility and coordination in the healthcare ecosystem. Therefore with this, we 
-will answer the very research questions which are \textbf{"How can a private blockchain network be utilized to 
-improve data integrity,security,flexibility and collaboration within the healthcare ecosystem?"} 
-and \textbf{"What kind of infrastructure design is necessary to support a blockchain solution in such a 
-vast and complex environment as healthcare?"}.By implementing blockchain through a distributed ledger, 
-cryptographic algorithms and consensus mechanisms, \textbf{Hyperledger Fabric} is seen as the first 
-utilization in building a novel model of healthcare data management that engenders trusted expectation 
-among stakeholders in the assurance of sensitive healthcare information being controlled against 
-unauthorized access and tamper-proof.
+Finally, in regard to the problems discussed so far, many systems fail to ensure trust, thereby obstructing the collaboration between multiple parties which slows
+down innovation and progress.
+Achieving this goal, passes a lot through the regulatory demands of frameworks such as HIPPA and GDPR, difficult to attend when there are multiple heterogeneous systems
+that can be either premise or cloud-based, fostering even more existing limitations: There is an urgent need to modernize and standardize the technology foundations of
+healthcare institutions in a way that extinguishes the difficulty of surpassing bureaucracy. \cite{hippa-gdpr}
 
-We will start with data integrity in healthcare, which at its core wants correct and tamper-proof
-records to form the very bedrock of diagnosis, therapy and even billing. The immutability ledger in 
-\textbf{Hyperledger Fabric}-cryptographically linked and unable to be altered- offers a big advantage over 
-traditional databases. The feature will ensure that the data can't be tampered with and will provide a clear, 
-transparent audit trail to verify if any information at any given time is genuine. Letting patient data,
-medical history or prescription be recorded in a secure way, \textbf{Hyperledger Fabric} may become the 
-technology capable of excluding frauds of data manipulation and unauthorized access altogether. The other 
-focus is data flexibility and interoperability, which have been a nightmare in health care for quite some time. 
-Often, there are different systems within different health organizations that are incompatible with one another 
-and usually lead to data silos, which cannot easily facilitate smooth information exchange. The modular design of 
-\textbf{Hyperledger Fabric} allows innovation in health care to build a blockchain-based solution that interfaces 
-with existing systems and is ability to adapt to future technologies \cite{data-integrity-healthcare}.
+Amid these challenges, blockchain technology emerges as a probable solution.
+With foundations that came from the still existing and famous Bitcoin - with its core principles
+of decentralization, transparency, immutability, cryptography-based ensured security and anonymity - it has been
+catching a lot of interest across multiple industries besides finance.
+For starters, this technology can serve healthcare by offering a secure and tamper-resistant mechanism
+for recording transactions and managing data, ensuring this way trust and confidentiality, potentialized by its
+distributed network of nodes, reducing the risks with traditional centralized databases due to the fact that
+this same network requires a consensus of integrity for every piece of data that crosses it: No single entity
+maintains full control over the system. \cite{btc} \cite{healthcare-data-breaches}
 
-This flexibility not only makes easier migration from older systems but also promotes innovation since 
-new functions can easily be added as the needs of the industry develop.
+Within the blockchain landscape, one framework has become the standardized one to use: Hyper Ledger Fabric (HLF).
+Developed under the Linux Foundation and IBM this network is a permissioned blockchain network for enterprise usage.
+In contrast to public blockchains that allow unrestricted participation, here the participants must be well known and
+trusted from every other participant.
+This aligns with healthcare expectations, since the network does what was described previously, it complies with GDPR
+and HIPAA and has a very configurable and modular architecture, giving flexibility to any organization.
+Examples of usage for this could be record-keeping, drug tracing, management claims or contract storage. \cite{hyperledger} \cite{hyperledger-hippa-and-gdpr}
 
-More importantly, this research will go a long way in addressing the need for collaboration
-among healthcare stakeholders. Since the data is scattered across hospitals, insurance companies, 
-pharmaceutical firms and regulators, the ability to share information in a secure manner has never been so 
-critical \cite{multisectoral-healthcare}.
+In addition, it is worth to mention that since integrity is the biggest concern for the use case in hands, an immutable ledger such
+as the previously mentioned network would in this regard become handy.
+Cryptographic linkage offers a significant advantage over traditional databases, since it guarantees that once recorded
+data cannot be forged.
+In case changed there is also a history for each piece of data, making audit trail friendly: patient records, medical histories,
+prescriptions or supplements chain can be all securely managed. \cite{data-integrity-healthcare}
 
-Permissioned network and granular access control 
-mechanisms are provided by \textbf{Hyperledger Fabric} to enable wide 
-collaboration among health organizations and ensure that sensitive data is inaccessible to 
-unauthorized parties. Preceding with such control provides a trusted setting where stakeholders are free to 
-share their information, knowing it will help achieve greater advances more quickly, improve patient care, and 
-give way to smoother processes. Beyond both of these key themes, consideration is given to the specific use cases 
-of \textbf{Hyperledger Fabric} in healthcare: supply chain management, identification of patients, and clinical 
-trials. Each of these has unique problems that blockchain technology can help solve.
+Also, one can argue that migrating from legacy infrastructures to such technology can be smooth: This framework is in such a degree modular that
+composing everything becomes done quick and new functionalities can also be added with ease which still enables the corporations to innovate even more.
+Moreover, it is important to mention that once implemented the stakeholders will cease to have borders between them: data dispersed across hospitals,
+insurers, pharmaceutical firms, regulatory agencies and secure and efficient data sharing will no longer be a challenge, something that this thesis
+focus in emphasize. \cite{multisectoral-healthcare}
 
-For instance, origin and journey tracing in supply chain management will detect the risk of counterfeit drugs 
-reaching the market. In identity verification, \textbf{Hyperledger Fabric} will help the patients to be in 
-control of their health records and grant access to specific providers with permission instead, hence advancing 
-privacy while reducing the risk of identity theft.
+Beyond these thematic pillars, the research also specifies use cases for HLF in healthcare: supply chain management, patient identification
+and clinical trials.
+On chain traceability would detect counterfeit drugs in supply chain and identity management capabilities would give the power to the patient
+to control its data, thereby enhancing his privacy and reducing identity theft risks.
 
-In this respect, the thesis will discuss the technical deployment of 
-\textbf{Hyperledger Fabric} by utilizing state-of-the-art technologies such as 
-\textbf{Kubernetes}, mainly in on-premise environments where healthcare 
-organizations would wish to have full control of their infrastructure. 
-Thus, using \textbf{Kubernetes} for the deployment of a \textbf{Hyperledger Fabric} will provide 
-the ability to assess the scalability, security and performance of this deployment and then compare 
-it against the conventional systems in operation within the context of today's healthcare. 
-The technical assessment will also include an analysis of the advantages and disadvantages of such deployment,
-thereby offering practical insights into any healthcare organizational considerations towards blockchain 
-implementation. Finally, the research will try to provide a holistic pathway on the expected work regarding
-the future of the second use case project, considering potential risks and pitfalls that might arise, areas of 
-investigation, and more. While huge, the benefits of blockchain are not devoid of problems in application, 
-including most especially, those related to governance, regulatory compliance, and integration into the existing 
-healthcare system. As such, this thesis tries to give equal attention to considerations in an effort to 
-balance the thesis as regards to the role \textbf{Hyperledger Fabric} can play in transforming healthcare. 
-To sum up, the present thesis will critically assess the magnitude of transformational impact \textbf{Hyperledger Fabric} 
-may have on the healthcare industry through the in-depth review of its applications and respective technical 
-and strategic consequences. As we forge ahead into a future characterized by data-driven innovation, 
-collaboration and trust, blockchains could provide that much-needed tool in reshaping the health environment 
-to ensure not only the secure but also efficient and ethical management of patient data \cite{kubernetes}.
+Besides that, this work also gives insights about the deployment of such network, particularly on-premise environments with the mentioned blockchain
+framework.
+Nevertheless, the focus is in reporting what is a kubernetes in doors deployment of such, providing the opportunity for evaluating its scalability,
+security and performance, allowing scrutiny over the differences between conventional systems and these setups.
+This technical assessment will further analyze advantages and drawbacks, exposing perspectives for organizations that intend to attend blockchain
+adoption.
+Potential future developments, current risks and areas of probable investigation will also be revealed.
 
-Consequent upon the rapid development and increase in health data volume, security, and privacy concerns,
-and efficiency, the healthcare industry currently finds itself at an extremely critical juncture. As health care 
-providers increasingly adopt digital health solutions-such as electronic medical records, telemedicine platforms 
-and connected devices -the overall volume of health care data resources is developing at an exponential rate. This
-data outrun instigates a vast number of  opportunities to improving systems that help in taking care of patients, 
-but it also compiles a serious deck of challenges in data management, security, and sharing. Perhaps the most 
-relevant of this deck is the concept of data integrity, which remains fragile in healthcare systems as in any
-worldwide realm \cite{data-volume-increase-healthcare}.
+The work aims to explore the application of such technology to the extent of facing the healthcare environment challenges.
+Central questions are \textbf{“How can a private blockchain network be utilized
+to improve data integrity, security, flexibility, and collaboration within the healthcare ecosystem?”} and \textbf{“What infrastructure design is necessary to support a
+blockchain solution in such a vast and complex environment as healthcare?”}.
+Through distributed ledgers, cryptographic algorithms and consensus protocols, Fabric can be used to provide a novel model of healthcare
+data management: one that instigates trust among stakeholders, ensuring that sensitive information is tamper-proof and access-controlled.
 
-These inaccuracies, unauthorized accesses and data changes may critically lower patient safety and impact 
-the quality of care. Traditional data management infrastructures, often centralized in architecture, have proven 
-very vulnerable to many forms of data breaches, cyberattacks and insider threats. What could represent an example 
-of this shameful situations is, in the healthcare organizations sphere, this being the biggest target for 
-ransomware attacks, where many have resulted in an unfortunate financial and reputational disasters. In 2021 solo,
-more than 40 million health record breaches were declared in the United States. Furthermore, fragmented health 
-systems disappoint further by creating silos of data where different organizations have incompatible systems, creating
-barriers to collaboration and limiting interoperability, furthering vulnerabilities. Other than security 
-challenges, demands for efficient, flexible and interoperable systems have never been more urgent \cite{data-breaches-2021} \cite{healthcare-privacy}.
+In conclusion, there are challenges that must be faced and this research aims to expose those and possible solutions.
+Moreover, network applications, technical architecture and strategic implications will be delved into and as healthcare continues
+to evolve toward data-driven innovation, collaboration and trust, blockchain may emerge as bedrock for enforcing secure, efficient
+and ethical management of patient information.
 
-Health care organizations struggle with outdated, legacy systems that do not permit seamless integration 
-across providers, insurers, and regulatory agencies. All these latter systems are frequently incompatible 
-with each other, making it very difficult to facilitate the real exchange of critical health data in real time. 
-This lack of coordination obstructs innovation and operating efficiency, delaying treatment, inflating health 
-care costs, and adversely impacting patient outcomes \cite{legacy-healthcare}.
 
-Moreover, the healthcare system relies heavily on trusts: both in data shared between stakeholders and in 
-security around that data. Patients, providers, insurance companies, and regulators all need to know that when 
-they collaborate, their information is exchanged correctly, securely and in a tamper-evident manner. Obviously, 
-many systems today do not ensure this level of trust, with all the associated benefits of collaboration and 
-cooperation that would enable improved patient outcomes. Abstracted, to engage against regulatory frameworks 
-such as \textbf{HIPAA} and \textbf{GDPR} and gather new solutions and have in mind restrictions related to the 
-usage of traditional providing of data or even cloud storing that may suffer from scalability,  there comes the 
-urgent of improving the current technology landscape presented in the healthcare facilities.
+\subsection{Objectives and Finality}
 
-\subsection{Finality and Objectives}
+If putted into deep thinking, in the sphere of the modern new world, blockchain technology has loom as an
+auspicious solution to the given number of challenges faced by the healthcare industry.
+It's enormous traits can range from cryptographic security, transparency and immutability and ,by retaining such characteristics,
+it also seeks influence in securing and managing sensitive data.
+It aims to safeguard the gathering of data across a networking of nodes, making it tamper-proof and erasing the traditional single points of failure.
+In another deck of terms, blockchain can enable smooth data allocation between heterogeneous entities and yet making
+certain that only conceded parties have privileges to specific and maybe confidential pieces of information. \cite{hyperledger-hippa-and-gdpr}
 
-If putted into deep thinking, in the sphere of the modern new world, blockchain technology has loom as an 
-auspicious solution to the given number of challenges faced by the healthcare industry. It's enormous traits 
-can range from cryptographic security, transparency and immutability and ,by retaining such characteristics, 
-it also seeks influence in securing and managing sensitive data. It aims to safeguard the gathering of data 
-across a networking of nodes, making it tamper-proof and erasing the traditional single points of failure. In 
-another deck of terms, blockchain can enable smooth data allocation between heterogeneous entities and yet making 
-certain that only conceded parties have privileges to specific and maybe confidential pieces of information.
-
-Within the vast array of blockchain frameworks, \textbf{Hyperledger Fabric} looms as particularly well-suited 
-to addressing the specific needs of the healthcare environment. It provides the flexibility, scalability and 
-security that serve as the genesis block for enterprise-level applications. Unlike public blockchains such as 
-\textbf{Bitcoin} or \textbf{Ethereum}, \textbf{Hyperledger Fabric} permissioned model allows more control over 
-access to the network, ensuring that only trusted participants are allowed to validate and access data. This is
-a crucial feature in healthcare, where strict privacy regulations and the need for secure, authorized data 
+Within the vast array of blockchain frameworks, Hyperledger Fabric looms as particularly well-suited
+to addressing the specific needs of the healthcare environment.
+It provides the flexibility, scalability and security that serve as the genesis block for enterprise-level applications.
+Unlike public blockchains such as Bitcoin or Ethereum, Hyperledger Fabric permissioned model allows more control over
+access to the network, ensuring that only trusted participants are allowed to validate and access data.
+This is a crucial feature in healthcare, where strict privacy regulations and the need for secure, authorized data
 sharing are very important, not speaking about the need of on premise implementations which are also very possible
 with this framework \cite{btc} \cite{hyperledger}.
 
-\textbf{Hyperledger Fabric's} modular architecture also enables organizations to customize their networks to 
-meet specific needs. It can be used for medical record management, pharmaceutical supply chain tracking, or 
-patient identity verification, the platform can be adapted to a variety of use cases. This flexibility not only 
-facilitates innovation but also supports the integration of blockchain technology with existing legacy systems 
-which reduces the friction associated with technological adoption in healthcare settings.
+Hyperledger Fabric's modular architecture also enables organizations to customize their networks to
+meet specific needs.
+It can be used for medical record management, pharmaceutical supply chain tracking, or patient identity verification, the platform can be adapted to a variety of use cases.
+This flexibility not only facilitates innovation but also supports the integration of blockchain technology with existing legacy systems
+which reduces the friction associated with technological adoption in healthcare settings. \cite{hyperledger-hippa-and-gdpr}
 
-The research and project is motivated by the growing recognition of the transformative potential of blockchain
-and also by the major other main technologies used currently in the market. With frequency, lots of people discuss 
-the matter of decentralization, but lack on the sphere of trying to solve the problem in hands. When there is a 
-depth relation within the creation of an conjunction between centralized and more decentralized technologies, we 
-get the means to empower healthcare institutions to face their real problems. While blockchain has already been 
-explored in sectors such as finance and supply chain management, it's application in the healthcare sector remain 
-relatively fledgling. Nevertheless, early trials and implementations have been showing promising in aprimoring 
-data security, interoperability and collaboration between multiple organizations or even 
+This investigation and the whole project emerges from the rising knowledge around the potential of the blockchain and other technologies
+that are used currently.
+With frequency, lots of people discuss the matter of decentralization, but lack on the sphere of trying to solve the problem in hands.
+When there is a depth relation within the creation of a conjunction between centralized and more decentralized technologies, we
+get the means to empower healthcare institutions to face their real problems.
+While blockchain has already been explored in sectors such as finance and supply chain management, it's application in the healthcare sector remain
+relatively fledgling.
+Nevertheless, early trials and implementations have been showing promising in primrosing data security,
+interoperability and collaboration between multiple organizations or even
 stakeholders \cite{blockchain-in-finance} \cite{blockchain-in-supply-chain}.
 
-The reliance from the healthcare on trust makes it an ideal candidate for the blockchain landscape, even 
-more if there is careful thinking about the need of securing and verifying sensitive patient data. However, 
-deploying such complex system in the healthcare context does not cease to be very challenging and demanding. A lot
-of possible barriers to achieve this can be the Technical, regulatory, and operational spheres 
-of the sector. Scalability is also another dual knife problem, and remains as so in large healthcare
-environments with enormous and vast amounts of information and high transaction volumes. This is a huge concern 
-in both worlds since, within a blockchain there is the need of careful thinking such that there is the concern 
-regarding the degree of consensus which delays requests out. Furthermore, the integration of blockchain with 
-legacy systems and compliance with existing regulatory frameworks must be thoroughly evaluated.
+The reliance from the healthcare on trust makes it an ideal candidate for the blockchain landscape, even
+more if there is careful thinking about the need of securing and verifying sensitive patient data.
+However,deploying such complex system in the healthcare context does not cease to be very challenging and demanding.
+A lot of possible barriers to achieve this can be the Technical, regulatory, and operational spheres
+of the sector.
+Scalability is also another dual knife problem, and remains as so in large healthcare
+environments with enormous and vast amounts of information and high transaction volumes.
+This is a huge concern in both worlds since, within a blockchain there is the need of careful thinking such that there is the concern
+regarding the degree of consensus which delays requests out.
+Furthermore, the integration of blockchain with legacy systems and compliance with existing regulatory frameworks must be thoroughly evaluated. \cite{healthcare-it-trust} \cite{healthcare-blockchain-scalability}
 
-This thesis is driven by a desire to explore these challenges and opportunities in depth. Specifically, 
-it seeks to understand how Hyperledger Fabric can be designed, implemented, and deployed to address the critical 
-needs of healthcare organizations. By investigating the ways of deploying a private blockchain network within 
-healthcare systems.
+This thesis is driven by a desire to explore these challenges and opportunities in depth.
+Specifically,it seeks to understand how Hyperledger Fabric can be designed, implemented, and deployed to address the critical
+needs of healthcare organizations.
+By investigating the ways of deploying a private blockchain network within healthcare systems.
 
-This research aims to answer the following key questions:
+With this in mind, investigation questions that this work pretends to answer are the following:
 \begin{enumerate}
 \item \textbf{"How can a private blockchain network be utilized to improve data integrity, security, flexibility, and collaboration within the healthcare ecosystem?"}
 \item \textbf{"What kind of infrastructure design is necessary to support a blockchain solution in such a vast and complex environment as healthcare?"}
 \end{enumerate}
 
-This questions are imposed, so that it becomes more evident in a qualitative way the achievement of the result
-in mind. Further assumptions about actual quantitative goals must be ensured as the thesis goes along but answering
+These questions are imposed, so that it becomes more evident in a qualitative way the achievement of the result
+in mind.
+Further assumptions about actual quantitative goals must be ensured as the thesis goes along but answering
 this questions is the basis to come up with a suited solution in practical but also in theoretical knowledge terms.
 
-As obvious as it may be, every research must have it's own objectives and this one could not be different, 
-specially this one where there is the possibility to gather multiple objectives due to the countless numbers 
-of opportunities and challenges that could be faced regarding this procedure of recursion to the blockchain. This 
-becomes even more clear according to the area of investigation which is healthcare, a institution that 
-depending of the department becomes a high level risk sector to face, not only because of that but also mainly 
-because of it's many problems, it's public/private nature that is always changing, the regulations required 
-to be apart of the procedures, the continuous innovation, the fact that is researched by a vast number of 
-different areas, the number of stakeholders involved, the number of organizations involved and the change 
-resistance. With this in mind, the objectives covered will be the most general possible and they will aim to 
-solve the majority of problems that the project may face and with this there are a lot of risk as well but those 
-will be also described further in this work. The objectives that are intended to be reached in the realm of this 
+As obvious as it may be, every research must have its own objectives and this one could not be different,
+specially this one where there is the possibility to gather multiple objectives due to the countless numbers
+of opportunities and challenges that could be faced regarding this procedure of recursion to the blockchain.
+This becomes even more clear according to the area of investigation which is healthcare, an institution that
+depending on the department becomes a high level risk sector to face, not only because of that but also mainly
+because of it's many problems, it's public/private nature that is always changing, the regulations required
+to be part of the procedures, the continuous innovation, the fact that is researched by a vast number of
+different areas, the number of stakeholders involved, the number of organizations involved and the change
+resistance.
+With this in mind, the objectives covered will be the most general possible, and they will aim to
+solve the majority of problems that the project may face and with this there are a lot of risks as well but those
+will be also described further in this work.
+The objectives that are intended to be reached in the realm of this
 work are the following:
 
 \subsection{Document Structure}
-This dissertation is divided into several chapters: "Introduction,State of Art,Methodologies and Tools, Use 
+This dissertation is divided into several chapters: "Introduction,State of Art,Methodologies and Tools, Use
 Cases,Discussion,Conclusions," and "References.".
 
-\textbf {Introduction}: This chapter is reserved to give a contextualization and expose what is about 
-to be delved. This is accomplished by explaining the context, motivation, finality,objectives and document 
+\textbf {Introduction}: This chapter is reserved to give a contextualization and expose what is about
+to be delved. This is accomplished by explaining the context, motivation, finality,objectives and document
 structure.
 
-\textbf{State of Art}: Within this chapter there is the supply of the most important theoretical concepts that 
+\textbf{State of Art}: Within this chapter there is the supply of the most important theoretical concepts that
 are pretty relevant for the case under scrutiny.
 
-\textbf{Approach}: In this chapter, there is the explanation of DSR and how it is being used currently in general 
-terms, the explanation of SWOT analysis, the expected project plan, a list of risks, and the relevant tools 
+\textbf{Approach}: In this chapter, there is the explanation of DSR and how it is being used currently in general
+terms, the explanation of SWOT analysis, the expected project plan, a list of risks, and the relevant tools
 divided by area of concepts (blockchain, microservices, analytics and web development).
 
-\textbf {Use Cases}: On this section, there will be mention of two major use cases that were conceived during the 
+\textbf {Use Cases}: On this section, there will be mention of two major use cases that were conceived during the
 project, standing as the biggest font of knowledge of this work. In each section, objectives, plans, discussions,
-and even conclusions will be conducted. Also, one of the use cases is more practical, having topics that are more 
+and even conclusions will be conducted. Also, one of the use cases is more practical, having topics that are more
 specific to it's sphere, such as implementations, solution comparison, approach, and final architecture.
 
 \textbf{Discussions}: This represents the discussion of the whole project and not a single use case. This is
  important to reflect over the results obtained as a whole and not only specific to a single use case.
 
-\textbf {Conclusions}: In the conclusions section, there will be plenty of views around final considerations, 
-project limitations, and future work. This will be done in the context of the general project, since every use 
+\textbf {Conclusions}: In the conclusions section, there will be plenty of views around final considerations,
+project limitations and future work. This will be done in the context of the general project, since every use
 case already speaks about such things.
 
-\textbf{References}: The references chapter will be around the bibliographical references that were 
+\textbf{References}: The references chapter will be around the bibliographical references that were
 used along the dissertation.
 
 \subsection{Answer Research Questions}\mbox{}\\
-\textbf{Answer Research Questions} is the basis of the project, if answered this question will generate 
-practical and also theoretical insights that will foster innovation. The questions mentioned here, are the ones 
+\textbf{Answer Research Questions} is the basis of the project, if answered this question will generate
+practical and also theoretical insights that will foster innovation. The questions mentioned here, are the ones
 that were acknowledged in the section 3, being those \textbf{”How can a private blockchain network be utilized to
-improve data integrity, security, flexibility, and collaboration within the healthcare ecosystem?”} 
-(question 1). And \textbf{”What kind of infrastructure design is necessary to support a blockchain solution 
-in such a vast and complex environment as healthcare?”} (question 2), respectively. As it will be shown further 
+improve data integrity, security, flexibility, and collaboration within the healthcare ecosystem?”}
+(question 1). And \textbf{”What kind of infrastructure design is necessary to support a blockchain solution
+in such a vast and complex environment as healthcare?”} (question 2), respectively. As it will be shown further
 in this thesis, to gather the information to answer such answers, there will be mentioned the existence of 2 major
-use cases: One works more as a extension, altought inspected firstly and the second one, which is conducted using 
-\textbf{DSR}(Design Science Research), is what is required as genesis block for creating use cases that can then 
-be extended using the first use case. In other terms, the first one is mainly theoretical and the second one 
-try's to solve a real world problem within the healthcare realm. Answering those questions, not only is important 
-for the thesis itself but also for the healthcare sphere and other contexts that could adopt the same logic to 
-solve their problems, being essential answering them as such occurs where both practical and theoretical 
-inceptions are very important. Making the second project more appealing due to having proven results to achieve a 
+use cases: One works more as an extension, although inspected firstly and the second one, which is conducted using
+DSR(Design Science Research), is what is required as genesis block for creating use cases that can then
+be extended using the first use case. In other terms, the first one is mainly theoretical and the second one
+try's to solve a real world problem within the healthcare realm. Answering those questions, not only is important
+for the thesis itself but also for the healthcare sphere and other contexts that could adopt the same logic to
+solve their problems, being essential answering them as such occurs where both practical and theoretical
+inceptions are very important. Making the second project more appealing due to having proven results to achieve a
 given solution.
-Despite this being the main objective, inside of the second use case there are others that are more quantitative, 
-thereby more concrete. Some can be used as metrics in other contexts, others may not but the importance of these 
-questions remains important altought not that much specific when it comes to the refereed metrics and even the 
+Despite this being the main objective, inside the second use case there are others that are more quantitative,
+thereby more concrete. Some can be used as metrics in other contexts, others may not but the importance of these
+questions remain important although not that much specific when it comes to the refereed metrics and even the
 requirements disposed in the use case section.
 
-Both questions are answered by using the conjunction of both research prior use case and by delving into the 
-use case itself, altought it is believed that the use cases represent better the potentialities of this work 
-because the theory by itself sometimes is not sufficient to cover vast cases, such the case of the sector under 
+Both questions are answered by using the conjunction of both research prior use case and by delving into the
+use case itself, although it is believed that the use cases represent better the potentialities of this work
+because the theory by itself sometimes is not sufficient to cover vast cases, such the case of the sector under
 study, more concretely, the healthcare environment.
 
 \subsection{Contribute}\mbox{}\\
-Another objective that stands out with honor is the honored \textbf{contribution}. Despite this being obvious 
-and also be part of the \textbf{DSR} methodology, it is still important to mention concretely this as an 
+Another objective that stands out with honor is the honored contribution. Despite this being obvious
+and also be part of the DSR methodology, it is still important to mention concretely this as an
 objective.
